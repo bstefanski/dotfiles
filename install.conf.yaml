@@ -3,5 +3,6 @@
     ~/.gitconfig: git/gitconfig
     ~/.tmux.conf: tmux/tmux.conf
     ~/bin: bin
+    ~/.atom: atom
 - shell:
   - "git submodule update --init --recursive"

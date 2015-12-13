@@ -1,0 +1,82 @@
+"*":
+  "exception-reporting":
+    userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
+  welcome:
+    showOnStartup: false
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "metrics"
+      "linter-jscs"
+      "vim-mode"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    preferredLineLength: 120
+    invisibles: {}
+    fontFamily: "Mono"
+    showIndentGuide: true
+    tabType: "soft"
+  "atom-beautify":
+    _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
+    analytics: false
+  "autocomplete-plus": {}
+  "vim-mode":
+    useSmartcaseForSearch: true
+    startInInsertMode: true
+  "atom-lint": {}
+  "fuzzy-finder": {}
+  "markdown-preview": {}
+  "spell-check": {}
+  tabs: {}
+  linter:
+    showErrorPanel: false
+  "project-manager": {}
+  "linter-rubocop":
+    command: "/home/bartekmanj/.rvm/gems/ruby-2.2.1@global/wrappers/rubocop"
+  "linter-reek":
+    executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.2.1@global/wrappers/reek"
+  pigments: {}
+  "linter-scss-lint":
+    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/wrappers/scss-lint"
+  "linter-xmllint": {}
+  "linter-docker":
+    executablePath: "/usr/bin/dockerlint"
+  "linter-bootlint":
+    executablePath: "/usr/bin/bootlint"
+  "linter-jshint":
+    executablePath: "/usr/bin/jshint"
+    lintInlineJavaScript: true
+  "linter-jscs": {}
+  "linter-flow":
+    executablePath: "/usr/bin/flow"
+    enableAll: true
+  "linter-shellcheck": {}
+".erb.html.text":
+  editor:
+    preferredLineLength: 120
+".source.stylus":
+  editor:
+    preferredLineLength: 120
+".source.strings":
+  editor:
+    preferredLineLength: 120
+".objcpp.source":
+  editor:
+    preferredLineLength: 120
+".objc.source":
+  editor:
+    preferredLineLength: 120
+".ruby.source":
+  editor:
+    preferredLineLength: 120
+".scala.source":
+  editor:
+    preferredLineLength: 120
+    tabLength: 4
+".gfm.source":
+  editor:
+    preferredLineLength: 120
