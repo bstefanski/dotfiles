@@ -10,3 +10,7 @@ atom/.npm
 atom/atom-shell
 atom/blob-store
 atom/electron
+
+# fish
+fish_history
+fish_read_history

@@ -13,5 +13,7 @@
     ~/.tigrc: tigrc
     ~/.vimrc: vimrc
     ~/.yaourtrc: yaourtrc
+    ~/.config/fish: fish
+    ~/.config/omf: omf
 - shell:
   - "git submodule update --init --recursive"
