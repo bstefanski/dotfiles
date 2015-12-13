@@ -30,3 +30,5 @@ set __fish_git_prompt_char_upstream_diverged '><'
 
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
+
+set fish_greeting
