@@ -58,25 +58,28 @@
 ".erb.html.text":
   editor:
     preferredLineLength: 120
-".source.stylus":
+".fish.source":
   editor:
     preferredLineLength: 120
-".source.strings":
-  editor:
-    preferredLineLength: 120
-".objcpp.source":
-  editor:
-    preferredLineLength: 120
-".objc.source":
-  editor:
-    preferredLineLength: 120
-".ruby.source":
+".gfm.source":
   editor:
     preferredLineLength: 120
 ".scala.source":
   editor:
     preferredLineLength: 120
     tabLength: 4
-".gfm.source":
+".ruby.source":
+  editor:
+    preferredLineLength: 120
+".objc.source":
+  editor:
+    preferredLineLength: 120
+".objcpp.source":
+  editor:
+    preferredLineLength: 120
+".source.strings":
+  editor:
+    preferredLineLength: 120
+".source.stylus":
   editor:
     preferredLineLength: 120
