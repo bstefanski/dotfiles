@@ -1,5 +1,6 @@
 - clean: ['~']
 - link:
     ~/.gitconfig: git/gitconfig
+    ~/.tmux.conf: tmux/tmux.conf
 - shell:
   - "git submodule update --init --recursive"
