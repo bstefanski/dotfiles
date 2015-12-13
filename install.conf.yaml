@@ -1,3 +1,6 @@
-- clean: []
+- clean: ['~']
 - link: {}
-- shell: []
+- shell:
+  -
+    - "git submodule update --init --recursive"
+    - "Installing/updating submodules"
