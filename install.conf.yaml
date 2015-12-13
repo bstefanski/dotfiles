@@ -2,5 +2,6 @@
 - link:
     ~/.gitconfig: git/gitconfig
     ~/.tmux.conf: tmux/tmux.conf
+    ~/bin: bin
 - shell:
   - "git submodule update --init --recursive"
