@@ -1,0 +1,11 @@
+.apm/
+.node-gyp/
+compile-cache/
+npm-debug.log
+packages/
+projects.cson
+storage/
+.npm
+atom-shell
+blob-store
+electron
