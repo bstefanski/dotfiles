@@ -1,5 +1,5 @@
 [user]
-	name = Bartlomiej Stefanski
+    name = Bartlomiej Stefanski
     email = stefanskibartlomiej@gmail.com
 [color]
     ui = auto
@@ -67,9 +67,10 @@
     #what do I have in my toolbox?
     alias = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\\t => \\2/' | sort
 
-   # END OF GIT KURWA
+    # END OF GIT KURWA
 
-   upwith = !sh -c 'git checkout $0 && git purr && git checkout - && git rebase $0'
+    upwith = !sh -c 'git checkout $0 && git purr && git checkout - && git rebase $0'
+    
     push-for-review = push origin HEAD:refs/for/master
     push-for-review-develop = push origin HEAD:refs/for/develop
     push-as-draft = push origin HEAD:refs/drafts/master
@@ -83,6 +84,7 @@
 [core]
     editor = vim
     pager = less -r
+    excludesfile = /home/bartekmanj/.gitignore_global
 [push]
     default = simple
 [mergetool]
