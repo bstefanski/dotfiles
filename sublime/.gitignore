@@ -1,0 +1,8 @@
+.SublimeREPLHistory/
+Color\ Highlighter
+ColorPicker/
+*.last-run
+Gist.sublime-settings
+*.cache
+*.merged-ca-bundle
+*.user-ca-bundle

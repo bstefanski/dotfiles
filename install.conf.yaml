@@ -16,5 +16,6 @@
     ~/.yaourtrc: yaourtrc
     ~/.config/fish: fish
     ~/.config/omf: omf
+    ~/.config/sublime-text-3/Packages/User: sublime
 - shell:
   - "git submodule update --init --recursive"

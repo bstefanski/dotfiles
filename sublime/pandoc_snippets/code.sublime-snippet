@@ -1,0 +1,10 @@
+<snippet>
+	<description>Highlighted code</description>
+    <content><![CDATA[
+~~~~~~~~~~~~~~~~~~${1:syntax}
+$0
+~~~~~~~~~~~~~~~~~~${1/./~/g}
+]]></content>
+    <tabTrigger>pc</tabTrigger>
+    <scope>text.pandoc</scope>
+</snippet>

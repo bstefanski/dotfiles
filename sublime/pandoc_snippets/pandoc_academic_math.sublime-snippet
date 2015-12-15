@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1}\$ ${2}
+]]></content>
+    <tabTrigger>mat</tabTrigger>
+    <scope>text.pandoc</scope>
+    <description>Math based on LaTeX definition</description>
+</snippet>
