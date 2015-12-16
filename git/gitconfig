@@ -1,6 +1,7 @@
+[include]
+    path = .gitconfig.local
 [user]
     name = Bartlomiej Stefanski
-    email = stefanskibartlomiej@gmail.com
 [color]
     ui = auto
 [color "branch"]
@@ -70,7 +71,7 @@
     # END OF GIT KURWA
 
     upwith = !sh -c 'git checkout $0 && git purr && git checkout - && git rebase $0'
-    
+
     push-for-review = push origin HEAD:refs/for/master
     push-for-review-develop = push origin HEAD:refs/for/develop
     push-as-draft = push origin HEAD:refs/drafts/master
