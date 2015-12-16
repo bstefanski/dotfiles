@@ -12,7 +12,7 @@
     ]
     themes: [
       "atom-dark-ui"
-      "monokai"
+      "atom-dark-syntax"
     ]
   editor:
     preferredLineLength: 120

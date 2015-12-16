@@ -5,7 +5,6 @@ color-picker@2.0.14
 csscomb@0.3.1
 file-icons@1.6.13
 language-fish-shell@1.0.2
-git-blame@0.4.7
 highlight-line@0.11.0
 highlight-selected@0.11.1
 language-gitignore@0.2.0
