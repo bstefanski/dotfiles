@@ -4,9 +4,9 @@ atom-ternjs@0.11.3
 color-picker@2.0.14
 csscomb@0.3.1
 file-icons@1.6.13
-language-fish-shell@1.0.2
 highlight-line@0.11.0
 highlight-selected@0.11.1
+language-fish-shell@1.0.2
 language-gitignore@0.2.0
 language-scala@1.1.4
 linter@1.11.3
@@ -26,5 +26,6 @@ monokai@0.18.0
 pigments@0.19.3
 project-manager@2.6.5
 script@3.2.0
+split-diff@0.5.0
 vim-mode@0.63.0
 

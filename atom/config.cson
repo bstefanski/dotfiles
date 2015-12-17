@@ -55,31 +55,3 @@
     executablePath: "/usr/bin/flow"
     enableAll: true
   "linter-shellcheck": {}
-".erb.html.text":
-  editor:
-    preferredLineLength: 120
-".fish.source":
-  editor:
-    preferredLineLength: 120
-".gfm.source":
-  editor:
-    preferredLineLength: 120
-".scala.source":
-  editor:
-    preferredLineLength: 120
-    tabLength: 4
-".ruby.source":
-  editor:
-    preferredLineLength: 120
-".objc.source":
-  editor:
-    preferredLineLength: 120
-".objcpp.source":
-  editor:
-    preferredLineLength: 120
-".source.strings":
-  editor:
-    preferredLineLength: 120
-".source.stylus":
-  editor:
-    preferredLineLength: 120
