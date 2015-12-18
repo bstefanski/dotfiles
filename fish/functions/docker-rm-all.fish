@@ -1,3 +1,3 @@
-function docker_rm_all
+function docker-rm-all
 	docker rm (docker ps -a -q)
 end

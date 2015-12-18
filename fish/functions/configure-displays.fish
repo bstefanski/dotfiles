@@ -1,4 +1,4 @@
-function configure_displays
+function configure-displays
     set -l scr1
     set -l scr2
     set -l scr3

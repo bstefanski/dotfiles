@@ -1,3 +1,3 @@
-function docker_rmi_all
+function docker-rmi-all
 	docker rmi -f (docker images -q)
 end

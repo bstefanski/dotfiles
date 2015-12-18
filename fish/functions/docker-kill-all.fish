@@ -1,3 +1,3 @@
-function docker_kill_all
+function docker-kill-all
 	docker kill (docker ps -a -q)
 end
