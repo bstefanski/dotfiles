@@ -65,3 +65,24 @@ Install packages from the `package-list.txt`:
 ```bash
 npm install -g < npm/package-list.txt
 ```
+
+## arch
+
+Update package list:
+
+```
+pacman -Qqen > arch/pkglist.txt'
+pacman -Qqm > arch/pkglist-aur.txt'
+```
+
+Installing official packages:
+
+```bash
+pacman -S < arch/pkglist.txt
+```
+
+Installing AUR packages:
+
+```bash
+yaourt -S --noconfirm < arch/pkglist-aur.txt
+```
