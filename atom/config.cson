@@ -15,11 +15,12 @@
       "atom-dark-syntax"
     ]
   editor:
-    preferredLineLength: 120
     invisibles: {}
     fontFamily: "Mono"
     showIndentGuide: true
     tabType: "soft"
+    preferredLineLength: 120
+    softWrap: true
   "atom-beautify":
     _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
     analytics: false
