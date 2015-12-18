@@ -9,6 +9,7 @@
       "metrics"
       "linter-jscs"
       "vim-mode"
+      "spell-check"
     ]
     themes: [
       "atom-dark-ui"
