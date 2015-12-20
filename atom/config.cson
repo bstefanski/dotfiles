@@ -38,12 +38,12 @@
     showErrorPanel: false
   "project-manager": {}
   "linter-rubocop":
-    command: "/home/bartekmanj/.rvm/gems/ruby-2.2.1@global/wrappers/rubocop"
+    command: "/home/bartekmanj/.rvm/gems/ruby-2.2.4@global/wrappers/rubocop"
   "linter-reek":
-    executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.2.1@global/wrappers/reek"
+    executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.2.4@global/wrappers/reek"
   pigments: {}
   "linter-scss-lint":
-    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/wrappers/scss-lint"
+    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.2.4/lib/ruby/gems/2.2.0/wrappers/scss-lint"
   "linter-xmllint": {}
   "linter-docker":
     executablePath: "/usr/bin/dockerlint"
