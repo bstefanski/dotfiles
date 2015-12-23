@@ -57,3 +57,8 @@
     executablePath: "/usr/bin/flow"
     enableAll: true
   "linter-shellcheck": {}
+  "status-bar": {}
+  "tabs-to-spaces":
+    onSave: "untabify"
+  "trailing-spaces":
+    enableForCursorLines: true
