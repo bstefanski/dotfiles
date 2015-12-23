@@ -8,7 +8,6 @@
     disabledPackages: [
       "metrics"
       "linter-jscs"
-      "vim-mode"
       "spell-check"
     ]
     themes: [

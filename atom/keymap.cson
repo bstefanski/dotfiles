@@ -1,0 +1,2 @@
+'atom-text-editor.vim-mode.insert-mode':
+  'ctrl-c': 'core:copy'
