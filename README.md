@@ -96,6 +96,17 @@ curl -s api.sdkman.io | bash
 ```
 
 Update sdkman:
+
 ```
 sdk selfupdate
+```
+
+Install packages:
+
+```
+sdk install gradle
+sdk install groovy
+sdk install sbt
+sdk install scala
+sdk install kotlin
 ```

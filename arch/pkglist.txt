@@ -83,9 +83,7 @@ gnome-system-monitor
 gnome-vfs
 gparted
 gptfdisk
-gradle
 grep
-groovy
 grub
 gssproxy
 gst-libav
@@ -263,8 +261,6 @@ reiserfsprogs
 rsync
 s-nail
 samba
-sbt
-scala
 sddm
 sdparm
 sed

@@ -15,7 +15,6 @@ elementary-xfce-icons
 fish-git
 fontconfig-ubuntu
 freetype2-ubuntu
-giter8
 google-talkplugin
 gqlplus
 gtk-theme-elementary
