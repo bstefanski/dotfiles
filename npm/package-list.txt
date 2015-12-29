@@ -10,5 +10,6 @@ jshint
 npm
 sass
 scss-lint
+tldr
 yo
 
