@@ -86,3 +86,16 @@ Installing AUR packages:
 ```bash
 yaourt -S --noconfirm < arch/pkglist-aur.txt
 ```
+
+## jvm
+
+Install sdkman:
+
+```
+curl -s api.sdkman.io | bash
+```
+
+Update sdkman:
+```
+sdk selfupdate
+```

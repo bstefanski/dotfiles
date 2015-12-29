@@ -125,3 +125,5 @@ if [ -e /usr/share/terminfo/x/xterm-256color ] && [ "$COLORTERM" == "xfce4-termi
 fi
 
 . /home/bartekmanj/.rvm/scripts/rvm
+export SDKMAN_DIR="/home/bartekmanj/.sdkman"
+[[ -s "/home/bartekmanj/.sdkman/bin/sdkman-init.sh" ]] && source "/home/bartekmanj/.sdkman/bin/sdkman-init.sh"
