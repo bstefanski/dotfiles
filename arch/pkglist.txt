@@ -28,7 +28,6 @@ cronie
 cryptsetup
 ctags
 cython
-dconf-editor
 deadbeef
 deluge
 device-mapper
@@ -85,7 +84,6 @@ gnome-vfs
 gparted
 gptfdisk
 gradle
-grc
 grep
 groovy
 grub
@@ -181,8 +179,6 @@ manjaro-release
 manjaro-settings-manager
 manjaro-system
 manjaro-welcome
-mariadb
-mariadb-clients
 maven
 mdadm
 mdm-themes
@@ -197,7 +193,6 @@ mkinitcpio-nfs-utils
 mlocate
 mobile-broadband-provider-info
 modemmanager
-mongodb
 nbd
 ndiswrapper-utils
 netctl
@@ -226,6 +221,7 @@ os-prober
 pa-applet
 pacman
 pamac
+pandoc
 parcellite
 parted
 patch
@@ -240,6 +236,7 @@ perl-rename
 perl-xml-xpath
 pgadmin3
 pidgin
+pidgin-libnotify
 pkg-config
 pkgcacheclean
 plank
@@ -308,6 +305,7 @@ thunderbird-i18n-pl
 tidyhtml
 tig
 tk
+tlp
 tmux
 tree
 ttf-bitstream-vera

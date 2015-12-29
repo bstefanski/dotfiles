@@ -39,6 +39,7 @@ pktstat
 pmount
 profile-sync-daemon
 qnapi
+slack-desktop
 soapui
 spotify
 sublime-text-dev
