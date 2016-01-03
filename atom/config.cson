@@ -14,6 +14,9 @@
       "atom-dark-ui"
       "atom-dark-syntax"
     ]
+    packagesWithKeymapsDisabled: [
+      "sort-lines"
+    ]
   editor:
     invisibles: {}
     fontFamily: "Mono"
