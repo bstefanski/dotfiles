@@ -10,4 +10,6 @@ export SDKMAN_DIR=/home/bartekmanj/.sdkman
 
 export EDITOR="/usr/bin/vim"
 
+export BROWSER=/usr/bin/xdg-open
+
 [ -f ~/.bashrc ] && . ~/.bashrc

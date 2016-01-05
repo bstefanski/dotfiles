@@ -37,7 +37,7 @@ gem list --local --no-version --no-verbose > ruby/gem-list.txt
 Install gems from the `gem-list.txt`:
 
 ```
-gem install < ruby/gem-list.txt
+cat ruby/gem-list.txt | xargs gem install
 ```
 
 Update rvm:
