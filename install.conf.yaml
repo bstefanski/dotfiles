@@ -17,5 +17,6 @@
     ~/.config/fish: fish
     ~/.config/omf: omf
     ~/.config/sublime-text-3/Packages/User: sublime
+    ~/.config/redshift.conf: redshift.conf
 - shell:
   - "git submodule update --init --recursive"
