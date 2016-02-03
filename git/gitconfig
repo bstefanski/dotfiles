@@ -78,8 +78,8 @@
     push-as-draft-develop = push origin HEAD:refs/drafts/develop
     push-for-review-branch = !git push origin HEAD:refs/for/$1
     push-as-draft-branch = !git push origin HEAD:refs/drafts/$1
-    invite = "!sh -c \"ssh -p 29418 gerrit.touk.pl 'gerrit set-reviewers --add' $1 `git log | grep Change-Id | head -1 | tr -d ' ' | cut -d':' -f2`\""
-    review = "!sh -c \"ssh -p 29418 gerrit.touk.pl 'gerrit review --code-review' $1 `git rev-parse HEAD`\""
+    invite = "!sh -c \"ssh -p 29418 gerrit.touk.pl 'gerrit set-reviewers --add' $1 `git log -1 $2 | grep Change-Id | tr -d ' ' | cut -d':' -f2`\""
+    review = "!sh -c \"ssh -p 29418 gerrit.touk.pl 'gerrit review --code-review' $1 `git log -1 --pretty="%H" $2`\""
 [apply]
     whitespace = nowarn
 [core]
