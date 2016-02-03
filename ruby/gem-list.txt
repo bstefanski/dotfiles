@@ -12,6 +12,7 @@ coercible
 colored
 concord
 descendants_tracker
+did_you_mean
 diff-lcs
 equalizer
 executable-hooks
@@ -28,8 +29,11 @@ memoizable
 method_source
 mime-types
 mime-types-data
+minitest
+net-telnet
 parser
 posix-spawn
+power_assert
 powerpack
 private_attr
 procto
@@ -48,6 +52,7 @@ rvm
 sass
 scss_lint
 slop
+test-unit
 thread_safe
 tins
 unparser

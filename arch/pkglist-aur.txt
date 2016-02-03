@@ -7,7 +7,6 @@ anoise-community-extension2
 anoise-community-extension3
 anoise-gui
 anoise-media
-arj
 atom-editor
 chromium-pepper-flash
 doublecmd-gtk2-alpha-bin
@@ -27,7 +26,6 @@ kdiff3-qt
 kitematic
 libcurl-compat
 libechonest
-libindicator
 libxfcegui4
 mprime
 mutate-git

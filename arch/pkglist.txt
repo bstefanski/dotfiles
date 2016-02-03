@@ -3,6 +3,7 @@ activity-log-manager
 anki
 apache
 apache-ant
+arj
 aspell-en
 aspell-pl
 audacity
@@ -136,6 +137,7 @@ lib32-mesa-demos
 lib32-mesa-vdpau
 libdnet
 libdvdcss
+libindicator-gtk3
 libkeybinder3
 libmariadbclient
 libpng12
@@ -156,6 +158,10 @@ linux43
 linux43-headers
 linux43-ndiswrapper
 linux43-virtualbox-host-modules
+linux44
+linux44-headers
+linux44-ndiswrapper
+linux44-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -256,6 +262,7 @@ python-sip
 python-virtualenv
 python2-virtualenv
 qpdfview
+redshift
 refind-efi
 reiserfsprogs
 rsync
@@ -298,7 +305,7 @@ thunderbird
 thunderbird-i18n-en-gb
 thunderbird-i18n-en-us
 thunderbird-i18n-pl
-tidyhtml
+tidy
 tig
 tk
 tlp
@@ -312,6 +319,7 @@ ttf-indic-otf
 ttf-liberation
 tumbler
 unace
+uncrustify
 unetbootin
 unrar
 unzip
