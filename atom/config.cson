@@ -1,8 +1,9 @@
 "*":
-  "exception-reporting":
-    userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
-  welcome:
-    showOnStartup: false
+  "atom-beautify":
+    _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
+    analytics: false
+  "atom-lint": {}
+  "autocomplete-plus": {}
   core:
     audioBeep: false
     disabledPackages: [
@@ -10,57 +11,57 @@
       "linter-jscs"
       "spell-check"
     ]
+    packagesWithKeymapsDisabled: [
+      "sort-lines"
+      "split-diff"
+    ]
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"
     ]
-    packagesWithKeymapsDisabled: [
-      "sort-lines"
-    ]
   editor:
-    invisibles: {}
     fontFamily: "Mono"
-    showIndentGuide: true
-    tabType: "soft"
+    invisibles: {}
     preferredLineLength: 120
+    showIndentGuide: true
     softWrap: true
-  "atom-beautify":
-    _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
-    analytics: false
-  "autocomplete-plus": {}
-  "vim-mode":
-    useSmartcaseForSearch: true
-    startInInsertMode: true
-  "atom-lint": {}
+    tabType: "soft"
+  "exception-reporting":
+    userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
   "fuzzy-finder": {}
-  "markdown-preview": {}
-  "spell-check": {}
-  tabs: {}
   linter:
     showErrorPanel: false
-  "project-manager": {}
-  "linter-rubocop":
-    command: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/rubocop"
-  "linter-reek":
-    executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/reek"
-  pigments: {}
-  "linter-scss-lint":
-    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.2.0/wrappers/scss-lint"
-  "linter-xmllint": {}
-  "linter-docker":
-    executablePath: "/usr/bin/dockerlint"
   "linter-bootlint":
     executablePath: "/usr/bin/bootlint"
+  "linter-docker":
+    executablePath: "/usr/bin/dockerlint"
+  "linter-flow":
+    enableAll: true
+    executablePath: "/usr/bin/flow"
+  "linter-jscs": {}
   "linter-jshint":
     executablePath: "/usr/bin/jshint"
     lintInlineJavaScript: true
-  "linter-jscs": {}
-  "linter-flow":
-    executablePath: "/usr/bin/flow"
-    enableAll: true
+  "linter-reek":
+    executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/reek"
+  "linter-rubocop":
+    command: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/rubocop"
+  "linter-scss-lint":
+    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.2.0/wrappers/scss-lint"
   "linter-shellcheck": {}
+  "linter-xmllint": {}
+  "markdown-preview": {}
+  pigments: {}
+  "project-manager": {}
+  "spell-check": {}
   "status-bar": {}
+  tabs: {}
   "tabs-to-spaces":
     onSave: "untabify"
   "trailing-spaces":
     enableForCursorLines: true
+  "vim-mode":
+    startInInsertMode: true
+    useSmartcaseForSearch: true
+  welcome:
+    showOnStartup: false

@@ -71,8 +71,8 @@ cat npm/package-list.txt | sudo xargs npm -g install
 Update package list:
 
 ```
-pacman -Qqen > arch/pkglist.txt'
-pacman -Qqm > arch/pkglist-aur.txt'
+pacman -Qqen > arch/pkglist.txt
+pacman -Qqm > arch/pkglist-aur.txt
 ```
 
 Installing official packages:
