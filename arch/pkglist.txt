@@ -154,10 +154,6 @@ linux42
 linux42-headers
 linux42-ndiswrapper
 linux42-virtualbox-host-modules
-linux43
-linux43-headers
-linux43-ndiswrapper
-linux43-virtualbox-host-modules
 linux44
 linux44-headers
 linux44-ndiswrapper
