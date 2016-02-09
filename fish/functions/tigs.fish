@@ -1,3 +1,3 @@
 function tigs
-	tig status
+  tig status $argv
 end

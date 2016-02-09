@@ -1,3 +1,3 @@
 function tiga
-	tig --all
+  tig --all $argv
 end
