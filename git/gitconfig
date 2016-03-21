@@ -27,6 +27,10 @@
     br = branch
     diff = diff --word-diff
     dc = diff --cached
+    rb = rebase
+    rbi = rebase -i
+    rbc = rebase --continue
+    rba = rebase --abort
 
     # START OF GIT KURWA
     hist = log --pretty=format:'%Cred%h%Creset %C(bold blue)<%an>%Creset%C(yellow)%d%Creset %Cgreen(%cr)%Creset%n%w(80,8,8)%s' --graph
@@ -94,3 +98,5 @@
     tool = kdiff3
 [help]
     autocorrect = 1
+[mergetool "kdiff3NoAuto"]
+	cmd = kdiff3 --L1 \"$MERGED (Base)\" --L2 \"$MERGED (Local)\" --L3 \"$MERGED (Remote)\" -o \"$MERGED\" \"$BASE\" \"$LOCAL\" \"$REMOTE\"
