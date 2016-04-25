@@ -1,5 +1,6 @@
 acpid
 activity-log-manager
+android-tools
 anki
 apache
 apache-ant
@@ -135,6 +136,7 @@ less
 lib32-gtk2
 lib32-mesa-demos
 lib32-mesa-vdpau
+libdbusmenu-gtk2
 libdnet
 libdvdcss
 libindicator-gtk3
@@ -154,10 +156,10 @@ linux42
 linux42-headers
 linux42-ndiswrapper
 linux42-virtualbox-host-modules
-linux44
-linux44-headers
-linux44-ndiswrapper
-linux44-virtualbox-host-modules
+linux45
+linux45-headers
+linux45-ndiswrapper
+linux45-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -255,9 +257,11 @@ python-pip
 python-pygments
 python-pyqt4
 python-sip
+python-sqlparse
 python-virtualenv
 python2-virtualenv
 qpdfview
+rbutil
 redshift
 refind-efi
 reiserfsprogs
@@ -413,4 +417,5 @@ xz
 yaourt
 zd1211-firmware
 zeitgeist
+zeitgeist-explorer
 zip

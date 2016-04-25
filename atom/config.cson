@@ -1,7 +1,8 @@
 "*":
   "atom-beautify":
-    _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
-    analytics: false
+    general:
+      _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
+      analytics: false
   "atom-lint": {}
   "autocomplete-plus": {}
   core:
@@ -24,6 +25,7 @@
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
+    showInvisibles: true
     softWrap: true
     tabType: "soft"
   "exception-reporting":

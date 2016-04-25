@@ -29,3 +29,8 @@ ehthumbs.db
 Thumbs.db
 
 nohup.out
+
+# idea #
+########
+*.ipr
+*.iws
