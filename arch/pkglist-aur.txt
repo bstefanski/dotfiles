@@ -22,12 +22,12 @@ jdk
 jdk6
 jdk7
 jmtpfs
-jreen
 kdiff3-qt
 kitematic
 libcurl-compat
 libxfcegui4
 libzeitgeist
+mattermost-desktop
 moka-icon-theme-git
 mprime
 mutate-git
@@ -61,5 +61,6 @@ winusb
 xerox-phaser-3040
 xfce-theme-greybird
 xfce4-quicklauncher-plugin
+yabar
 z-git
 zeitgeist-datasources

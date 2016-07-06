@@ -1,0 +1,829 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="initializr" values="Project,Project" collectionTime="1466403130319" />
+      <project id="learning-akka" values="Project,Project" collectionTime="0" />
+      <project id="touk-superpom" values="Project,Project" collectionTime="1467017445996" />
+      <project id="VendingMachineKata" values="Project,Project" collectionTime="1435049318857" />
+      <project id="service-questionaire-GenerateUrl" values="Project,Project" collectionTime="1436195964654" />
+      <project id="demo-spring-boot" values="Project,Project" collectionTime="1431631913212" />
+      <project id="sag_rekomendacje" values="Project,Project" collectionTime="0" />
+      <project id="service-group-findGroup" values="Project,Project" collectionTime="1438071588273" />
+      <project id="gsp_spark_without_sharing" values="Project,Project" collectionTime="1429735230082" />
+      <project id="questionaire-api" values="Project,Project" collectionTime="1436521212565" />
+      <project id="mvno" values="Project,Project" collectionTime="1465978553884" />
+      <project id="untitled" values="Project,Project" collectionTime="0" />
+      <project id="spmf" values="Project,Project" collectionTime="0" />
+      <project id="findgroup-impl" values="Project,Project" collectionTime="1444727353463" />
+      <project id="dbf" values="Project,Project" collectionTime="0" />
+      <project id="Validation" values="Project,Project" collectionTime="0" />
+      <project id="wdm" values="Project,Project" collectionTime="0" />
+      <project id="ctrl-pkw" values="Project,Project" collectionTime="1435823875452" />
+      <project id="questionaire-impl" values="Project,Project" collectionTime="1447423326666" />
+      <project id="tt" values="Project,Project" collectionTime="1459845282014" />
+      <project id="generic" values="Project,Project" collectionTime="1445438584572" />
+      <project id="pc" values="Project,Project" collectionTime="1455536284162" />
+      <project id="channel-utils-questionaire" values="Project,Project" collectionTime="1435910996026" />
+      <project id="springboottest" values="Project,Project" collectionTime="1429125804161" />
+      <project id="remove" values="Project,Project" collectionTime="0" />
+      <project id="commons" values="Project,Project" collectionTime="1458203786031" />
+      <project id="cpi" values="Project,Project" collectionTime="0" />
+      <project id="weka-dev" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" collectionTime="0" />
+      <project id="guiceTest" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" collectionTime="0" />
+      <project id="solarium-main" values="Project,Project" collectionTime="1455001559225" />
+      <project id="adapter-usageinfo" values="Project,Project" collectionTime="1435836916646" />
+      <project id="tut-data-initial" values="Project,Project" collectionTime="0" />
+      <project id="tut-data-5-complete" values="Project,Project" collectionTime="0" />
+      <project id="bootzooka-root" values="Project,Project" collectionTime="0" />
+      <project id="bootzooka" values="Project,Project" collectionTime="1430853648327" />
+      <project id="channel-utils-LocationCheck" values="Project,Project" collectionTime="1443197471535" />
+      <project id="xml-utils" values="Project,Project" collectionTime="1458300672969" />
+      <project id="esb-parent" values="Project,Project" collectionTime="1465218606198" />
+      <project id="codebrag-root" values="Project,Project,Directory" collectionTime="1430915899331" />
+      <project id="validating-filter" values="Project,Project" collectionTime="1458204519104" />
+      <project id="android" values="Project,Project" collectionTime="1448628384973" />
+      <project id="profilowanie.iml" values="Project,Project" collectionTime="0" />
+      <project id="WordCountHadoop2" values="Project,Project" collectionTime="0" />
+      <project id="preprod" values="Project,Project" collectionTime="1447846189330" />
+      <project id="test_1" values="Project,Project" collectionTime="0" />
+      <project id="notifier_2" values="Project,Project" collectionTime="1467797302907" />
+      <project id="hadoop_test_1" values="Project,Project" collectionTime="0" />
+      <project id="gsp-hadoop" values="Project,Project" collectionTime="1430851700030" />
+      <project id="logging-filter" values="Project,Project" collectionTime="1448463028856" />
+      <project id="abc2" values="Project,Project" collectionTime="0" />
+      <project id="src" values="Project,Project" collectionTime="0" />
+      <project id="password" values="Project,Project" collectionTime="0" />
+      <project id="gn" values="Project,Project" collectionTime="0" />
+      <project id="esb-number-forward" values="Project,Project" collectionTime="1448626296647" />
+      <project id="shiro-root-1.2.2" values="Project,Project" collectionTime="0" />
+      <project id="spring-petclinic" values="Project,Project" collectionTime="1430852939625" />
+      <project id="HadoopGsp" values="Project,Project" collectionTime="1429287962519" />
+      <project id="java" values="Project,Project" collectionTime="1448635949702" />
+      <project id="projekt" values="Project,Project" collectionTime="0" />
+      <project id="notifier" values="Project,Project" collectionTime="1454666041106" />
+      <project id="db_emisje" values="Project,Project" collectionTime="0" />
+      <project id="gsp" values="Project,Project" collectionTime="1429814787209" />
+      <project id="remove_3" values="Project,Project" collectionTime="0" />
+      <project id="remove_2" values="Project,Project" collectionTime="0" />
+      <project id="service-questionaire-generateurl" values="Project,Project" collectionTime="1436195994134" />
+      <project id="parent-pom" values="Project,Project" collectionTime="1467640756606" />
+      <project id="gradle" values="Project,Project" collectionTime="1429728132573" />
+      <project id="acceptanceTests" values="Project,Project" collectionTime="1440492631087" />
+      <project id="abc" values="Project,Project" collectionTime="0" />
+      <project id="remove_4" values="Project,Project" collectionTime="0" />
+      <project id="profilowanie-projekt" values="Project,Project" collectionTime="0" />
+      <project id="common" values="Project,Project" collectionTime="1458133964630" />
+      <project id="sudoku" values="Project,Project" collectionTime="0" />
+      <project id="spark-parent" values="Project,Project" collectionTime="0" />
+      <project id="mantis-sms-notification" values="Project,Project" collectionTime="1448635953022" />
+      <project id="gsp_spark" values="Project,Project" collectionTime="1429728115506" />
+      <project id="test" values="Project,Project" collectionTime="1431592787246" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="initializr" values="ECMAScript 5.1" collectionTime="1466403130319" />
+      <project id="learning-akka" values="DEFAULT" collectionTime="0" />
+      <project id="touk-superpom" values="ECMAScript 5.1" collectionTime="1467017445996" />
+      <project id="VendingMachineKata" values="DEFAULT" collectionTime="1435049318857" />
+      <project id="service-questionaire-GenerateUrl" values="DEFAULT" collectionTime="1436195964654" />
+      <project id="demo-spring-boot" values="DEFAULT" collectionTime="1431631913212" />
+      <project id="sag_rekomendacje" values="DEFAULT" collectionTime="0" />
+      <project id="service-group-findGroup" values="DEFAULT" collectionTime="1438071588273" />
+      <project id="gsp_spark_without_sharing" values="DEFAULT" collectionTime="1429735230082" />
+      <project id="questionaire-api" values="DEFAULT" collectionTime="1436521212565" />
+      <project id="mvno" values="ECMAScript 5.1" collectionTime="1465978553884" />
+      <project id="untitled" values="DEFAULT" collectionTime="0" />
+      <project id="spmf" values="DEFAULT" collectionTime="0" />
+      <project id="findgroup-impl" values="DEFAULT" collectionTime="1444727353463" />
+      <project id="dbf" values="DEFAULT" collectionTime="0" />
+      <project id="Validation" values="DEFAULT" collectionTime="0" />
+      <project id="wdm" values="DEFAULT" collectionTime="0" />
+      <project id="ctrl-pkw" values="DEFAULT" collectionTime="1435823875452" />
+      <project id="questionaire-impl" values="ECMAScript 5.1" collectionTime="1447423326666" />
+      <project id="tt" values="ECMAScript 5.1" collectionTime="1459845282014" />
+      <project id="generic" values="DEFAULT" collectionTime="1445438584572" />
+      <project id="pc" values="ECMAScript 5.1" collectionTime="1455536284162" />
+      <project id="channel-utils-questionaire" values="DEFAULT" collectionTime="1435910996026" />
+      <project id="springboottest" values="DEFAULT" collectionTime="1429125804161" />
+      <project id="remove" values="DEFAULT" collectionTime="0" />
+      <project id="commons" values="ECMAScript 5.1" collectionTime="1458203786031" />
+      <project id="cpi" values="DEFAULT" collectionTime="0" />
+      <project id="weka-dev" values="DEFAULT" collectionTime="0" />
+      <project id="guiceTest" values="DEFAULT" collectionTime="0" />
+      <project id="solarium-main" values="ECMAScript 5.1" collectionTime="1455001559225" />
+      <project id="adapter-usageinfo" values="DEFAULT" collectionTime="1435836916647" />
+      <project id="tut-data-initial" values="DEFAULT" collectionTime="0" />
+      <project id="tut-data-5-complete" values="DEFAULT" collectionTime="0" />
+      <project id="bootzooka-root" values="DEFAULT" collectionTime="0" />
+      <project id="bootzooka" values="DEFAULT" collectionTime="1430853648327" />
+      <project id="channel-utils-LocationCheck" values="DEFAULT" collectionTime="1443197471535" />
+      <project id="xml-utils" values="ECMAScript 5.1" collectionTime="1458300672969" />
+      <project id="esb-parent" values="ECMAScript 5.1" collectionTime="1465218606198" />
+      <project id="codebrag-root" values="DEFAULT" collectionTime="1430915899331" />
+      <project id="validating-filter" values="ECMAScript 5.1" collectionTime="1458204519104" />
+      <project id="android" values="ECMAScript 5.1" collectionTime="1448628384973" />
+      <project id="profilowanie.iml" values="DEFAULT" collectionTime="0" />
+      <project id="WordCountHadoop2" values="DEFAULT" collectionTime="0" />
+      <project id="preprod" values="ECMAScript 5.1" collectionTime="1447846189330" />
+      <project id="test_1" values="DEFAULT" collectionTime="0" />
+      <project id="notifier_2" values="ECMAScript 5.1" collectionTime="1467797302907" />
+      <project id="hadoop_test_1" values="DEFAULT" collectionTime="0" />
+      <project id="gsp-hadoop" values="DEFAULT" collectionTime="1430851700030" />
+      <project id="logging-filter" values="ECMAScript 5.1" collectionTime="1448463028856" />
+      <project id="abc2" values="DEFAULT" collectionTime="0" />
+      <project id="src" values="DEFAULT" collectionTime="0" />
+      <project id="password" values="DEFAULT" collectionTime="0" />
+      <project id="gn" values="DEFAULT" collectionTime="0" />
+      <project id="esb-number-forward" values="ECMAScript 5.1" collectionTime="1448626296647" />
+      <project id="shiro-root-1.2.2" values="DEFAULT" collectionTime="0" />
+      <project id="spring-petclinic" values="DEFAULT" collectionTime="1430852939625" />
+      <project id="HadoopGsp" values="DEFAULT" collectionTime="1429287962519" />
+      <project id="java" values="ECMAScript 5.1" collectionTime="1448635949702" />
+      <project id="projekt" values="DEFAULT" collectionTime="0" />
+      <project id="notifier" values="ECMAScript 5.1" collectionTime="1454666041106" />
+      <project id="db_emisje" values="DEFAULT" collectionTime="0" />
+      <project id="gsp" values="DEFAULT" collectionTime="1429814787209" />
+      <project id="remove_3" values="DEFAULT" collectionTime="0" />
+      <project id="remove_2" values="DEFAULT" collectionTime="0" />
+      <project id="service-questionaire-generateurl" values="DEFAULT" collectionTime="1436195994134" />
+      <project id="parent-pom" values="ECMAScript 5.1" collectionTime="1467640756606" />
+      <project id="gradle" values="DEFAULT" collectionTime="1429728132573" />
+      <project id="acceptanceTests" values="DEFAULT" collectionTime="1440492631087" />
+      <project id="abc" values="DEFAULT" collectionTime="0" />
+      <project id="remove_4" values="DEFAULT" collectionTime="0" />
+      <project id="profilowanie-projekt" values="DEFAULT" collectionTime="0" />
+      <project id="common" values="ECMAScript 5.1" collectionTime="1458133964630" />
+      <project id="sudoku" values="DEFAULT" collectionTime="0" />
+      <project id="spark-parent" values="DEFAULT" collectionTime="0" />
+      <project id="mantis-sms-notification" values="ECMAScript 5.1" collectionTime="1448635953022" />
+      <project id="gsp_spark" values="DEFAULT" collectionTime="1429728115506" />
+      <project id="test" values="DEFAULT" collectionTime="1431592787246" />
+    </group>
+    <group name="vcs">
+      <project id="spark-parent" values="Git" collectionTime="0" />
+      <project id="password" values="Git" collectionTime="0" />
+      <project id="projekt" values="Git" collectionTime="0" />
+      <project id="VendingMachineKata" values="Git" collectionTime="1435049318726" />
+      <project id="preprod" values="Git" collectionTime="1447846189297" />
+      <project id="service-group-findGroup" values="Git" collectionTime="1438071588244" />
+      <project id="parent-pom" values="Git" collectionTime="1467640756527" />
+      <project id="xml-utils" values="Git" collectionTime="1458300672848" />
+      <project id="gn" values="Git" collectionTime="0" />
+      <project id="HadoopGsp" values="Git" collectionTime="1429287962473" />
+      <project id="validating-filter" values="Git" collectionTime="1458204519077" />
+      <project id="notifier_2" values="Git" collectionTime="1467797302814" />
+      <project id="learning-akka" values="Git" collectionTime="0" />
+      <project id="notifier" values="Git" collectionTime="1454666041056" />
+      <project id="abc" values="Git" collectionTime="0" />
+      <project id="wdm" values="Git" collectionTime="0" />
+      <project id="service-questionaire-GenerateUrl" values="Git" collectionTime="1436195964558" />
+      <project id="android" values="Git" collectionTime="1448628384879" />
+      <project id="gsp_spark_without_sharing" values="Git" collectionTime="1429735230003" />
+      <project id="mantis-sms-notification" values="Git" collectionTime="1448635953017" />
+      <project id="sag_rekomendacje" values="Git" collectionTime="0" />
+      <project id="cpi" values="Git" collectionTime="0" />
+      <project id="generic" values="Git" collectionTime="1445438584496" />
+      <project id="WordCountHadoop2" values="Git" collectionTime="0" />
+      <project id="esb-parent" values="Git" collectionTime="1465218606117" />
+      <project id="Validation" values="Git" collectionTime="0" />
+      <project id="gsp" values="Git" collectionTime="1429814787169" />
+      <project id="spring-petclinic" values="Git" collectionTime="1430852939577" />
+      <project id="bootzooka-root" values="Git" collectionTime="0" />
+      <project id="abc2" values="Git" collectionTime="0" />
+      <project id="questionaire-api" values="Git" collectionTime="1436521212490" />
+      <project id="common" values="Git" collectionTime="1458133964614" />
+      <project id="dbf" values="Git" collectionTime="0" />
+      <project id="channel-utils-questionaire" values="Git" collectionTime="1435910996001" />
+      <project id="shiro-root-1.2.2" values="svn" collectionTime="0" />
+      <project id="tt" values="Git" collectionTime="1459845281883" />
+      <project id="tut-data-5-complete" values="Git" collectionTime="0" />
+      <project id="codebrag-root" values="Git" collectionTime="1430915899255" />
+      <project id="channel-utils-LocationCheck" values="Git" collectionTime="1443197471507" />
+      <project id="touk-superpom" values="Git" collectionTime="1467017445841" />
+      <project id="findgroup-impl" values="Git" collectionTime="1444727353299" />
+      <project id="logging-filter" values="Git" collectionTime="1448463028837" />
+      <project id="pc" values="Git" collectionTime="1455536284113" />
+      <project id="initializr" values="Git" collectionTime="1466403130185" />
+      <project id="profilowanie-projekt" values="Git" collectionTime="0" />
+      <project id="commons" values="Git" collectionTime="1458203785986" />
+      <project id="bootzooka" values="Git" collectionTime="1430853648317" />
+      <project id="solarium-main" values="Git" collectionTime="1455001558590" />
+      <project id="ctrl-pkw" values="Git" collectionTime="1435823875261" />
+      <project id="gsp-hadoop" values="Git" collectionTime="1430851699874" />
+      <project id="mvno" values="Git" collectionTime="1465978553771" />
+      <project id="weka-dev" values="svn" collectionTime="0" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="parent-pom" values="data.commit.count.100+,data.git.root.count.2+" collectionTime="1467640756603" />
+      <project id="touk-superpom" values="data.git.root.count.2+,data.commit.count.1K+" collectionTime="1467017445992" />
+      <project id="notifier_2" values="data.commit.count.100+,data.git.root.count.2+" collectionTime="1467797302901" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="xml-utils" values="Remote" collectionTime="1458300672848" />
+      <project id="cpi" values="Application,Remote,JUnit" collectionTime="0" />
+      <project id="generic" values="Remote" collectionTime="1445438584497" />
+      <project id="validating-filter" values="Remote" collectionTime="1458204519077" />
+      <project id="dbf" values="Remote" collectionTime="0" />
+      <project id="channel-utils-LocationCheck" values="Remote,JUnit" collectionTime="1443197471507" />
+      <project id="sudoku" values="GWT.ConfigurationType,JUnit" collectionTime="0" />
+      <project id="gsp-hadoop" values="Application" collectionTime="1430851699874" />
+      <project id="android" values="AndroidRunConfigurationType" collectionTime="1448628384883" />
+      <project id="notifier_2" values="Remote" collectionTime="1467797302817" />
+      <project id="esb-parent" values="Remote" collectionTime="1465218606117" />
+      <project id="initializr" values="Remote" collectionTime="1466403130185" />
+    </group>
+    <group name="Scala">
+      <project id="remove" values="Scala  2.10.3" collectionTime="0" />
+      <project id="gsp_spark_without_sharing" values="Library  JUnit for Scala,Library  ScalaTest,Library  Akka for Scala,Scala  2.10.4" collectionTime="1429735230087" />
+      <project id="gsp" values="Scala  2.11.4,Library  ScalaTest,Library  JUnit for Scala" collectionTime="1429814787210" />
+      <project id="remove_3" values="Scala  " collectionTime="0" />
+      <project id="remove_2" values="Scala  " collectionTime="0" />
+      <project id="spark-parent" values="Library  Breeze,Library  Akka for Scala,Library  Scalacheck,Library  JUnit for Scala,Library  ScalaTest,Scala  2.10.4" collectionTime="0" />
+      <project id="bootzooka-root" values="Library  Akka for Scala,Library  Rouge,Scala  2.10.3,Library  Lift Framework,Library  Scalatra,Library  ScalaTest,Library  JUnit for Scala" collectionTime="0" />
+      <project id="remove_4" values="Scala  2.11.4" collectionTime="0" />
+      <project id="test" values="Scala  2.10.4" collectionTime="1431592787247" />
+      <project id="untitled" values="Scala  2.11.0-M4" collectionTime="0" />
+      <project id="codebrag-root" values="Library  Scalatra,Library  Slick,Library  Scalate,Library  ScalaTest,Library  Akka for Scala,Scala  2.10.4,Library  JUnit for Scala" collectionTime="1430915899336" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="password" values="GradleRunConfiguration,Application" collectionTime="0" />
+      <project id="service-questionaire-generateurl" values="JUnit" collectionTime="1436195994068" />
+      <project id="VendingMachineKata" values="JUnit" collectionTime="1435049318727" />
+      <project id="Validation" values="TestNG" collectionTime="0" />
+      <project id="service-group-findGroup" values="JUnit" collectionTime="1438071588244" />
+      <project id="java" values="JUnit,Application" collectionTime="1448635949563" />
+      <project id="parent-pom" values="JUnit" collectionTime="1467640756531" />
+      <project id="pc" values="JUnit" collectionTime="1455536284114" />
+      <project id="solarium-main" values="JUnit" collectionTime="1455001558594" />
+      <project id="notifier_2" values="JUnit" collectionTime="1467797302818" />
+      <project id="dbf" values="Application" collectionTime="0" />
+      <project id="notifier" values="JUnit" collectionTime="1454666041056" />
+      <project id="abc" values="JUnit" collectionTime="0" />
+      <project id="findgroup-impl" values="JUnit" collectionTime="1444727353300" />
+      <project id="service-questionaire-GenerateUrl" values="JUnit" collectionTime="1436195964560" />
+      <project id="tut-data-initial" values="JUnit" collectionTime="0" />
+      <project id="sag_rekomendacje" values="JUnit" collectionTime="0" />
+      <project id="cpi" values="JUnit" collectionTime="0" />
+      <project id="generic" values="JUnit" collectionTime="1445438584497" />
+      <project id="esb-parent" values="JUnit" collectionTime="1465218606117" />
+      <project id="springboottest" values="GradleRunConfiguration,Application" collectionTime="1429125804056" />
+      <project id="gsp" values="ScalaTestRunConfiguration" collectionTime="1429814787170" />
+      <project id="abc2" values="JUnit" collectionTime="0" />
+      <project id="guiceTest" values="Application" collectionTime="0" />
+      <project id="db_emisje" values="Application" collectionTime="0" />
+      <project id="demo-spring-boot" values="JUnit" collectionTime="1431631913079" />
+      <project id="wdm" values="ScalaTestRunConfiguration,ScalaScriptConsoleRunConfiguration,Application" collectionTime="0" />
+      <project id="channel-utils-LocationCheck" values="JUnit" collectionTime="1443197471507" />
+      <project id="touk-superpom" values="Application,JUnit" collectionTime="1467017445846" />
+      <project id="sudoku" values="JUnit,Application" collectionTime="0" />
+      <project id="projekt" values="JUnit" collectionTime="0" />
+      <project id="esb-number-forward" values="PythonConfigurationType" collectionTime="1448626296576" />
+      <project id="commons" values="JUnit" collectionTime="1458203785986" />
+      <project id="test_1" values="JUnit" collectionTime="0" />
+      <project id="questionaire-impl" values="JUnit" collectionTime="1447423326632" />
+      <project id="gsp-hadoop" values="JUnit" collectionTime="1430851699874" />
+      <project id="spmf" values="Application" collectionTime="0" />
+      <project id="mvno" values="JUnit" collectionTime="1465978553775" />
+      <project id="HadoopGsp" values="Application,GradleRunConfiguration" collectionTime="1429287962474" />
+      <project id="weka-dev" values="Application,JUnit" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="initializr" values="Properties,Images,XML,JavaScript,Git file,YAML,Bash,IDEA_MODULE,Groovy,CloudFoundry file,spring.factories,CSS,JAVA,HTML,ARCHIVE,PLAIN_TEXT,JSON Schema,UNKNOWN" collectionTime="1466403130274" />
+      <project id="learning-akka" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,Scala" collectionTime="0" />
+      <project id="touk-superpom" values="HTML,YAML,XML,IDEA_MODULE,CLASS,CSS,ARCHIVE,Properties,JavaScript,SQL,UNKNOWN,Images,JAVA,Native,Markdown,PLAIN_TEXT,Groovy,Lombok config file,Git file,Bash,JSON Schema" collectionTime="1467017445912" />
+      <project id="VendingMachineKata" values="XML,IDEA_WORKSPACE,IDEA_MODULE,UNKNOWN,Markdown,JAVA,IDEA_PROJECT,PLAIN_TEXT" collectionTime="1435049318822" />
+      <project id="service-questionaire-GenerateUrl" values="IDEA_MODULE,IDEA_PROJECT,Properties,PLAIN_TEXT,UNKNOWN,IDEA_WORKSPACE,XML,VTL,JAVA,Groovy" collectionTime="1436195964625" />
+      <project id="demo-spring-boot" values="XML,IDEA_MODULE,JAVA,Properties,IDEA_WORKSPACE,IDEA_PROJECT,UNKNOWN" collectionTime="1431631913182" />
+      <project id="sag_rekomendacje" values="XML,IDEA_PROJECT,JAVA,IDEA_MODULE,IDEA_WORKSPACE,PLAIN_TEXT,UNKNOWN" collectionTime="0" />
+      <project id="service-group-findGroup" values="Groovy,IDEA_MODULE,UNKNOWN,ARCHIVE,Bash,IDEA_PROJECT,IDEA_WORKSPACE,VTL,JAVA,Properties,XML,PLAIN_TEXT" collectionTime="1438071588272" />
+      <project id="gsp_spark_without_sharing" values="IDEA_MODULE,Groovy,XML,Bash,Properties,IDEA_PROJECT,PLAIN_TEXT,IDEA_WORKSPACE,Markdown,Scala,UNKNOWN,ARCHIVE" collectionTime="1429735230065" />
+      <project id="questionaire-api" values="UNKNOWN,JAVA,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1436521212562" />
+      <project id="mvno" values="CLASS,UNKNOWN,PLAIN_TEXT,Git file,Bash,Markdown,SQL,XML,Groovy,JAVA,Properties,IDEA_MODULE,YAML" collectionTime="1465978553856" />
+      <project id="untitled" values="IDEA_PROJECT,UNKNOWN,IDEA_MODULE,IDEA_WORKSPACE" collectionTime="0" />
+      <project id="spmf" values="JAVA,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,XML,Images" collectionTime="0" />
+      <project id="findgroup-impl" values="PLAIN_TEXT,IDEA_MODULE,Properties,UNKNOWN,Groovy,JAVA,XML" collectionTime="1444727353379" />
+      <project id="dbf" values="JavaScript,ARCHIVE,YAML,CoffeeScript,UNKNOWN,IDEA_MODULE,SCSS,Properties,XML,C++,CSS,JAVA,Native,Images,JSP,SourceMap,SQL,PLAIN_TEXT,HOCON,DATASOURCE_STORAGE,Markdown,PATCH,LESS,HTML,ESLint,Jade,Groovy,IDEA_PROJECT,Bash,JSHint,IDEA_WORKSPACE,JSON" collectionTime="0" />
+      <project id="Validation" values="IDEA_MODULE,JAVA,Properties,UNKNOWN,PLAIN_TEXT,XML" collectionTime="0" />
+      <project id="wdm" values="Bash,PLAIN_TEXT,XML,IDEA_MODULE,UNKNOWN,Scala" collectionTime="0" />
+      <project id="ctrl-pkw" values="IDEA_MODULE,PLAIN_TEXT,Images,IDEA_WORKSPACE,ARCHIVE,HTML,UNKNOWN,Markdown,Properties,Groovy,XML,JAVA,YAML,SQL,IDEA_PROJECT,CSS" collectionTime="1435823875402" />
+      <project id="questionaire-impl" values="Kotlin,PLAIN_TEXT,IDEA_MODULE,Markdown,UNKNOWN,Groovy,XML" collectionTime="1447423326664" />
+      <project id="tt" values="PLAIN_TEXT,Markdown,IDEA_MODULE,Bash,Git file,Properties,Images,Groovy,YAML,JAVA,XML,Scratch" collectionTime="1459845281962" />
+      <project id="generic" values="Native,CSS,JSON,Manifest,CLASS,HTML,Markdown,Scala,JAVA,PLAIN_TEXT,SPI,Bash,Images,ARCHIVE,XML,Groovy,IDEA_PROJECT,YAML,UNKNOWN,IDEA_MODULE,JavaScript,Git file,IDEA_WORKSPACE,SQL,Properties" collectionTime="1445438584510" />
+      <project id="pc" values="YAML,SQL,PLAIN_TEXT,Groovy,Git file,UNKNOWN,XML,Markdown,IDEA_MODULE,Properties,VTL,Bash,HTML,JAVA" collectionTime="1455536284156" />
+      <project id="channel-utils-questionaire" values="UNKNOWN,PLAIN_TEXT,IDEA_MODULE,XML" collectionTime="1435910996025" />
+      <project id="springboottest" values="IDEA_PROJECT,JAVA,IDEA_WORKSPACE,Groovy,Properties,UNKNOWN,IDEA_MODULE" collectionTime="1429125804130" />
+      <project id="remove" values="IDEA_MODULE,UNKNOWN,IDEA_PROJECT,SBT,IDEA_WORKSPACE" collectionTime="0" />
+      <project id="commons" values="Git file,Groovy,Markdown,XML,JAVA,IDEA_MODULE" collectionTime="1458203786029" />
+      <project id="cpi" values="Groovy,Markdown,JSHint,IDEA_WORKSPACE,CSS,Ini,XML,C++,ARCHIVE,JavaScript,PLAIN_TEXT,CoffeeScript,DATASOURCE_STORAGE,Images,Properties,SQL,JAVA,Jade,Bash,SourceMap,JSON,YAML,UNKNOWN,IDEA_MODULE,HOCON,HTML,Native,LESS,IDEA_PROJECT" collectionTime="0" />
+      <project id="weka-dev" values="IDEA_MODULE,Images,Native,PLAIN_TEXT,HTML,UNKNOWN,CLASS,CSS,XML,JAVA,ARCHIVE" collectionTime="0" />
+      <project id="guiceTest" values="JAVA,Manifest,ARCHIVE,JSON,Spring Roo script,XML,IDEA_MODULE,JSP,CSS,PLAIN_TEXT,UNKNOWN,Eclipse,AspectJ,Properties,HTML,JavaScript,CLASS,DTD,XHTML,JSPX,Native,SQL,Images" collectionTime="0" />
+      <project id="solarium-main" values="HTML,YAML,Python,FTL,PLAIN_TEXT,CSS,Groovy,UNKNOWN,Images,XML,Bash,JavaScript,Git file,JSON,Properties,JAVA,IDEA_MODULE,Native,SQL,HOCON" collectionTime="1455001558773" />
+      <project id="adapter-usageinfo" values="JAVA,IDEA_MODULE,XML,Properties,IDEA_WORKSPACE,IDEA_PROJECT,UNKNOWN,Groovy" collectionTime="1435836916644" />
+      <project id="tut-data-initial" values="JavaScript,PLAIN_TEXT,IDEA_WORKSPACE,ARCHIVE,UNKNOWN,XML,JAVA,Groovy,Properties,IDEA_PROJECT,IDEA_MODULE" collectionTime="0" />
+      <project id="tut-data-5-complete" values="IDEA_WORKSPACE,IDEA_PROJECT,JAVA,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,JavaScript,Groovy,XML,Properties,UNKNOWN" collectionTime="0" />
+      <project id="bootzooka-root" values="Images,HTML,Properties,JavaScript,XML,PLAIN_TEXT,Scala,HOCON,JSHint,SBT,JSON,UNKNOWN,CSS" collectionTime="0" />
+      <project id="bootzooka" values="UNKNOWN" collectionTime="1430853648326" />
+      <project id="channel-utils-LocationCheck" values="IDEA_MODULE,JAVA,Groovy,ARCHIVE,CSS,Manifest,XML,IDEA_PROJECT,Bash,JavaScript,Native,Scala,Images,VTL,PLAIN_TEXT,SQL,JSON,CLASS,YAML,HTML,Properties,Markdown,IDEA_WORKSPACE,UNKNOWN,Git file" collectionTime="1443197471533" />
+      <project id="xml-utils" values="IDEA_MODULE,JAVA,XML" collectionTime="1458300672957" />
+      <project id="esb-parent" values="UNKNOWN,JSON Schema,Images,SQL,JavaScript,IDEA_MODULE,Git file,XML,SPI,HTML,JAVA,Groovy,Bash,ARCHIVE,PLAIN_TEXT,Markdown,Properties,CSS" collectionTime="1465218606191" />
+      <project id="codebrag-root" values="DTD,JavaScript,SCSS,XML,Images,CSS,Stylus,C++,UNKNOWN,Python,Bash,IDEA_MODULE,Perl,Less,Native,Markdown,Scala,Properties,YAML,ActionScript,PATCH,HTML,JSON,Ini,JSHint,HOCON,PLAIN_TEXT,SourceMap,ARCHIVE,CoffeeScript,SQL" collectionTime="1430915899314" />
+      <project id="validating-filter" values="XML,JAVA,IDEA_MODULE" collectionTime="1458204519102" />
+      <project id="android" values="UNKNOWN,IDEA_MODULE,ProGuard File,XML,JAVA,Git file,Bash,ARCHIVE,Kotlin,Properties,Images,PLAIN_TEXT,Groovy" collectionTime="1448628384931" />
+      <project id="profilowanie.iml" values="IDEA_MODULE,UNKNOWN,XML" collectionTime="0" />
+      <project id="WordCountHadoop2" values="JAVA,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN" collectionTime="0" />
+      <project id="preprod" values="Bash,UNKNOWN,Ini,XML,JSON,YAML,PLAIN_TEXT,Images,Markdown,Properties" collectionTime="1447846189314" />
+      <project id="test_1" values="ARCHIVE,JAVA,XML,Properties,Groovy,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" collectionTime="0" />
+      <project id="notifier_2" values="JAVA,Groovy,Images,XML,IDEA_MODULE,PLAIN_TEXT,Bash,Git file,SQL,ARCHIVE,YAML,UNKNOWN,Native,CLASS,Properties,JSON Schema" collectionTime="1467797302858" />
+      <project id="hadoop_test_1" values="Groovy,XML,UNKNOWN,IDEA_MODULE" collectionTime="0" />
+      <project id="gsp-hadoop" values="IDEA_PROJECT,UNKNOWN,JAVA,IDEA_MODULE,ARCHIVE,IDEA_WORKSPACE,PLAIN_TEXT,Properties,Bash,XML,Groovy" collectionTime="1430851699995" />
+      <project id="logging-filter" values="UNKNOWN" collectionTime="1448463028854" />
+      <project id="abc2" values="Eclipse,PLAIN_TEXT,UNKNOWN,JAVA,IDEA_MODULE,XML" collectionTime="0" />
+      <project id="src" values="XML,UNKNOWN,Images,JAVA,IDEA_MODULE,IDL,HTML" collectionTime="0" />
+      <project id="password" values="IDEA_WORKSPACE,JAVA,XML,PLAIN_TEXT,UNKNOWN,Groovy,ARCHIVE,IDEA_PROJECT,CLASS,Properties,IDEA_MODULE,Manifest" collectionTime="0" />
+      <project id="gn" values="UNKNOWN,JAVA,XML,Groovy,IDEA_MODULE,Ini,PLAIN_TEXT,Properties" collectionTime="0" />
+      <project id="esb-number-forward" values="Python,IDEA_MODULE,XML,PLAIN_TEXT,UNKNOWN" collectionTime="1448626296623" />
+      <project id="shiro-root-1.2.2" values="Images,IDEA_MODULE,Properties,JSP,UNKNOWN,VTL,JAVA,Groovy,Ini,XML,CSS" collectionTime="0" />
+      <project id="spring-petclinic" values="IDEA_PROJECT,Images,UNKNOWN,IDEA_MODULE,XML,SQL,IDEA_WORKSPACE,CSS,HTML,Markdown,JSP,PLAIN_TEXT,JAVA,Properties" collectionTime="1430852939605" />
+      <project id="HadoopGsp" values="IDEA_WORKSPACE,ARCHIVE,XML,CLASS,PLAIN_TEXT,Bash,JAVA,Properties,IDEA_PROJECT,Groovy,IDEA_MODULE,UNKNOWN" collectionTime="1429287962499" />
+      <project id="java" values="PLAIN_TEXT,Groovy,Properties,IDEA_MODULE,JAVA,UNKNOWN,ARCHIVE,XML,Bash,Kotlin" collectionTime="1448635949683" />
+      <project id="projekt" values="XML,IDEA_MODULE,UNKNOWN,JAVA,Eclipse,PLAIN_TEXT" collectionTime="0" />
+      <project id="notifier" values="Groovy,Bash,CLASS,XML,Images,ARCHIVE,SQL,Git file,IDEA_MODULE,UNKNOWN,JAVA,YAML,Native,Markdown,PLAIN_TEXT,Properties,JSON" collectionTime="1454666041103" />
+      <project id="db_emisje" values="LESS,SourceMap,Groovy,YAML,UNKNOWN,IDEA_PROJECT,IDEA_WORKSPACE,JavaScript,ARCHIVE,Ini,HTML,C++,JSON,Images,Properties,JAVA,SQL,PLAIN_TEXT,CoffeeScript,JSHint,CSS,XML,HOCON,IDEA_MODULE,Jade" collectionTime="0" />
+      <project id="gsp" values="Groovy,ARCHIVE,IDEA_PROJECT,Markdown,Scala,Properties,IDEA_MODULE,PLAIN_TEXT,IDEA_WORKSPACE,UNKNOWN" collectionTime="1429814787208" />
+      <project id="remove_3" values="IDEA_WORKSPACE,UNKNOWN,IDEA_MODULE,IDEA_PROJECT" collectionTime="0" />
+      <project id="remove_2" values="IDEA_MODULE,IDEA_PROJECT,IDEA_WORKSPACE,UNKNOWN" collectionTime="0" />
+      <project id="service-questionaire-generateurl" values="UNKNOWN" collectionTime="1436195994100" />
+      <project id="parent-pom" values="YAML,Groovy,Properties,Git file,JAVA,UNKNOWN,PLAIN_TEXT,Bash,IDEA_MODULE,XML" collectionTime="1467640756580" />
+      <project id="gradle" values="Properties,UNKNOWN,ARCHIVE,IDEA_MODULE" collectionTime="1429728132572" />
+      <project id="acceptanceTests" values="UNKNOWN,PLAIN_TEXT,Groovy,ARCHIVE,XML,IDEA_MODULE,JAVA" collectionTime="1440492631049" />
+      <project id="abc" values="XML,IDEA_MODULE,UNKNOWN,JAVA,Eclipse,PLAIN_TEXT" collectionTime="0" />
+      <project id="remove_4" values="IDEA_MODULE,IDEA_WORKSPACE,IDEA_PROJECT,UNKNOWN" collectionTime="0" />
+      <project id="profilowanie-projekt" values="PLAIN_TEXT,XML,JAVA,UNKNOWN" collectionTime="0" />
+      <project id="common" values="PLAIN_TEXT,ARCHIVE,Git file,JAVA,XML" collectionTime="1458133964629" />
+      <project id="sudoku" values="Properties,Images,CSS,IDEA_MODULE,HTML,Eclipse,IDEA_PROJECT,XML,IDEA_WORKSPACE,UNKNOWN,PLAIN_TEXT,JAVA,JavaScript" collectionTime="0" />
+      <project id="spark-parent" values="PLAIN_TEXT,Ini,JSON,Native,IDEA_WORKSPACE,YAML,IDEA_MODULE,Scala,UNKNOWN,JAVA,Properties,SQL,Images,JavaScript,CSS,ARCHIVE,XML,IDEA_PROJECT,HTML,SBT" collectionTime="0" />
+      <project id="mantis-sms-notification" values="Python,Markdown,UNKNOWN,PLAIN_TEXT,XML,IDEA_MODULE" collectionTime="1448635953022" />
+      <project id="gsp_spark" values="ARCHIVE,UNKNOWN,Scala,Properties,IDEA_PROJECT,XML,Groovy,IDEA_MODULE,Bash,Markdown,PLAIN_TEXT,IDEA_WORKSPACE" collectionTime="1429728115506" />
+      <project id="test" values="Scala,IDEA_MODULE,XML,IDEA_PROJECT,UNKNOWN,IDEA_WORKSPACE,SBT,PLAIN_TEXT" collectionTime="1431592787246" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="channel-utils-LocationCheck" values="HSQL Database Engine/2.3.2" collectionTime="1443197471535" />
+      <project id="preprod" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1447846189327" />
+      <project id="xml-utils" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1458300672969" />
+      <project id="questionaire-impl" values="Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1447423326666" />
+      <project id="android" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1448628384971" />
+      <project id="esb-parent" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1465218606198" />
+      <project id="mvno" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options" collectionTime="1465978553882" />
+      <project id="touk-superpom" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options" collectionTime="1467017445996" />
+      <project id="validating-filter" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1458204519104" />
+      <project id="initializr" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option" collectionTime="1466403130319" />
+      <project id="pc" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production" collectionTime="1455536284162" />
+      <project id="notifier_2" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option" collectionTime="1467797302907" />
+      <project id="esb-number-forward" values="Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1448626296645" />
+      <project id="notifier" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production" collectionTime="1454666041106" />
+      <project id="tt" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options" collectionTime="1459845282012" />
+      <project id="dbf" values="Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production" collectionTime="0" />
+      <project id="java" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1448635949702" />
+      <project id="commons" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option" collectionTime="1458203786031" />
+      <project id="parent-pom" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option" collectionTime="1467640756606" />
+      <project id="solarium-main" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options" collectionTime="1455001559223" />
+      <project id="logging-filter" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1448463028856" />
+      <project id="findgroup-impl" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options" collectionTime="1444727353462" />
+      <project id="mantis-sms-notification" values="Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1448635953022" />
+      <project id="common" values="Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning option,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1458133964630" />
+      <project id="generic" values="Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production&#10;With the Partitioning  OLAP  Data Mining and Real Application Testing options,Oracle/Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production&#10;With the Partitioning  OLAP  Advanced Analytics and Real Application Testing options" collectionTime="1445438584571" />
+      <project id="cpi" values="Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production,Oracle/Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production" collectionTime="0" />
+    </group>
+    <group name="Spring Boot">
+      <project id="initializr" values="ConfigurationProperties_1,RunConfigsPerProject_0,ConfigurationProperties_2" collectionTime="1466403130335" />
+      <project id="springboottest" values="application.properties" collectionTime="1429125804168" />
+      <project id="ctrl-pkw" values="application.yml,application.properties" collectionTime="1435823875464" />
+      <project id="demo-spring-boot" values="application.properties" collectionTime="1431631913224" />
+    </group>
+    <group name="libraries">
+      <project id="spark-parent" values="JAX-RS,Scala,TransactionJavaee" collectionTime="0" />
+      <project id="test" values="Scala" collectionTime="1431592787246" />
+      <project id="questionaire-impl" values="BeanValidation,groovy" collectionTime="1447423326665" />
+      <project id="Validation" values="spring" collectionTime="0" />
+      <project id="service-group-findGroup" values="spring,TransactionJavaee,groovy,JMS,BeanValidation" collectionTime="1438071588272" />
+      <project id="parent-pom" values="groovy,BeanValidation" collectionTime="1467640756602" />
+      <project id="gn" values="JAX-WS" collectionTime="0" />
+      <project id="solarium-main" values="spring-ws,spring,groovy,spring-mvc,spring-security,BeanValidation" collectionTime="1455001558825" />
+      <project id="validating-filter" values="BeanValidation" collectionTime="1458204519103" />
+      <project id="notifier_2" values="TransactionJavaee,JMS,groovy,BeanValidation,CDI,spring" collectionTime="1467797302898" />
+      <project id="dbf" values="hibernate,CDI,TransactionJavaee,spring,BeanValidation,JAX-RS" collectionTime="0" />
+      <project id="notifier" values="groovy,JMS,TransactionJavaee,BeanValidation" collectionTime="1454666041104" />
+      <project id="findgroup-impl" values="groovy,BeanValidation" collectionTime="1444727353397" />
+      <project id="service-questionaire-GenerateUrl" values="groovy,JMS,TransactionJavaee,BeanValidation,spring" collectionTime="1436195964649" />
+      <project id="gsp_spark_without_sharing" values="JAX-RS,CDI,Scala" collectionTime="1429735230080" />
+      <project id="adapter-usageinfo" values="groovy,BeanValidation" collectionTime="1435836916646" />
+      <project id="cpi" values="spring,CDI,groovy,JAX-RS,TransactionJavaee,hibernate,BeanValidation" collectionTime="0" />
+      <project id="generic" values="TransactionJavaee,spring-batch,BeanValidation,groovy,JMS,spring" collectionTime="1445438584566" />
+      <project id="esb-parent" values="spring,JMS,spring-batch,groovy,TransactionJavaee" collectionTime="1465218606198" />
+      <project id="springboottest" values="spring-mvc,TransactionJavaee,spring-boot,BeanValidation,spring-data-jpa,EJB,spring,hibernate,WebSocket" collectionTime="1429125804145" />
+      <project id="gsp" values="Scala" collectionTime="1429814787208" />
+      <project id="spring-petclinic" values="TransactionJavaee,hibernate,BeanValidation,spring-mvc,spring,spring-data-jpa" collectionTime="1430852939624" />
+      <project id="guiceTest" values="CDI" collectionTime="0" />
+      <project id="db_emisje" values="BeanValidation,TransactionJavaee,CDI,groovy,hibernate" collectionTime="0" />
+      <project id="demo-spring-boot" values="EJB,spring,BeanValidation,spring-boot,hibernate,WebSocket,spring-data-jpa,spring-mvc,TransactionJavaee" collectionTime="1431631913207" />
+      <project id="bootzooka-root" values="EJB,TransactionJavaee" collectionTime="0" />
+      <project id="codebrag-root" values="javaScript,Scala" collectionTime="1430915899330" />
+      <project id="tut-data-5-complete" values="hibernate,spring-data-jpa,spring" collectionTime="0" />
+      <project id="channel-utils-LocationCheck" values="JMS,spring,groovy,BeanValidation,CDI,TransactionJavaee" collectionTime="1443197471534" />
+      <project id="touk-superpom" values="CDI,groovy,TransactionJavaee,JMS,BeanValidation,spring" collectionTime="1467017445987" />
+      <project id="questionaire-api" values="BeanValidation" collectionTime="1436521212564" />
+      <project id="java" values="groovy" collectionTime="1448635949692" />
+      <project id="pc" values="BeanValidation,groovy" collectionTime="1455536284161" />
+      <project id="initializr" values="spring-mvc,spring-boot,BeanValidation,spring,WebSocket,EJB,groovy" collectionTime="1466403130319" />
+      <project id="commons" values="BeanValidation,groovy,CDI" collectionTime="1458203786030" />
+      <project id="tt" values="groovy,CDI,BeanValidation" collectionTime="1459845281990" />
+      <project id="test_1" values="JAX-RS,CDI" collectionTime="0" />
+      <project id="ctrl-pkw" values="WebSocket,BeanValidation,spring-boot,thymeleaf,spring,groovy,spring-data-jpa,CDI,TransactionJavaee,BatchApplications,hibernate,spring-mvc,spring-batch" collectionTime="1435823875433" />
+      <project id="gsp-hadoop" values="CDI,JAX-RS" collectionTime="1430851700015" />
+      <project id="tut-data-initial" values="spring,hibernate,spring-data-jpa" collectionTime="0" />
+      <project id="mvno" values="groovy,TransactionJavaee,JMS,BeanValidation,CDI" collectionTime="1465978553876" />
+      <project id="HadoopGsp" values="JAX-RS" collectionTime="1429287962513" />
+      <project id="acceptanceTests" values="spring,groovy,JMS" collectionTime="1440492631066" />
+    </group>
+    <group name="Spring MVC">
+      <project id="initializr" values="mvcModelsInProject_0" collectionTime="1466403130322" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="channel-utils-LocationCheck" values="org.hsqldb.jdbcDriver" collectionTime="1443197471535" />
+      <project id="preprod" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1447846189328" />
+      <project id="xml-utils" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1458300672969" />
+      <project id="questionaire-impl" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1447423326666" />
+      <project id="esb-parent" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1465218606198" />
+      <project id="mvno" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1465978553882" />
+      <project id="touk-superpom" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1467017445996" />
+      <project id="validating-filter" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1458204519104" />
+      <project id="notifier" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1454666041106" />
+      <project id="pc" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1455536284162" />
+      <project id="notifier_2" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1467797302908" />
+      <project id="solarium-main" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1455001559224" />
+      <project id="esb-number-forward" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1448626296645" />
+      <project id="initializr" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1466403130319" />
+      <project id="tt" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1459845282012" />
+      <project id="findgroup-impl" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1444727353462" />
+      <project id="java" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1448635949702" />
+      <project id="commons" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1458203786031" />
+      <project id="parent-pom" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1467640756606" />
+      <project id="dbf" values="oracle.jdbc.OracleDriver" collectionTime="0" />
+      <project id="logging-filter" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1448463028856" />
+      <project id="generic" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1445438584571" />
+      <project id="mantis-sms-notification" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1448635953022" />
+      <project id="common" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1458133964630" />
+      <project id="android" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1448628384971" />
+      <project id="cpi" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="0" />
+    </group>
+    <group name="spring">
+      <project id="generic" values="fileset_configFiles5,fileset_xmlContext,fileset_configFiles5,fileset_xmlContext" collectionTime="1445438584576" />
+      <project id="shiro-root-1.2.2" values="facet_xmlContext,facet_xmlContext,facet_xmlContext" collectionTime="0" />
+      <project id="service-questionaire-GenerateUrl" values="xmlNS_www.springframework.org/schema/p,fileset_configFiles5,fileset_xmlContext,xmlNS_camel.apache.org/schema/spring" collectionTime="1436195964656" />
+      <project id="notifier" values="fileset_configFiles5" collectionTime="1454666041106" />
+      <project id="mvno" values="fileset_xmlContext,fileset_configFiles5,fileset_autodetect_NONE" collectionTime="1465978553889" />
+      <project id="solarium-main" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,xmlNS_www.springframework.org/schema/p,fileset_xmlContext,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles10,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/c,fileset_configFiles10,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/util" collectionTime="1455001559291" />
+      <project id="Validation" values="facet_xmlContext" collectionTime="0" />
+      <project id="notifier_2" values="fileset_xmlContext,fileset_autodetect_NONE,fileset_configFiles5" collectionTime="1467797302916" />
+    </group>
+    <group name="module type">
+      <project id="initializr" values="JAVA_MODULE" collectionTime="1466403130185" />
+      <project id="learning-akka" values="JAVA_MODULE" collectionTime="0" />
+      <project id="touk-superpom" values="JAVA_MODULE" collectionTime="1467017445844" />
+      <project id="VendingMachineKata" values="JAVA_MODULE" collectionTime="1435049318726" />
+      <project id="java" values="JAVA_MODULE" collectionTime="1448635949563" />
+      <project id="service-questionaire-GenerateUrl" values="JAVA_MODULE" collectionTime="1436195964559" />
+      <project id="demo-spring-boot" values="JAVA_MODULE" collectionTime="1431631913079" />
+      <project id="sag_rekomendacje" values="JAVA_MODULE" collectionTime="0" />
+      <project id="service-group-findGroup" values="JAVA_MODULE" collectionTime="1438071588244" />
+      <project id="gsp_spark_without_sharing" values="JAVA_MODULE" collectionTime="1429735230003" />
+      <project id="questionaire-api" values="JAVA_MODULE" collectionTime="1436521212490" />
+      <project id="mvno" values="JAVA_MODULE" collectionTime="1465978553773" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="0" />
+      <project id="spmf" values="JAVA_MODULE" collectionTime="0" />
+      <project id="findgroup-impl" values="JAVA_MODULE" collectionTime="1444727353299" />
+      <project id="dbf" values="JAVA_MODULE" collectionTime="0" />
+      <project id="Validation" values="JAVA_MODULE" collectionTime="0" />
+      <project id="wdm" values="JAVA_MODULE" collectionTime="0" />
+      <project id="ctrl-pkw" values="JAVA_MODULE" collectionTime="1435823875262" />
+      <project id="android" values="JAVA_MODULE" collectionTime="1448628384881" />
+      <project id="tt" values="JAVA_MODULE" collectionTime="1459845281884" />
+      <project id="generic" values="JAVA_MODULE" collectionTime="1445438584496" />
+      <project id="pc" values="JAVA_MODULE" collectionTime="1455536284113" />
+      <project id="questionaire-impl" values="JAVA_MODULE" collectionTime="1447423326632" />
+      <project id="channel-utils-questionaire" values="JAVA_MODULE" collectionTime="1435910996001" />
+      <project id="springboottest" values="JAVA_MODULE" collectionTime="1429125804056" />
+      <project id="remove" values="SBT_MODULE,JAVA_MODULE" collectionTime="0" />
+      <project id="commons" values="JAVA_MODULE" collectionTime="1458203785986" />
+      <project id="gsp" values="JAVA_MODULE" collectionTime="1429814787170" />
+      <project id="cpi" values="JAVA_MODULE" collectionTime="0" />
+      <project id="weka-dev" values="JAVA_MODULE" collectionTime="0" />
+      <project id="guiceTest" values="JAVA_MODULE" collectionTime="0" />
+      <project id="adapter-usageinfo" values="JAVA_MODULE" collectionTime="1435836916617" />
+      <project id="tut-data-initial" values="JAVA_MODULE" collectionTime="0" />
+      <project id="tut-data-5-complete" values="JAVA_MODULE" collectionTime="0" />
+      <project id="bootzooka-root" values="JAVA_MODULE,SBT_MODULE" collectionTime="0" />
+      <project id="channel-utils-LocationCheck" values="JAVA_MODULE" collectionTime="1443197471507" />
+      <project id="xml-utils" values="JAVA_MODULE" collectionTime="1458300672848" />
+      <project id="esb-parent" values="JAVA_MODULE" collectionTime="1465218606117" />
+      <project id="codebrag-root" values="SBT_MODULE,JAVA_MODULE" collectionTime="1430915899255" />
+      <project id="parent-pom" values="JAVA_MODULE" collectionTime="1467640756529" />
+      <project id="HadoopGsp" values="JAVA_MODULE" collectionTime="1429287962473" />
+      <project id="profilowanie.iml" values="JAVA_MODULE" collectionTime="0" />
+      <project id="WordCountHadoop2" values="JAVA_MODULE" collectionTime="0" />
+      <project id="preprod" values="JAVA_MODULE" collectionTime="1447846189299" />
+      <project id="test_1" values="JAVA_MODULE" collectionTime="0" />
+      <project id="notifier_2" values="JAVA_MODULE" collectionTime="1467797302816" />
+      <project id="hadoop_test_1" values="JAVA_MODULE" collectionTime="0" />
+      <project id="gsp-hadoop" values="JAVA_MODULE" collectionTime="1430851699874" />
+      <project id="abc2" values="JAVA_MODULE" collectionTime="0" />
+      <project id="src" values="JAVA_MODULE" collectionTime="0" />
+      <project id="password" values="JAVA_MODULE" collectionTime="0" />
+      <project id="gn" values="JAVA_MODULE" collectionTime="0" />
+      <project id="esb-number-forward" values="PYTHON_MODULE" collectionTime="1448626296575" />
+      <project id="shiro-root-1.2.2" values="JAVA_MODULE" collectionTime="0" />
+      <project id="spring-petclinic" values="JAVA_MODULE" collectionTime="1430852939577" />
+      <project id="validating-filter" values="JAVA_MODULE" collectionTime="1458204519077" />
+      <project id="solarium-main" values="JAVA_MODULE" collectionTime="1455001558592" />
+      <project id="projekt" values="JAVA_MODULE" collectionTime="0" />
+      <project id="notifier" values="JAVA_MODULE" collectionTime="1454666041056" />
+      <project id="db_emisje" values="JAVA_MODULE" collectionTime="0" />
+      <project id="remove_4" values="JAVA_MODULE" collectionTime="0" />
+      <project id="remove_3" values="JAVA_MODULE" collectionTime="0" />
+      <project id="remove_2" values="JAVA_MODULE" collectionTime="0" />
+      <project id="profilowanie-projekt" values="JAVA_MODULE" collectionTime="0" />
+      <project id="gradle" values="JAVA_MODULE" collectionTime="1429728132557" />
+      <project id="acceptanceTests" values="JAVA_MODULE" collectionTime="1440492630922" />
+      <project id="abc" values="JAVA_MODULE" collectionTime="0" />
+      <project id="common" values="JAVA_MODULE" collectionTime="1458133964614" />
+      <project id="sudoku" values="JAVA_MODULE" collectionTime="0" />
+      <project id="spark-parent" values="JAVA_MODULE" collectionTime="0" />
+      <project id="mantis-sms-notification" values="JAVA_MODULE" collectionTime="1448635953017" />
+      <project id="gsp_spark" values="JAVA_MODULE" collectionTime="1429728115489" />
+      <project id="test" values="JAVA_MODULE,SBT_MODULE" collectionTime="1431592787170" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="codebrag-root" values="node_modules" collectionTime="1430915899331" />
+    </group>
+    <group name="Git">
+      <project id="xml-utils" values="config.force.push.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.1" collectionTime="1458300672969" />
+      <project id="esb-parent" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.local.branches.count.2+,data.remote.branches.count.100+,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1465218606198" />
+      <project id="mvno" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.8+,config.push.autoupdate.disabled,data.remote.branches.count.1,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1465978553881" />
+      <project id="touk-superpom" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,data.remote.branches.count.30+,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.8+,data.remote.branches.count.2+,data.remotes.in.project.2+,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.1,data.local.branches.count.2+" collectionTime="1467017445996" />
+      <project id="validating-filter" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,data.remotes.in.project.1" collectionTime="1458204519104" />
+      <project id="notifier" values="config.warn.about.detached.enabled,data.local.branches.count.2+,data.remotes.in.project.1,data.local.branches.count.2+,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.remote.branches.count.5+,config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1454666041105" />
+      <project id="pc" values="config.push.update.all.roots.enabled,data.remotes.in.project.2+,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.warn.about.detached.enabled,config.ssh.enabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.save.policy.STASH,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1" collectionTime="1455536284162" />
+      <project id="notifier_2" values="data.local.branches.count.2+,data.remote.branches.count.8+,data.local.branches.count.8+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.8+,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remotes.in.project.2+" collectionTime="1467797302906" />
+      <project id="esb-number-forward" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1448626296645" />
+      <project id="initializr" values="config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1466403130319" />
+      <project id="mantis-sms-notification" values="config.ssh.enabled,data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.1,data.local.branches.count.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1448635953022" />
+      <project id="java" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1448635949702" />
+      <project id="commons" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remote.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1458203786031" />
+      <project id="parent-pom" values="config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,data.remote.branches.count.8+,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remote.branches.count.2+,data.remotes.in.project.2+,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.1" collectionTime="1467640756606" />
+      <project id="solarium-main" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,data.local.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1455001558844" />
+      <project id="tt" values="config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+" collectionTime="1459845282011" />
+      <project id="common" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.local.branches.count.1" collectionTime="1458133964630" />
+      <project id="android" values="data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1448628384971" />
+    </group>
+    <group name="images.ide.background">
+      <project id="parent-pom" values="editor 0,frame 0" collectionTime="1467640756603" />
+      <project id="touk-superpom" values="editor 0,frame 0" collectionTime="1467017445992" />
+      <project id="notifier_2" values="frame=0,editor=0" collectionTime="1467797302902" />
+    </group>
+    <group name="frameworks">
+      <project id="sudoku" values="web,gwt" collectionTime="0" />
+      <project id="remove" values="scala" collectionTime="0" />
+      <project id="shiro-root-1.2.2" values="web,Spring,hibernate" collectionTime="0" />
+      <project id="notifier_2" values="Spring" collectionTime="1467797302815" />
+      <project id="remove_4" values="scala" collectionTime="0" />
+      <project id="remove_3" values="scala" collectionTime="0" />
+      <project id="remove_2" values="scala" collectionTime="0" />
+      <project id="dbf" values="jpa,web" collectionTime="0" />
+      <project id="mvno" values="Spring" collectionTime="1465978553772" />
+      <project id="springboottest" values="Spring" collectionTime="1429125804055" />
+      <project id="notifier" values="Spring" collectionTime="1454666041056" />
+      <project id="wdm" values="IvyIDEA" collectionTime="0" />
+      <project id="Validation" values="Spring" collectionTime="0" />
+      <project id="esb-number-forward" values="bash" collectionTime="1448626296574" />
+      <project id="service-questionaire-GenerateUrl" values="Spring" collectionTime="1436195964558" />
+      <project id="codebrag-root" values="web,Python" collectionTime="1430915899255" />
+      <project id="untitled" values="scala" collectionTime="0" />
+      <project id="gn" values="javaeeApplication,web" collectionTime="0" />
+      <project id="bootzooka-root" values="scala" collectionTime="0" />
+      <project id="generic" values="Spring" collectionTime="1445438584496" />
+      <project id="solarium-main" values="Python,Spring,web" collectionTime="1455001558591" />
+      <project id="spring-petclinic" values="web" collectionTime="1430852939577" />
+      <project id="mantis-sms-notification" values="Python" collectionTime="1448635953017" />
+      <project id="android" values="android,android-gradle" collectionTime="1448628384881" />
+      <project id="cpi" values="web,jpa" collectionTime="0" />
+    </group>
+    <group name="language-level">
+      <project id="initializr" values="JDK_1_7,JDK_1_6,JDK_1_5" collectionTime="1466403130319" />
+      <project id="learning-akka" values="JDK_1_6" collectionTime="0" />
+      <project id="touk-superpom" values="JDK_1_6,JDK_1_5,JDK_1_8" collectionTime="1467017445995" />
+      <project id="VendingMachineKata" values="JDK_1_6" collectionTime="1435049318836" />
+      <project id="service-questionaire-GenerateUrl" values="JDK_1_6,JDK_1_5,JDK_1_8" collectionTime="1436195964653" />
+      <project id="demo-spring-boot" values="JDK_1_8" collectionTime="1431631913211" />
+      <project id="sag_rekomendacje" values="JDK_1_6,JDK_1_7" collectionTime="0" />
+      <project id="service-group-findGroup" values="JDK_1_6,JDK_1_5,JDK_1_8" collectionTime="1438071588272" />
+      <project id="gsp_spark_without_sharing" values="JDK_1_7" collectionTime="1429735230082" />
+      <project id="questionaire-api" values="JDK_1_6,JDK_1_8" collectionTime="1436521212564" />
+      <project id="mvno" values="JDK_1_8,JDK_1_5" collectionTime="1465978553878" />
+      <project id="untitled" values="JDK_1_6" collectionTime="0" />
+      <project id="spmf" values="JDK_1_7" collectionTime="0" />
+      <project id="findgroup-impl" values="JDK_1_8,JDK_1_6" collectionTime="1444727353402" />
+      <project id="dbf" values="JDK_1_7" collectionTime="0" />
+      <project id="Validation" values="JDK_1_6" collectionTime="0" />
+      <project id="wdm" values="JDK_1_8" collectionTime="0" />
+      <project id="ctrl-pkw" values="JDK_1_8" collectionTime="1435823875437" />
+      <project id="questionaire-impl" values="JDK_1_6,JDK_1_8" collectionTime="1447423326666" />
+      <project id="tt" values="JDK_1_5,JDK_1_8" collectionTime="1459845282005" />
+      <project id="generic" values="JDK_1_5,JDK_1_6,JDK_1_8" collectionTime="1445438584571" />
+      <project id="pc" values="JDK_1_8,JDK_1_6,JDK_1_5" collectionTime="1455536284162" />
+      <project id="channel-utils-questionaire" values="JDK_1_6,JDK_1_5" collectionTime="1435910996026" />
+      <project id="springboottest" values="JDK_1_6" collectionTime="1429125804148" />
+      <project id="remove" values="JDK_1_8" collectionTime="0" />
+      <project id="commons" values="JDK_1_5,JDK_1_6,JDK_1_8" collectionTime="1458203786031" />
+      <project id="cpi" values="JDK_1_6" collectionTime="0" />
+      <project id="weka-dev" values="JDK_1_6" collectionTime="0" />
+      <project id="guiceTest" values="JDK_1_6" collectionTime="0" />
+      <project id="solarium-main" values="JDK_1_6,JDK_1_8" collectionTime="1455001558838" />
+      <project id="adapter-usageinfo" values="JDK_1_6,JDK_1_8,JDK_1_5" collectionTime="1435836916646" />
+      <project id="tut-data-initial" values="JDK_1_6" collectionTime="0" />
+      <project id="tut-data-5-complete" values="JDK_1_6" collectionTime="0" />
+      <project id="bootzooka-root" values="JDK_1_6" collectionTime="0" />
+      <project id="bootzooka" values="JDK_1_6" collectionTime="1430853648326" />
+      <project id="channel-utils-LocationCheck" values="JDK_1_5,JDK_1_6,JDK_1_8" collectionTime="1443197471535" />
+      <project id="xml-utils" values="JDK_1_8,JDK_1_6" collectionTime="1458300672957" />
+      <project id="esb-parent" values="JDK_1_5,JDK_1_8" collectionTime="1465218606198" />
+      <project id="codebrag-root" values="JDK_1_7" collectionTime="1430915899331" />
+      <project id="validating-filter" values="JDK_1_8,JDK_1_6" collectionTime="1458204519103" />
+      <project id="android" values="JDK_1_6" collectionTime="1448628384952" />
+      <project id="profilowanie.iml" values="JDK_1_6" collectionTime="0" />
+      <project id="WordCountHadoop2" values="JDK_1_6" collectionTime="0" />
+      <project id="preprod" values="JDK_1_6" collectionTime="1447846189327" />
+      <project id="test_1" values="JDK_1_6" collectionTime="0" />
+      <project id="notifier_2" values="JDK_1_8,JDK_1_6,JDK_1_5" collectionTime="1467797302904" />
+      <project id="hadoop_test_1" values="JDK_1_6" collectionTime="0" />
+      <project id="gsp-hadoop" values="JDK_1_8" collectionTime="1430851700018" />
+      <project id="logging-filter" values="JDK_1_6" collectionTime="1448463028855" />
+      <project id="abc2" values="JDK_1_6" collectionTime="0" />
+      <project id="src" values="JDK_1_6" collectionTime="0" />
+      <project id="password" values="JDK_1_6" collectionTime="0" />
+      <project id="gn" values="JDK_1_6" collectionTime="0" />
+      <project id="esb-number-forward" values="JDK_1_6" collectionTime="1448626296632" />
+      <project id="shiro-root-1.2.2" values="JDK_1_6" collectionTime="0" />
+      <project id="spring-petclinic" values="JDK_1_6" collectionTime="1430852939624" />
+      <project id="HadoopGsp" values="JDK_1_8" collectionTime="1429287962518" />
+      <project id="java" values="JDK_1_6" collectionTime="1448635949702" />
+      <project id="projekt" values="JDK_1_6" collectionTime="0" />
+      <project id="notifier" values="JDK_1_8,JDK_1_6,JDK_1_5" collectionTime="1454666041105" />
+      <project id="db_emisje" values="JDK_1_6" collectionTime="0" />
+      <project id="gsp" values="JDK_1_7" collectionTime="1429814787209" />
+      <project id="remove_3" values="JDK_1_6" collectionTime="0" />
+      <project id="remove_2" values="JDK_1_6" collectionTime="0" />
+      <project id="service-questionaire-generateurl" values="JDK_1_6" collectionTime="1436195994106" />
+      <project id="parent-pom" values="JDK_1_6,JDK_1_8,JDK_1_5" collectionTime="1467640756605" />
+      <project id="gradle" values="JDK_1_6" collectionTime="1429728132573" />
+      <project id="acceptanceTests" values="JDK_1_6,JDK_1_8" collectionTime="1440492631069" />
+      <project id="abc" values="JDK_1_6" collectionTime="0" />
+      <project id="remove_4" values="JDK_1_6" collectionTime="0" />
+      <project id="profilowanie-projekt" values="JDK_1_7" collectionTime="0" />
+      <project id="common" values="JDK_1_6" collectionTime="1458133964630" />
+      <project id="sudoku" values="JDK_1_6" collectionTime="0" />
+      <project id="spark-parent" values="JDK_1_6" collectionTime="0" />
+      <project id="mantis-sms-notification" values="JDK_1_6" collectionTime="1448635953022" />
+      <project id="gsp_spark" values="JDK_1_8" collectionTime="1429728115506" />
+      <project id="test" values="JDK_1_6" collectionTime="1431592787246" />
+    </group>
+    <group name="py-interpreter">
+      <project id="solarium-main" values="Python 2.7.11,Python 2.7.11" collectionTime="1455001559328" />
+      <project id="mantis-sms-notification" values="Python 2.7.10" collectionTime="1448635953023" />
+      <project id="esb-number-forward" values="Python 2.7.10" collectionTime="1448626296662" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="162" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="5" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.TRIM_WHITESPACES" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="3" />
+      <entry feature="execute.Application.Coverage" count="2" />
+      <entry feature="execute.Application.Debug" count="2684" />
+      <entry feature="execute.Application.Debug with VisualVM" count="2" />
+      <entry feature="execute.Application.JProfiler" count="8" />
+      <entry feature="execute.Application.Run" count="514" />
+      <entry feature="execute.Application.Run with VisualVM" count="7" />
+      <entry feature="execute.GWT.ConfigurationType.Debug" count="4" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="41" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Debug" count="4" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="36" />
+      <entry feature="execute.JUnit.Coverage" count="78" />
+      <entry feature="execute.JUnit.Debug" count="2160" />
+      <entry feature="execute.JUnit.Run" count="6153" />
+      <entry feature="execute.JUnit.Run with VisualVM" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="3" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="14" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="17" />
+      <entry feature="execute.Remote.Debug" count="442" />
+      <entry feature="execute.ScalaScriptConsoleRunConfiguration.Run" count="1" />
+      <entry feature="execute.ScalaTestRunConfiguration.Debug" count="75" />
+      <entry feature="execute.ScalaTestRunConfiguration.Run" count="193" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="5" />
+      <entry feature="execute.TestNG.Run" count="3" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.refactoring.moveFile" count="1" />
+      <entry feature="ide.help.refactoring.moveMembers" count="1" />
+      <entry feature="ide.help.refactoring.renameFile" count="1" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.help.webservices.GenerateWsdlFromJava" count="1" />
+      <entry feature="ide.settings.Annotation_Processors" count="26" />
+      <entry feature="ide.settings.Appearance" count="20" />
+      <entry feature="ide.settings.Auto_Import" count="2" />
+      <entry feature="ide.settings.BashSupport" count="8" />
+      <entry feature="ide.settings.CodeNarc" count="5" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Coding_Rules" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="25" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.Data_Views" count="1" />
+      <entry feature="ide.settings.Database" count="1" />
+      <entry feature="ide.settings.Debugger" count="7" />
+      <entry feature="ide.settings.Editor_Tabs" count="3" />
+      <entry feature="ide.settings.Enter_your_license_key" count="1" />
+      <entry feature="ide.settings.External_Tools" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_Types" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.FindBugs" count="1" />
+      <entry feature="ide.settings.Font" count="27" />
+      <entry feature="ide.settings.General" count="12" />
+      <entry feature="ide.settings.Gerrit" count="7" />
+      <entry feature="ide.settings.Gradle" count="4" />
+      <entry feature="ide.settings.Grep_Console" count="1" />
+      <entry feature="ide.settings.Groovy" count="28" />
+      <entry feature="ide.settings.Groovy_Compiler" count="1" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Intentions" count="1" />
+      <entry feature="ide.settings.IvyIDEA" count="13" />
+      <entry feature="ide.settings.Java" count="14" />
+      <entry feature="ide.settings.Java_Compiler" count="13" />
+      <entry feature="ide.settings.KeyPromoter" count="45" />
+      <entry feature="ide.settings.Language_Defaults" count="9" />
+      <entry feature="ide.settings.Plugins" count="13" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
+      <entry feature="ide.settings.Python" count="4" />
+      <entry feature="ide.settings.QAPlug" count="1" />
+      <entry feature="ide.settings.SQL_Dialects" count="14" />
+      <entry feature="ide.settings.Scala" count="2" />
+      <entry feature="ide.settings.Scala_Compiler" count="1" />
+      <entry feature="ide.settings.Scopes" count="2" />
+      <entry feature="ide.settings.Spock" count="4" />
+      <entry feature="ide.settings.TODO" count="5" />
+      <entry feature="ide.settings.Updates" count="2" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ide.settings.Vim_Emulation" count="2" />
+      <entry feature="ide.settings.VisualVM_Launcher" count="1" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ide.settings.XPath_Viewer" count="1" />
+      <entry feature="ide.settings.XQuery" count="1" />
+      <entry feature="ideaapp.started" count="422" />
+      <entry feature="scala.change.signature" count="1" />
+      <entry feature="scala.compilation.incremental.by.idea" count="72" />
+      <entry feature="scala.compilation.with.server" count="72" />
+      <entry feature="scala.extract.method" count="4" />
+      <entry feature="scala.extract.trait" count="5" />
+      <entry feature="scala.file.script.parsed" count="2779" />
+      <entry feature="scala.file.with.type.aware.annotated" count="8285" />
+      <entry feature="scala.file.without.type.aware.annotated" count="119" />
+      <entry feature="scala.introduce.field" count="8" />
+      <entry feature="scala.introduce.parameter" count="2" />
+      <entry feature="scala.introduce.variable" count="20" />
+      <entry feature="scala.move.class" count="6" />
+      <entry feature="scala.rename.local" count="25" />
+      <entry feature="scala.rename.member" count="19" />
+      <entry feature="scala.worksheet" count="2950" />
+      <entry feature="spring.ModelRelatedProvider" count="6" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.groovy" count="114" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="19" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="222" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="2" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="2" />
+      <entry feature="tips.of.the.day.next" count="45" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="38" />
+      <entry feature="uml.ShowDiagram.DATABASE.popup" count="8" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="20" />
+      <entry feature="uml.ShowDiagram.JAVA" count="99" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="48" />
+      <entry feature="uml.ShowDiagram.MODULES" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="29" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="15" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="2" />
+    </counts>
+  </component>
+</application>

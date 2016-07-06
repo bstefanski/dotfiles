@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="DifficultyLevel" type="JAVA" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping ext="jad" type="PLAIN_TEXT" />
+      <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
+      <removed_mapping ext="jam" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" type="PLAIN_TEXT" />
+      <removed_mapping ext="policy" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" type="PLAIN_TEXT" />
+      <mapping pattern="V031__alter_cpi_simulations_add_smok_statuses" type="SQL" />
+      <mapping ext="bpel" type="XML" />
+      <mapping ext="deploy" type="XML" />
+    </extensionMap>
+  </component>
+</application>

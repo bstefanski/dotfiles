@@ -1,0 +1,46 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="dh_testbed" uuid="64324c6c-cdc8-44e6-a847-a429a3d3301a">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//10.23.7.14:1521/DHB</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="scheduler_localhost" uuid="dfc6d236-1bca-42bc-8823-cecde02f6de1">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/orcl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="pc_test" uuid="4e745d67-ac69-4980-8d8f-f0ca4e1cbd61">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//172.16.63.122:1521/PCDB</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="localhost_ntf_core" uuid="e03974ed-1866-4c76-b72f-996f89dba62a">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/orcl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="testbed_ntf" uuid="5ac81531-56a3-4f57-850f-a34af9344e71">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//172.16.63.122:1521/cstb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="localhost_ntf_sys" uuid="f1070f76-a9e8-4373-b261-807654e702fe">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/orcl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ntf_preprod" uuid="5cff6d8f-16c9-4764-8705-4ff69a87a39e">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//172.16.39.215:1521/PCS</jdbc-url>
+    </data-source>
+  </component>
+</application>

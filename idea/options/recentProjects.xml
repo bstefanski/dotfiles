@@ -1,0 +1,362 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/data/workspace/touk/channels" />
+        <option value="$USER_HOME$/data/workspace/touk/adapters" />
+        <option value="$USER_HOME$/data/workspace/touk/notifier_2" />
+        <option value="$USER_HOME$/data/workspace/touk/initializr" />
+        <option value="$USER_HOME$/data/workspace/touk/mvno" />
+        <option value="$USER_HOME$/data/workspace/touk/e-payments" />
+        <option value="$USER_HOME$/data/workspace/touk/eventmanager" />
+        <option value="$USER_HOME$/data/workspace/touk/generic" />
+        <option value="$USER_HOME$/data/workspace/touk/smx4" />
+        <option value="$USER_HOME$/data/workspace/touk/notifier" />
+        <option value="$USER_HOME$/data/workspace/touk/tt" />
+        <option value="$USER_HOME$/data/workspace/touk/common/xml-utils" />
+        <option value="$USER_HOME$/data/workspace/touk/common/validating-filter" />
+        <option value="$USER_HOME$/data/workspace/touk/touk-common" />
+        <option value="$USER_HOME$/data/workspace/touk/common" />
+        <option value="$USER_HOME$/data/workspace/touk/pc" />
+        <option value="$USER_HOME$/data/workspace/touk/solr" />
+        <option value="$USER_HOME$/data/workspace/touk/adapters/pc" />
+        <option value="$USER_HOME$/data/workspace/touk/support-number-forwarding/android" />
+        <option value="$USER_HOME$/data/workspace/touk/flashki/variance/java" />
+        <option value="$USER_HOME$/data/workspace/touk/mantis-sms-notification" />
+        <option value="$USER_HOME$/data/workspace/touk/esb-number-forward" />
+        <option value="$USER_HOME$/data/workspace/touk/common/logging-filter" />
+        <option value="$USER_HOME$/data/workspace/touk/preprod" />
+        <option value="$USER_HOME$/data/workspace/touk/flashki/questionaire-impl" />
+        <option value="$USER_HOME$/data/workspace/touk/kp-ws2" />
+        <option value="$USER_HOME$/data/workspace/touk/generic/findgroup-impl" />
+        <option value="$USER_HOME$/data/workspace/touk/plankton-esb/channel-utils-locationcheck" />
+        <option value="$USER_HOME$/data/workspace/touk/notifier/acceptanceTests" />
+        <option value="$USER_HOME$/data/workspace/touk/notifier/parent-pom.ipr" />
+        <option value="$USER_HOME$/data/workspace/touk/plankton-esb/service-group-findgroup/service-group-findGroup.ipr" />
+        <option value="$USER_HOME$/data/workspace/touk/generic/questionaire-impl/questionaire-impl.ipr" />
+        <option value="$USER_HOME$/data/workspace/touk/generic/questionaire-api" />
+        <option value="$USER_HOME$/data/workspace/touk/payments" />
+        <option value="$USER_HOME$/data/workspace/touk/plankton-esb/service-group-findgroup" />
+        <option value="$USER_HOME$/data/workspace/touk/service-questionaire-generateurl" />
+        <option value="$USER_HOME$/data/workspace/touk/channel-utils-questionaire" />
+        <option value="$USER_HOME$/data/workspace/touk/adapters/usageinfo/adapter-usageinfo.ipr" />
+        <option value="$USER_HOME$/data/workspace/misc/touk/ctrl-pkw/ctrl-pkw.ipr" />
+        <option value="$USER_HOME$/data/workspace/misc/bstefanski-vending-machine-kata/VendingMachineKata.ipr" />
+        <option value="$USER_HOME$/data/workspace/scala/gsp_spark/gsp_spark.ipr" />
+        <option value="$USER_HOME$/data/workspace/misc/demo-spring-boot/demo-spring-boot.ipr" />
+        <option value="$USER_HOME$/data/workspace/scala/test" />
+        <option value="$USER_HOME$/data/workspace/misc/vending-machine-kata" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/data/workspace/touk/notifier_2" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/data/workspace/touk/channels" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/data/workspace/touk/adapters">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1120.6" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467797304087" />
+              <option name="buildTimestamp" value="1467064800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/adapters/pc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-144.2925" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453200598226" />
+              <option name="buildTimestamp" value="1452466800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/channels">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1120.6" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467805651278" />
+              <option name="buildTimestamp" value="1467064800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.256" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458133928593" />
+              <option name="buildTimestamp" value="1457564400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/common/logging-filter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.870" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448462852317" />
+              <option name="buildTimestamp" value="1447801200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/common/validating-filter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.256" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458204516579" />
+              <option name="buildTimestamp" value="1457564400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/common/xml-utils">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.256" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458221803605" />
+              <option name="buildTimestamp" value="1457564400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/e-payments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465550686570" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/esb-number-forward">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448615862623" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/eventmanager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465307868364" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/flashki/questionaire-impl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.381" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447398087642" />
+              <option name="buildTimestamp" value="1446159600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/flashki/variance/java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448632750301" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/generic">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465292074050" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/initializr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466065511537" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/mantis-sms-notification">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448628384989" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/mvno">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465974215701" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/notifier">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.844" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1460303684054" />
+              <option name="buildTimestamp" value="1459807200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/notifier_2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.1120.6" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1467648915585" />
+              <option name="buildTimestamp" value="1467064800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/pc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-144.3891" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455534517498" />
+              <option name="buildTimestamp" value="1454972400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/preprod">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.747" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1447845283140" />
+              <option name="buildTimestamp" value="1447282800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/smx4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.426.1" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465205830824" />
+              <option name="buildTimestamp" value="1464040800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/solr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-144.3600" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455001535722" />
+              <option name="buildTimestamp" value="1454367600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/support-number-forwarding/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1015" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1448876277639" />
+              <option name="buildTimestamp" value="1448319600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/touk-common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.256" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458199888999" />
+              <option name="buildTimestamp" value="1457564400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/workspace/touk/tt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.256" />
+              <option name="productionCode" value="IU" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1459842596616" />
+              <option name="buildTimestamp" value="1457564400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/data/workspace/touk" />
+  </component>
+</application>

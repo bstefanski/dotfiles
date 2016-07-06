@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://activemq.apache.org/schema/core/activemq-core.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/356fee2_activemq-core.xsd" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.2.0" location="$USER_HOME$/.IntelliJIdea16/system/extResources/3b9e2fcc_v1.2.0.xml" />
+    <resource url="http://karaf.apache.org/xmlns/jaas/v1.0.0" location="$USER_HOME$/.IntelliJIdea16/system/extResources/c83d0a06_v1.0.0.xml" />
+    <resource url="http://svn.apache.org/repos/asf/aries/trunk/blueprint/blueprint-cm/src/main/resources/org/apache/aries/blueprint/compendium/cm/blueprint-cm-1.2.0.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/12278a46_blueprint-cm-1.2.0.xsd" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://www.osgi.org/xmlns/metatype/v1.0.0" location="$USER_HOME$/.IntelliJIdea14/system/extResources/a4a4db12_v1.0.0.xml" />
+  </component>
+</application>

@@ -11,6 +11,5 @@ npm
 sass
 scss-lint
 semver
-tldr
 yo
 

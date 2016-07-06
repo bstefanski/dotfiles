@@ -1,0 +1,55 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Android Module Importing" />
+    <notification groupId="Android Property Files Updating" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Clojure" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="DCEVM" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="File type recognized" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Gradle Notification Group" />
+    <notification groupId="Gradle warnings" displayType="TOOL_WINDOW" />
+    <notification groupId="Grape" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="IDETalk XmlRpc Server" displayType="STICKY_BALLOON" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Jenkins Rss" displayType="NONE" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
+    <notification groupId="Node.js Project Detector" />
+    <notification groupId="notification.group.id.gradle" displayType="TOOL_WINDOW" />
+    <notification groupId="notification.group.id.sbt" displayType="TOOL_WINDOW" />
+    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
+    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins Lifecycle Group" />
+    <notification groupId="Productivity Baloon" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="SbtImportMessage" displayType="STICKY_BALLOON" />
+    <notification groupId="Source searcher" />
+    <notification groupId="Svn Roots Detection Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="System Messages" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+  </component>
+</application>

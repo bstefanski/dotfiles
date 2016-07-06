@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>gradle</mask>
+      <mask>*Resource*</mask>
+      <mask>*Job*</mask>
+      <mask>*RequestBuilder*</mask>
+      <mask>*jade*</mask>
+      <mask>*Builder*</mask>
+      <mask>.jade</mask>
+      <mask>*jade</mask>
+      <mask>*.jade</mask>
+      <mask>*test.java</mask>
+      <mask>*.less</mask>
+      <mask>*Resource.java</mask>
+      <mask>*.gradle</mask>
+      <mask>*.xsd</mask>
+      <mask>*.properties</mask>
+      <mask>*.groovy</mask>
+      <mask>*Test.java</mask>
+      <mask>*.java</mask>
+      <mask>blueprint.xml</mask>
+      <mask>metatype.xml</mask>
+      <mask>!package-info.java</mask>
+      <mask>*,!package-info.java</mask>
+      <mask>*Test*</mask>
+      <mask>pom.xml</mask>
+      <mask>*.groovy,*.java</mask>
+      <mask>*.groovy,*.java,*.properties</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

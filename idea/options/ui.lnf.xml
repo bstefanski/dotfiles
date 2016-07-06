@@ -1,0 +1,22 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="FONT_SIZE" value="12" />
+    <option name="EDITOR_TAB_LIMIT" value="7" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="17" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MERGE_EQUAL_STACKTRACES" value="false" />
+  </component>
+</application>

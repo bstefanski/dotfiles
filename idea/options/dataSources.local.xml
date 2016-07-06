@@ -1,0 +1,54 @@
+<application>
+  <component name="dataSourceStorageLocal">
+    <data-source name="dh_testbed" uuid="64324c6c-cdc8-44e6-a847-a429a3d3301a">
+      <secret-storage>master_key</secret-storage>
+      <user-name>link_esb</user-name>
+      <introspection-scope>*:LINK_ESB</introspection-scope>
+      <resolve-scope>*:LINK_ESB,SYS,SYSTEM</resolve-scope>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>js-test5</proxy-host>
+        <proxy-port>22</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>esb</user>
+        <use-password>true</use-password>
+      </ssh-properties>
+    </data-source>
+    <data-source name="scheduler_localhost" uuid="dfc6d236-1bca-42bc-8823-cecde02f6de1">
+      <secret-storage>master_key</secret-storage>
+      <user-name>smx4</user-name>
+      <introspection-scope>*:SMX4</introspection-scope>
+      <resolve-scope>*:SMX4,SYS,SYSTEM</resolve-scope>
+    </data-source>
+    <data-source name="pc_test" uuid="4e745d67-ac69-4980-8d8f-f0ca4e1cbd61">
+      <secret-storage>master_key</secret-storage>
+      <user-name>PC_CUSTOMER_TEST</user-name>
+      <introspection-scope>*:PC_CUSTOMER_TEST,PC_PRODUCT,PC_WS2,PC_WS_BSA2</introspection-scope>
+      <resolve-scope>*:PC_CUSTOMER_TEST,SYS,SYSTEM</resolve-scope>
+    </data-source>
+    <data-source name="localhost_ntf_core" uuid="e03974ed-1866-4c76-b72f-996f89dba62a">
+      <secret-storage>master_key</secret-storage>
+      <user-name>NTF_CORE</user-name>
+      <introspection-scope>*:NTF_CORE,PUBLIC,SYS,SYSTEM</introspection-scope>
+      <resolve-scope>*:NTF_CORE,PUBLIC</resolve-scope>
+    </data-source>
+    <data-source name="testbed_ntf" uuid="5ac81531-56a3-4f57-850f-a34af9344e71">
+      <secret-storage>master_key</secret-storage>
+      <user-name>NTF_ESB</user-name>
+      <introspection-scope>*:NTF_CORE,NTF_ESB</introspection-scope>
+      <resolve-scope>*:NTF_ESB,PUBLIC</resolve-scope>
+    </data-source>
+    <data-source name="localhost_ntf_sys" uuid="f1070f76-a9e8-4373-b261-807654e702fe">
+      <secret-storage>master_key</secret-storage>
+      <user-name>sys as sysdba</user-name>
+      <introspection-scope>*:LINK_ESB,NTF_CORE,NTF_ESB</introspection-scope>
+      <resolve-scope>*:SYS,SYSTEM</resolve-scope>
+    </data-source>
+    <data-source name="ntf_preprod" uuid="5cff6d8f-16c9-4764-8705-4ff69a87a39e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>link_esb</user-name>
+      <introspection-scope>*:LINK_ESB,NTF_CORE,NTF_ESB</introspection-scope>
+      <resolve-scope>*:PUBLIC</resolve-scope>
+    </data-source>
+  </component>
+</application>

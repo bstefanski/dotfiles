@@ -1,0 +1,7 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="delayForVisualVMStart" value="5" />
+    <option name="durationToSetContextToButton" value="5" />
+    <option name="visualVmExecutable" value="/usr/lib/jvm/default/bin/jvisualvm" />
+  </component>
+</application>

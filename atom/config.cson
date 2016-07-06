@@ -11,6 +11,9 @@
       "metrics"
       "linter-jscs"
       "spell-check"
+      "atom-ternjs"
+      "linter-flow"
+      "linter-jshint"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"

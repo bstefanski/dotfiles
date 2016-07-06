@@ -16,6 +16,7 @@ bind-tools
 binutils
 bison
 blueman
+bluez-utils
 bmon
 btrfs-progs
 bzip2
@@ -47,6 +48,7 @@ dosfstools
 doxygen
 e2fsprogs
 ecryptfs-utils
+efitools
 ethtool
 evince
 exo
@@ -156,10 +158,10 @@ linux42
 linux42-headers
 linux42-ndiswrapper
 linux42-virtualbox-host-modules
-linux45
-linux45-headers
-linux45-ndiswrapper
-linux45-virtualbox-host-modules
+linux46
+linux46-headers
+linux46-ndiswrapper
+linux46-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -251,6 +253,7 @@ powertop
 prebootloader
 procps-ng
 psmisc
+pulseaudio-bluetooth
 pulseaudio-ctl
 pv
 python-pip
