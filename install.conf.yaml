@@ -22,6 +22,7 @@
     ~/.IntelliJIdea2016.2/config: idea
     ~/.config/autostart: xfce/autostart
     ~/.config/xfce4/xfconf: xfce/xfconf
+    ~/.config/xfce4/terminal: xfce/terminal
     ~/.config/Mattermost/config.json: mattermost/config.json
     ~/.config/parcellite: parcellite
     ~/.config/plank: plank
