@@ -19,5 +19,12 @@
     ~/.config/sublime-text-3/Packages/User: sublime
     ~/.config/redshift.conf: redshift.conf
     ~/.config/compton.conf: compton.conf
+    ~/.IntelliJIdea2016.2/config: idea
+    ~/.config/autostart: xfce/autostart
+    ~/.config/xfce4/xfconf: xfce/xfconf
+    ~/.config/Mattermost/config.json: mattermost/config.json
+    ~/.config/parcellite: parcellite
+    ~/.config/plank: plank
+    ~/.config/synapse: synapse
 - shell:
   - "git submodule update --init --recursive"

@@ -1,0 +1,12 @@
+{
+  "teams": [
+    {
+      "name": "TouK",
+      "url": "http://slack.touk.pl"
+    }
+  ],
+  "hideMenuBar": true,
+  "showTrayIcon": false,
+  "disablewebsecurity": true,
+  "version": 1
+}

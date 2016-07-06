@@ -10,6 +10,10 @@
 !keymaps/*
 !options
 !options/*
+options/options.xml
+options/feature.usage.statistics.xml
+options/recentProjects.xml
+options/statistics.application.usages.xml
 !quicklists
 !quicklists/*
 !templates
