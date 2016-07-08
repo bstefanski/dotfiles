@@ -7,6 +7,7 @@
   "autocomplete-plus": {}
   core:
     audioBeep: false
+    autoHideMenuBar: true
     disabledPackages: [
       "metrics"
       "linter-jscs"
