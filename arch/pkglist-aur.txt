@@ -12,6 +12,7 @@ faba-icon-theme-git
 faba-mono-icons-git
 fish-git
 fontconfig-ubuntu
+franz
 freetype2-ubuntu
 google-talkplugin
 gqlplus
