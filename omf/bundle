@@ -1,6 +1,5 @@
 package bang-bang
 package bundler
-package extract
 package mvn
 package rvm
 package z
