@@ -133,6 +133,8 @@ java-environment-common
 jemalloc
 jfsutils
 jq
+jupyter
+jupyter-notebook
 keyboardctl
 less
 lib32-gtk2
@@ -162,12 +164,17 @@ linux46
 linux46-headers
 linux46-ndiswrapper
 linux46-virtualbox-host-modules
+linux47
+linux47-headers
+linux47-ndiswrapper
+linux47-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
 lshw
 lsof
 lvm2
+lxappearance
 lzop
 m4
 make
@@ -277,7 +284,6 @@ sed
 shadow
 shellcheck
 shutter
-skype
 smartmontools
 smplayer
 sqliteman
@@ -317,6 +323,7 @@ tree
 ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
+ttf-hack
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
