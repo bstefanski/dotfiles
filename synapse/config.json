@@ -22,7 +22,7 @@
       "exit" : "<Control>q"
     },
     "global" : {
-      "ui-type" : "default",
+      "ui-type" : "essential",
       "show-indicator" : false
     }
   },
@@ -36,10 +36,13 @@
         "SynapseLaunchpadPlugin",
         "SynapseOpenSearchPlugin",
         "SynapsePastebinPlugin",
-        "SynapseZeitgeistRelated",
         "SynapseSshPlugin",
         "SynapseSelectionPlugin",
-        "SynapseSystemManagementPlugin"
+        "SynapseChatActions",
+        "SynapseChromiumPlugin",
+        "SynapseFileOpPlugin",
+        "SynapseGnomeBookmarksPlugin",
+        "SynapsePidginPlugin"
       ]
     }
   }
