@@ -1,3 +1,0 @@
-<application>
-  <component name="GerritSettings" Login="bst" Host="http://gerrit.touk.pl:8080" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="10" ReviewNotifications="false" PushToGerrit="false" ShowChangeNumberColumn="true" ShowChangeIdColumn="false" />
-</application>

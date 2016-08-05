@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <component name="TemplateCache" checksum="1412932942028">
-    <jvm name="/usr/lib/jvm/java-7-oracle" value="-agentpath:/opt/jprofiler8/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
-    <jvm name="$APPLICATION_PLUGINS_DIR$/DCEVM_JRE" value="-agentpath:/opt/jprofiler8/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
-  </component>
-</application>
-
