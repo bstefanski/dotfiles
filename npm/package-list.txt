@@ -1,8 +1,9 @@
 bootlint
 brunch
 coffee-script
-csslint
 dockerlint
+eslint
+eslint-plugin-react
 flow-bin
 grunt-cli
 jscs
