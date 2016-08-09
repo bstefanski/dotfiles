@@ -275,6 +275,7 @@ rbutil
 redshift
 refind-efi
 reiserfsprogs
+rofi
 rsync
 s-nail
 samba

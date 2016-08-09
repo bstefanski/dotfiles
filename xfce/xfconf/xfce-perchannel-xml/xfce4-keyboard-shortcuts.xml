@@ -34,6 +34,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Super&gt;l" type="string" value="xflock4"/>
       <property name="&lt;Primary&gt;&lt;Super&gt;Up" type="string" value="/home/bartekmanj/bin/move-to-next-monitor"/>
+      <property name="&lt;Super&gt;space" type="string" value="rofi -config ~/dotfiles/rofi/config -show run -monitor 0"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
