@@ -116,6 +116,7 @@ hunspell-en
 hunspell-pl
 hyphen-en
 hyphen-pl
+i3lock
 inetutils
 intel-ucode
 intltool
