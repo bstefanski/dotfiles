@@ -26,7 +26,6 @@ kitematic
 libcurl-compat
 libxfcegui4
 libzeitgeist
-mattermost-desktop
 mprime
 paper-icon-theme-git
 perl-term-shellui
