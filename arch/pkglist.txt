@@ -157,14 +157,6 @@ libutempter
 libyaml
 licenses
 linux-firmware
-linux42
-linux42-headers
-linux42-ndiswrapper
-linux42-virtualbox-host-modules
-linux46
-linux46-headers
-linux46-ndiswrapper
-linux46-virtualbox-host-modules
 linux47
 linux47-headers
 linux47-ndiswrapper
@@ -365,7 +357,6 @@ xdg-user-dirs
 xdg-utils
 xdotool
 xf86-input-acecad
-xf86-input-aiptek
 xf86-input-evdev
 xf86-input-joystick
 xf86-input-keyboard

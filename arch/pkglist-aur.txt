@@ -22,11 +22,10 @@ jdk6
 jdk7
 jmtpfs
 kdiff3-qt
-kitematic
-libcurl-compat
 libxfcegui4
 libzeitgeist
 mprime
+nodejs-tldr
 paper-icon-theme-git
 perl-term-shellui
 pipelight
