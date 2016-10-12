@@ -46,6 +46,7 @@ docker
 docker-compose
 dosfstools
 doxygen
+dstat
 e2fsprogs
 ecryptfs-utils
 efitools
