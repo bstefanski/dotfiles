@@ -1,6 +1,0 @@
-package bang-bang
-package bundler
-package mvn
-package rvm
-package z
-theme default

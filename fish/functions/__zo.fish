@@ -1,0 +1,1 @@
+/home/bartekmanj/.config/fisherman/z/functions/__zo.fish

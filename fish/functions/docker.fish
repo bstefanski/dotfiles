@@ -1,0 +1,1 @@
+/home/bartekmanj/.config/fisherman/docker-fish-completion/docker.fish
