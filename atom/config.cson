@@ -5,6 +5,8 @@
       analytics: false
   "atom-lint": {}
   "autocomplete-plus": {}
+  "autocomplete-ruby":
+    rsensePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/bin/rsense"
   core:
     audioBeep: false
     autoHideMenuBar: true
@@ -12,14 +14,17 @@
       "metrics"
       "linter-jscs"
       "spell-check"
-      "atom-ternjs"
       "linter-flow"
       "linter-jshint"
+      "pigments"
+      "color-picker"
+      "vim-mode"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
       "split-diff"
     ]
+    telemetryConsent: "no"
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"
@@ -36,7 +41,7 @@
     userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
   "fuzzy-finder": {}
   linter:
-    showErrorPanel: false
+    showErrorInline: false
   "linter-bootlint":
     executablePath: "/usr/bin/bootlint"
   "linter-docker":
@@ -52,6 +57,7 @@
     executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/reek"
   "linter-rubocop":
     command: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/rubocop"
+  "linter-ruby": {}
   "linter-scss-lint":
     executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.2.0/wrappers/scss-lint"
   "linter-shellcheck": {}
@@ -59,6 +65,7 @@
   "markdown-preview": {}
   pigments: {}
   "project-manager": {}
+  "rubocop-auto-correct": {}
   "spell-check": {}
   "status-bar": {}
   tabs: {}
@@ -66,6 +73,8 @@
     onSave: "untabify"
   "trailing-spaces":
     enableForCursorLines: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
   "vim-mode":
     startInInsertMode: true
     useSmartcaseForSearch: true
