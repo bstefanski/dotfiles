@@ -164,6 +164,10 @@ linux48
 linux48-headers
 linux48-ndiswrapper
 linux48-virtualbox-host-modules
+linux49
+linux49-headers
+linux49-ndiswrapper
+linux49-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
