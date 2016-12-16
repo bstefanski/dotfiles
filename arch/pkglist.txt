@@ -4,6 +4,7 @@ android-tools
 anki
 apache
 apache-ant
+arc-gtk-theme
 arj
 aspell-en
 aspell-pl
@@ -50,6 +51,7 @@ dstat
 e2fsprogs
 ecryptfs-utils
 efitools
+elementary-xfce-icons
 ethtool
 evince
 exo
@@ -158,10 +160,10 @@ libutempter
 libyaml
 licenses
 linux-firmware
-linux47
-linux47-headers
-linux47-ndiswrapper
-linux47-virtualbox-host-modules
+linux48
+linux48-headers
+linux48-ndiswrapper
+linux48-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -213,6 +215,7 @@ nfs-utils
 nginx
 nilfs-utils
 nmap
+nmon
 nodejs
 npm
 npth

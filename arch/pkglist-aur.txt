@@ -1,4 +1,3 @@
-anaconda
 anoise
 anoise-community-extension1
 anoise-community-extension2
@@ -8,13 +7,11 @@ anoise-media
 atom-editor
 chromium-pepper-flash
 doublecmd-gtk2-alpha-bin
-elementary-xfce-icons
 fish-git
 fontconfig-ubuntu
 freetype2-ubuntu
 google-talkplugin
 gqlplus
-gtk-theme-arc
 gtk-theme-elementary
 hugo
 jdk
@@ -42,7 +39,6 @@ spotify
 sublime-text-dev
 texlive-localmanager-git
 texlive-moderncv
-tor-browser-en
 ttf-font-awesome
 ttf-meslo
 ttf-ms-fonts

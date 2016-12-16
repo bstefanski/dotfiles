@@ -19,6 +19,7 @@
       "pigments"
       "color-picker"
       "vim-mode"
+      "auto-detect-indentation"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
