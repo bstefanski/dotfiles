@@ -11,7 +11,7 @@ set __fish_git_prompt_showuntrackedfiles  'yes'
 set __fish_git_prompt_showupstream 'verbose'
 
 # Status Chars
-set __fish_git_prompt_char_dirtystate '⚡'
+set __fish_git_prompt_char_dirtystate '*'
 set __fish_git_prompt_char_untrackedfiles '?'
 set __fish_git_prompt_char_stagedstate '→'
 set __fish_git_prompt_char_stashstate '↩'
