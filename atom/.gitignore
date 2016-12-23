@@ -9,3 +9,5 @@ storage/
 atom-shell
 blob-store
 electron
+split-diff/
+recovery/
