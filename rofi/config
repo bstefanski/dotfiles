@@ -1,7 +1,0 @@
-rofi.color-window: #2b2e37, #2b2e37, #2b2e37
-rofi.color-normal: #2b2e37, #ffffff, #2b2e37, #586e75, #ffffff
-rofi.lines: 8
-rofi.font: Liberation Mono 12
-rofi.opacity: 85
-rofi.fuzzy: true
-rofi.bw: 10
