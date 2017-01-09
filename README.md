@@ -86,27 +86,3 @@ Installing AUR packages:
 ```
 yaourt -S --noconfirm < arch/pkglist-aur.txt
 ```
-
-## jvm
-
-Install sdkman:
-
-```
-curl -s api.sdkman.io | bash
-```
-
-Update sdkman:
-
-```
-sdk selfupdate
-```
-
-Install packages:
-
-```
-sdk install gradle
-sdk install groovy
-sdk install sbt
-sdk install scala
-sdk install kotlin
-```
