@@ -1,3 +1,4 @@
+atom-package-manager
 bootlint
 brunch
 coffee-script
@@ -5,6 +6,7 @@ dockerlint
 eslint
 eslint-plugin-react
 flow-bin
+generator-jhipster
 grunt-cli
 jscs
 jshint

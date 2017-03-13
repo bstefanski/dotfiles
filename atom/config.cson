@@ -3,6 +3,10 @@
     general:
       _analyticsUserId: "6a93f94a-ff57-4873-bfda-f04ffa59ed18"
       analytics: false
+    markdown:
+      commonmark: true
+    sql:
+      identifiers: "lower"
   "atom-lint": {}
   "autocomplete-plus": {}
   "autocomplete-ruby":
@@ -20,6 +24,7 @@
       "color-picker"
       "vim-mode"
       "auto-detect-indentation"
+      "autocomplete-ruby"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
@@ -27,11 +32,11 @@
     ]
     telemetryConsent: "no"
     themes: [
-      "atom-dark-ui"
-      "atom-dark-syntax"
+      "spacegray-dark-ui"
+      "oceanic-next"
     ]
   editor:
-    fontFamily: "Mono"
+    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
@@ -42,6 +47,7 @@
     userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
   "fuzzy-finder": {}
   linter:
+    errorPanelHeight: 98
     showErrorInline: false
   "linter-bootlint":
     executablePath: "/usr/bin/bootlint"
@@ -54,6 +60,9 @@
   "linter-jshint":
     executablePath: "/usr/bin/jshint"
     lintInlineJavaScript: true
+  "linter-puppet-lint":
+    executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/wrappers/puppet-lint"
+    oldVersion: false
   "linter-reek":
     executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/reek"
   "linter-rubocop":
@@ -72,6 +81,8 @@
   tabs: {}
   "tabs-to-spaces":
     onSave: "untabify"
+  "tidy-markdown":
+    ensureFirstHeaderIsH1: false
   "trailing-spaces":
     enableForCursorLines: true
   "tree-view":

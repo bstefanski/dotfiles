@@ -1,13 +1,14 @@
 acpid
 activity-log-manager
 android-tools
-anki
+ansible
 apache
 apache-ant
 arc-gtk-theme
 arj
 aspell-en
 aspell-pl
+atom
 audacity
 autoconf
 automake
@@ -69,6 +70,8 @@ firefox-i18n-en-us
 firefox-i18n-pl
 flashplugin
 flex
+fontconfig
+freetype2
 galculator
 garcon
 gawk
@@ -87,9 +90,10 @@ glibc
 gnome-disk-utility
 gnome-keyring
 gnome-system-monitor
-gnome-vfs
+gnu-netcat
 gparted
 gptfdisk
+gradle
 grep
 grub
 gssproxy
@@ -98,10 +102,6 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
-gstreamer0.10-bad-plugins
-gstreamer0.10-base-plugins
-gstreamer0.10-good-plugins
-gstreamer0.10-ugly-plugins
 gtk-xfce-engine
 gufw
 gvfs
@@ -115,6 +115,7 @@ haveged
 hdparm
 hostapd
 htop
+httpie
 hunspell-en
 hunspell-pl
 hyphen-en
@@ -182,14 +183,13 @@ man-pages
 manjaro-alsa
 manjaro-artwork
 manjaro-firmware
+manjaro-hello
 manjaro-hotfixes
 manjaro-printer
 manjaro-pulse
 manjaro-release
 manjaro-settings-manager
 manjaro-system
-manjaro-welcome
-maven
 mdadm
 mdm-themes
 memtest86+
@@ -240,8 +240,6 @@ pavucontrol
 pciutils
 pcmciautils
 perl
-perl-goo-canvas
-perl-gtk2-imageview
 perl-net-oauth
 perl-rename
 perl-xml-xpath
@@ -249,6 +247,7 @@ pgadmin3
 pidgin
 pidgin-libnotify
 pkg-config
+pkgbrowser
 pkgcacheclean
 plank
 playonlinux
@@ -283,7 +282,6 @@ sdparm
 sed
 shadow
 shellcheck
-shutter
 smartmontools
 smplayer
 sqliteman
@@ -362,9 +360,7 @@ xcursor-vanilla-dmz-aa
 xdg-user-dirs
 xdg-utils
 xdotool
-xf86-input-acecad
 xf86-input-evdev
-xf86-input-joystick
 xf86-input-keyboard
 xf86-input-mouse
 xf86-input-synaptics
@@ -384,7 +380,6 @@ xfce4-diskperf-plugin
 xfce4-fsguard-plugin
 xfce4-genmon-plugin
 xfce4-mailwatch-plugin
-xfce4-mixer
 xfce4-mount-plugin
 xfce4-mpc-plugin
 xfce4-netload-plugin

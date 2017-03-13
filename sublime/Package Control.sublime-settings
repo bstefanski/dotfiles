@@ -10,6 +10,7 @@
 		"Base Encoder",
 		"Better CoffeeScript",
 		"Bootstrap 3 Snippets",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Case Conversion",
 		"Clipboard Manager",
@@ -35,6 +36,7 @@
 		"jQuery",
 		"Kotlin",
 		"MarkdownEditing",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
 		"Python Flake8 Lint",
@@ -50,6 +52,7 @@
 		"SublimeLinter-json",
 		"SublimeREPL",
 		"Table Editor",
+		"Theme - Spacegray",
 		"TOML"
 	],
 	"submit_usage": false
