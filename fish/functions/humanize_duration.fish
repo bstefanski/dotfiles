@@ -1,0 +1,1 @@
+/home/bartekmanj/.config/fisherman/humanize_duration/humanize_duration.fish

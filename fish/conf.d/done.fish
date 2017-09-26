@@ -1,0 +1,1 @@
+/home/bartekmanj/.config/fisherman/done/conf.d/done.fish

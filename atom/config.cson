@@ -5,6 +5,7 @@
       analytics: false
     markdown:
       commonmark: true
+      disabled: true
     sql:
       identifiers: "lower"
   "atom-lint": {}
@@ -14,17 +15,16 @@
   core:
     audioBeep: false
     autoHideMenuBar: true
+    automaticallyUpdate: false
     disabledPackages: [
       "metrics"
       "linter-jscs"
       "spell-check"
       "linter-flow"
       "linter-jshint"
-      "pigments"
-      "color-picker"
-      "vim-mode"
-      "auto-detect-indentation"
-      "autocomplete-ruby"
+      "bookmarks"
+      "github"
+      "about"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
@@ -36,19 +36,17 @@
       "oceanic-next"
     ]
   editor:
-    fontSize: 15
     invisibles: {}
     preferredLineLength: 120
     showIndentGuide: true
     showInvisibles: true
     softWrap: true
     tabType: "soft"
+    zoomFontWhenCtrlScrolling: false
   "exception-reporting":
     userId: "1e51085d-feb1-9a65-ca48-c8546c3a4fd5"
   "fuzzy-finder": {}
-  linter:
-    errorPanelHeight: 98
-    showErrorInline: false
+  linter: {}
   "linter-bootlint":
     executablePath: "/usr/bin/bootlint"
   "linter-docker":
@@ -71,10 +69,14 @@
   "linter-scss-lint":
     executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.2.0/wrappers/scss-lint"
   "linter-shellcheck": {}
+  "linter-ui-default":
+    panelHeight: 66
   "linter-xmllint": {}
   "markdown-preview": {}
   pigments: {}
   "project-manager": {}
+  "regex-railroad-diagram":
+    enabled: false
   "rubocop-auto-correct": {}
   "spell-check": {}
   "status-bar": {}
