@@ -1,0 +1,2 @@
+#!/bin/sh
+git branch -q | cut -c3- | grep -iP "$1" | xargs git br -D {}
