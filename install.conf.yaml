@@ -25,5 +25,6 @@
     ~/.config/plank: plank
     ~/.config/synapse: synapse
     ~/.config/albert: albert
+    ~/.config/mpv: mpv
 - shell:
   - "git submodule update --init --recursive"
