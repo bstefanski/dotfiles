@@ -23,6 +23,7 @@ bmon
 btrfs-progs
 bzip2
 cabal-install
+cadaver
 calibre
 catfish
 chromium
@@ -165,10 +166,6 @@ libva-mesa-driver
 libyaml
 licenses
 linux-firmware
-linux410
-linux410-headers
-linux410-ndiswrapper
-linux410-virtualbox-host-modules
 linux412
 linux412-headers
 linux412-ndiswrapper
@@ -201,7 +198,6 @@ manjaro-settings-manager
 manjaro-system
 maven
 mdadm
-mdm-themes
 memtest86+
 mercurial
 mesa
@@ -214,6 +210,7 @@ mlocate
 mobile-broadband-provider-info
 modemmanager
 mp3splt
+mpv
 mutagen
 nbd
 ndiswrapper-utils
@@ -280,6 +277,7 @@ python-pyqt4
 python-sip
 python-sqlparse
 python-virtualenv
+python2-requests
 python2-virtualenv
 qpdfview
 rbutil
@@ -296,8 +294,6 @@ shadow
 shellcheck
 shntool
 smartmontools
-smplayer
-sqliteman
 squashfs-tools
 sshpass
 strace
@@ -334,6 +330,7 @@ tree
 ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
+ttf-font-awesome
 ttf-hack
 ttf-inconsolata
 ttf-indic-otf

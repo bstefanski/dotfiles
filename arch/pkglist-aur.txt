@@ -16,7 +16,6 @@ gnome-vfs-perl
 gnomecanvas-perl
 goocanvas1
 google-talkplugin
-gqlplus
 gstreamer0.10
 gstreamer0.10-bad
 gstreamer0.10-bad-plugins
@@ -26,6 +25,7 @@ gstreamer0.10-python
 gstreamer0.10-ugly
 gstreamer0.10-ugly-plugins
 gtk-theme-elementary
+hardcode-tray
 insomnia
 jdk
 jdk6
@@ -33,6 +33,7 @@ jdk7
 jdk8
 jmtpfs
 kdiff3-qt
+lib32-sni-qt-patched-git
 libbonobo
 libbonoboui
 libgnome
@@ -40,12 +41,19 @@ libgnome-data
 libgnomeui
 libxfcegui4
 libzeitgeist
+linux410
+linux410-headers
+linux410-ndiswrapper
+linux410-virtualbox-host-modules
+mdm
+mdm-themes
 mkchromecast
 mprime
 musixmatch-bin
 nodejs-tldr
 orbit2
 otf-fira-code
+papirus-icon-theme-git
 perl-gnome2-wnck
 perl-goo-canvas
 perl-gtk2-imageview
@@ -54,6 +62,7 @@ perl-term-shellui
 pipelight
 pkgfile-git
 pktstat
+plank-theme-arc
 pmount
 profile-sync-daemon
 python-marisa-trie
@@ -63,6 +72,7 @@ rocketchat-client
 shutter
 skypeforlinux-bin
 slack-desktop
+sni-qt-patched-git
 soapui
 spotify
 sublime-text-dev
@@ -74,7 +84,6 @@ ttf-caladea
 ttf-carlito
 ttf-courier-prime
 ttf-fira-code
-ttf-font-awesome
 ttf-gelasio-ib
 ttf-heuristica
 ttf-impallari-cantora
@@ -97,5 +106,6 @@ xfce4-quicklauncher-plugin
 xidel
 xorg-server-utils
 xorg-utils
+yakyak
 z-git
 zeitgeist-datasources
