@@ -82,6 +82,7 @@
     push-as-draft-develop = push origin HEAD:refs/drafts/develop
     push-for-review-branch = !git push origin HEAD:refs/for/$1
     push-as-draft-branch = !git push origin HEAD:refs/drafts/$1
+    up = pull --rebase --autostash
 [apply]
     whitespace = nowarn
 [core]

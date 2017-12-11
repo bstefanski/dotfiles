@@ -5,7 +5,6 @@
       analytics: false
     markdown:
       commonmark: true
-      disabled: true
     sql:
       identifiers: "lower"
   "atom-lint": {}
@@ -25,6 +24,7 @@
       "bookmarks"
       "github"
       "about"
+      "tidy-markdown"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
@@ -61,6 +61,8 @@
   "linter-puppet-lint":
     executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/wrappers/puppet-lint"
     oldVersion: false
+  "linter-python":
+    executablePath: "/usr/bin/pylama"
   "linter-reek":
     executablePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/wrappers/reek"
   "linter-rubocop":
@@ -79,6 +81,8 @@
     enabled: false
   "rubocop-auto-correct": {}
   "spell-check": {}
+  "split-diff":
+    ignoreWhitespace: true
   "status-bar": {}
   tabs: {}
   "tabs-to-spaces":
