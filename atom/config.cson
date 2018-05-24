@@ -5,6 +5,7 @@
       analytics: false
     markdown:
       commonmark: true
+      default_beautifier: "Tidy Markdown"
     sql:
       identifiers: "lower"
   "atom-lint": {}
@@ -81,8 +82,7 @@
     enabled: false
   "rubocop-auto-correct": {}
   "spell-check": {}
-  "split-diff":
-    ignoreWhitespace: true
+  "split-diff": {}
   "status-bar": {}
   tabs: {}
   "tabs-to-spaces":
