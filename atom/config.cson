@@ -72,8 +72,7 @@
   "linter-scss-lint":
     executablePath: "/home/bartekmanj/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.2.0/wrappers/scss-lint"
   "linter-shellcheck": {}
-  "linter-ui-default":
-    panelHeight: 66
+  "linter-ui-default": {}
   "linter-xmllint": {}
   "markdown-preview": {}
   pigments: {}

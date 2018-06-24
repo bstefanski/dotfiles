@@ -1,4 +1,6 @@
 edc/bass
-barnybug/docker-fish-completion
+fisherman/docker-completion
+fisherman/done
 fisherman/getopts
+fisherman/humanize_duration
 fisherman/z
