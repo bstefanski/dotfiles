@@ -26,5 +26,7 @@
     ~/.config/synapse: synapse
     ~/.config/albert: albert
     ~/.config/mpv: mpv
+    /etc/lightdm/lightdm.conf: lightdm/lightdm.conf
+    /etc/lightdm/slick-greeter.conf: lightdm/slick-greeter.conf
 - shell:
   - "git submodule update --init --recursive"
