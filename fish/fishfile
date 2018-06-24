@@ -1,7 +1,4 @@
-fisherman/ansible-completion
 edc/bass
-fisherman/docker-completion
-fisherman/done
+barnybug/docker-fish-completion
 fisherman/getopts
-fisherman/humanize_duration
 fisherman/z
