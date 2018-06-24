@@ -1,1 +1,0 @@
-/home/bartekmanj/.config/fisherman/getopts/getopts.fish

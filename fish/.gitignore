@@ -1,3 +1,16 @@
 fish_history
 fish_read_history
 fishd.*
+conf.d/z.fish
+conf.d/done.fish
+functions/zclean.awk
+functions/bass.fish
+functions/humanize_duration.fish
+functions/__z_add.fish
+functions/__z.fish
+functions/z.awk
+functions/zadd.awk
+functions/__bass.py
+functions/__z_clean.fish
+functions/__z_complete.fish
+functions/getopts.fish
