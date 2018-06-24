@@ -18,6 +18,7 @@ bind-tools
 binutils
 bison
 blueman
+bluez-utils
 bmon
 btrfs-progs
 bzip2
@@ -67,6 +68,8 @@ firefox
 firefox-i18n-en-gb
 firefox-i18n-en-us
 firefox-i18n-pl
+flameshot
+flashplugin
 flex
 fontconfig
 freetype2
@@ -138,14 +141,11 @@ jq
 keyboardctl
 less
 lib32-gtk2
-lib32-libglvnd
 lib32-mesa-demos
 lib32-mesa-vdpau
 libdbusmenu-gtk2
 libdnet
 libdvdcss
-libglvnd
-libindicator-gtk2
 libindicator-gtk3
 libkeybinder3
 libmariadbclient
@@ -161,8 +161,6 @@ libyaml
 licenses
 light-locker
 lightdm
-lightdm-gtk-greeter
-lightdm-slick-greeter
 linux-firmware
 linux414
 linux414-headers
@@ -246,7 +244,6 @@ patch
 pavucontrol
 pciutils
 pcmciautils
-pepper-flash
 perl
 perl-net-oauth
 perl-rename
@@ -265,6 +262,7 @@ postgresql
 powertop
 procps-ng
 psmisc
+pulseaudio-bluetooth
 pulseaudio-ctl
 pv
 python-pip
