@@ -16,11 +16,11 @@
         <value type="int" value="4"/>
         <value type="int" value="27"/>
         <value type="int" value="11"/>
+        <value type="int" value="2"/>
         <value type="int" value="1"/>
         <value type="int" value="7"/>
         <value type="int" value="10"/>
         <value type="int" value="13"/>
-        <value type="int" value="2"/>
       </property>
       <property name="background-style" type="uint" value="0"/>
       <property name="background-alpha" type="uint" value="100"/>
@@ -32,7 +32,7 @@
       <property name="mode" type="uint" value="0"/>
       <property name="disable-struts" type="bool" value="false"/>
       <property name="nrows" type="uint" value="1"/>
-      <property name="output-name" type="string" value="DP2"/>
+      <property name="output-name" type="string" value="Primary"/>
       <property name="autohide-behavior" type="uint" value="2"/>
     </property>
   </property>
@@ -82,39 +82,17 @@
     </property>
     <property name="plugin-1" type="string" value="systray">
       <property name="names-visible" type="array">
-        <value type="string" value="thunar"/>
-        <value type="string" value="vlc"/>
-        <value type="string" value="redshift-gtk"/>
-        <value type="string" value="xfce4-power-manager"/>
-        <value type="string" value="cmplayer"/>
+        <value type="string" value="telegram-desktop"/>
         <value type="string" value="networkmanager applet"/>
-        <value type="string" value="task manager"/>
-        <value type="string" value="manjaro-settings-manager-daemon"/>
-        <value type="string" value="skype"/>
-        <value type="string" value="msm notifier"/>
-        <value type="string" value="shutter"/>
-        <value type="string" value="spotify"/>
-        <value type="string" value="pasystray"/>
+        <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="blueman-applet"/>
-        <value type="string" value="orage"/>
-        <value type="string" value="gstm"/>
-        <value type="string" value="electron"/>
-        <value type="string" value="pidgin"/>
-        <value type="string" value="pa-applet"/>
-        <value type="string" value="xnoise"/>
-        <value type="string" value="deluge"/>
-        <value type="string" value="slack"/>
-        <value type="string" value="scp-dbus-service.py"/>
-        <value type="string" value="tomahawk"/>
+        <value type="string" value="redshift-gtk"/>
         <value type="string" value="parcellite"/>
-        <value type="string" value="pamac-tray"/>
-        <value type="string" value="copyq"/>
+        <value type="string" value="rocketchat"/>
       </property>
       <property name="size-max" type="uint" value="24"/>
       <property name="show-frame" type="bool" value="false"/>
       <property name="names-hidden" type="array">
-        <value type="string" value="synapse"/>
-        <value type="string" value="chromium"/>
       </property>
     </property>
     <property name="plugin-9" type="string" value="whiskermenu"/>
@@ -127,10 +105,8 @@
         <property name="reorder-items" type="bool" value="false"/>
       </property>
     </property>
-    <property name="plugin-2" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="14678222061.desktop"/>
-      </property>
+    <property name="plugin-2" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
     </property>
   </property>
   <property name="configver" type="int" value="2"/>
