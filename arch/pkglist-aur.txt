@@ -39,7 +39,7 @@ lightdm-webkit2-theme-material2
 mprime
 musixmatch-bin
 papirus-icon-theme-git
-perl-term-shellui
+pcmciautils
 pipelight
 pkgfile-git
 pktstat
@@ -55,8 +55,6 @@ soapui
 spotify
 sublime-text-dev
 telegram-desktop-bin
-texlive-localmanager-git
-texlive-moderncv
 ttf-caladea
 ttf-carlito
 ttf-courier-prime

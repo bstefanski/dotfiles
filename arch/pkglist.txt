@@ -90,6 +90,7 @@ glibc
 gnome-disk-utility
 gnome-keyring
 gnome-system-monitor
+gnu-netcat
 gparted
 gptfdisk
 gradle
@@ -243,7 +244,6 @@ parted
 patch
 pavucontrol
 pciutils
-pcmciautils
 perl
 perl-net-oauth
 perl-rename
@@ -300,8 +300,6 @@ tar
 tcpdump
 terminus-font
 testdisk
-texinfo
-texlive-core
 the_silver_searcher
 thermald
 thin-provisioning-tools
@@ -420,7 +418,6 @@ xorg-xset
 xz
 yaourt
 yarn
-zd1211-firmware
 zeitgeist
 zeitgeist-explorer
 zip
