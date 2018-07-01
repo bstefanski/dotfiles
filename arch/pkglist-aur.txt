@@ -12,7 +12,6 @@ fish-git
 fonts-meta-base
 fonts-meta-extended-lt
 gksu
-google-talkplugin
 gstreamer0.10
 gstreamer0.10-bad
 gstreamer0.10-bad-plugins
