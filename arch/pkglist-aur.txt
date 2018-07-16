@@ -36,7 +36,6 @@ libgksu
 libxfcegui4
 lightdm-webkit2-greeter
 lightdm-webkit2-theme-material2
-mprime
 musixmatch-bin
 pipelight
 pktstat
