@@ -68,13 +68,6 @@ cat npm/package-list.txt | sudo xargs npm -g install
 
 ## arch
 
-Update package list:
-
-```
-pacman -Qqen > arch/pkglist.txt
-pacman -Qqm > arch/pkglist-aur.txt
-```
-
 Installing official packages:
 
 ```

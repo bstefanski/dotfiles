@@ -27,6 +27,7 @@
     ~/.config/albert: albert
     ~/.config/mpv: mpv
     ~/.config/autokey: autokey
+    ~/.config/Code/User/settings.json: vscode/settings.json
     /etc/lightdm/lightdm.conf: lightdm/lightdm.conf
     /etc/lightdm/slick-greeter.conf: lightdm/slick-greeter.conf
 - shell:

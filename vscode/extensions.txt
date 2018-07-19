@@ -1,0 +1,4 @@
+DavidAnson.vscode-markdownlint
+Equinusocio.vsc-material-theme
+esbenp.prettier-vscode
+timonwong.shellcheck

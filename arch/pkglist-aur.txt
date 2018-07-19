@@ -68,6 +68,7 @@ ttf-signika
 ttf-symbola
 unetbootin
 virtualbox-ext-oracle
+visual-studio-code-bin
 xerox-phaser-3040
 xfce4-quicklauncher-plugin
 xidel
