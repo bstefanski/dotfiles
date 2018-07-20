@@ -9,6 +9,14 @@
     sql:
       identifiers: "lower"
   "atom-lint": {}
+  "atom-material-ui":
+    colors: {}
+    fonts: {}
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    ui:
+      useAnimations: false
   "autocomplete-plus": {}
   "autocomplete-ruby":
     rsensePath: "/home/bartekmanj/.rvm/gems/ruby-2.3.0@global/bin/rsense"
@@ -25,7 +33,6 @@
       "bookmarks"
       "github"
       "about"
-      "tidy-markdown"
     ]
     packagesWithKeymapsDisabled: [
       "sort-lines"
@@ -33,8 +40,8 @@
     ]
     telemetryConsent: "no"
     themes: [
-      "spacegray-dark-ui"
-      "oceanic-next"
+      "atom-material-ui"
+      "atom-material-syntax"
     ]
   editor:
     invisibles: {}
@@ -95,5 +102,7 @@
   "vim-mode":
     startInInsertMode: true
     useSmartcaseForSearch: true
+  "vim-mode-plus":
+    startInInsertMode: true
   welcome:
     showOnStartup: false

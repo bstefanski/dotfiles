@@ -22,6 +22,7 @@
 		"INI",
 		"Jade",
 		"jQuery",
+		"Material Theme",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
@@ -32,7 +33,6 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeREPL",
 		"Table Editor",
 		"Theme - Spacegray"
 	],
