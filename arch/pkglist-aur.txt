@@ -71,6 +71,7 @@ virtualbox-ext-oracle
 visual-studio-code-bin
 xerox-phaser-3040
 xfce4-quicklauncher-plugin
+xfce4-terminal-base16-colors-git
 xidel
 xulrunner
 yakyak

@@ -1,9 +1,8 @@
 [Configuration]
-ColorForeground=#eeeeeeeeecec
-ColorBackground=#272728282222
-ColorCursor=#ffffffffffff
-ColorSelection=#16163b3b5959
-ColorPalette=#000000;#CC0000;#4E9A06;#C4A000;#3465A4;#75507B;#06989A;#D3D7CF;#555557575353;#EFEF29292929;#8A8AE2E23434;#FCFCE9E94F4F;#72729F9FCFCF;#ADAD7F7FA8A8;#3434E2E2E2E2;#EEEEEEEEECEC
+ColorForeground=#B0BEC5
+ColorBackground=#263238
+ColorCursor=x
+ColorPalette=#263238;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#B0BEC5;#546E7A;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#ECEFF1
 FontName=DejaVu Sans Mono 9
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
@@ -22,7 +21,6 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 ScrollingLines=1048576
-TabActivityColor=#262656568080
 ShortcutsNoMnemonics=TRUE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
 CommandLoginShell=TRUE
@@ -37,4 +35,6 @@ MiscSlimTabs=FALSE
 BackgroundDarkness=0.390000
 ShortcutsNoHelpkey=TRUE
 ShortcutsNoMenukey=TRUE
+MiscShowRelaunchDialog=TRUE
+MiscNewTabAdjacent=FALSE
 
