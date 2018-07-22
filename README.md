@@ -77,5 +77,5 @@ pacman -S < arch/pkglist.txt
 Installing AUR packages:
 
 ```
-yaourt -S --noconfirm < arch/pkglist-aur.txt
+aurman -S --noconfirm < arch/pkglist-aur.txt
 ```

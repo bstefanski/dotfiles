@@ -1,8 +1,7 @@
 [Configuration]
-ColorForeground=#B0BEC5
-ColorBackground=#263238
+ColorForeground=#959DCB
 ColorCursor=x
-ColorPalette=#263238;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#B0BEC5;#546E7A;#FF1744;#00E676;#FFC400;#2979FF;#651FFF;#00B0FF;#ECEFF1
+ColorPalette=#292D3E;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#959DCB;#676E95;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
 FontName=DejaVu Sans Mono 9
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
@@ -37,4 +36,7 @@ ShortcutsNoHelpkey=TRUE
 ShortcutsNoMenukey=TRUE
 MiscShowRelaunchDialog=TRUE
 MiscNewTabAdjacent=FALSE
+RunCustomCommand=TRUE
+CustomCommand=fish
+ColorBackground=#292D3E
 

@@ -1,9 +1,9 @@
 {
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Material Theme Palenight",
     "materialTheme.fixIconsRunning": false,
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "editor.fontFamily": "DejaVu Sans Mono",
     "editor.lineHeight": 22,
     "explorer.decorations.badges": false,

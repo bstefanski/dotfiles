@@ -41,7 +41,7 @@
     telemetryConsent: "no"
     themes: [
       "atom-material-ui"
-      "atom-material-syntax"
+      "material-palenight-syntax"
     ]
   editor:
     invisibles: {}

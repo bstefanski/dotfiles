@@ -74,7 +74,7 @@
     <property name="restore_on_move" type="bool" value="true"/>
     <property name="scroll_workspaces" type="bool" value="false"/>
     <property name="snap_resist" type="bool" value="false"/>
-    <property name="tile_on_move" type="bool" value="false"/>
+    <property name="tile_on_move" type="bool" value="true"/>
     <property name="toggle_workspaces" type="bool" value="false"/>
     <property name="unredirect_overlays" type="bool" value="true"/>
     <property name="wrap_cycle" type="bool" value="false"/>
