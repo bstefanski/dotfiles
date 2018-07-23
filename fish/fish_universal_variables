@@ -46,4 +46,4 @@ SET fish_pager_color_description:555\x1eyellow
 SET fish_pager_color_prefix:cyan
 SET fish_pager_color_progress:cyan
 SET fisher_active_prompt:pure
-SET fisher_dependency_count:getopts\x1ez\x1ebass\x1ehumanize_duration\x1edone\x1epure\x1efzf
+SET fisher_dependency_count:getopts\x1ez\x1ebass\x1ehumanize_duration\x1edone\x1epure\x1efzf\x1ebang\x2dbang
