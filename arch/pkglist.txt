@@ -164,10 +164,10 @@ linux414
 linux414-headers
 linux414-ndiswrapper
 linux414-virtualbox-host-modules
-linux416
-linux416-headers
-linux416-ndiswrapper
-linux416-virtualbox-host-modules
+linux417
+linux417-headers
+linux417-ndiswrapper
+linux417-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
