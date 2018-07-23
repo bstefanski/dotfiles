@@ -56,6 +56,7 @@ evince
 exo
 extundelete
 fakeroot
+fd
 ffmpegthumbnailer
 file
 file-roller
@@ -433,6 +434,5 @@ xorg-xvinfo
 xorg-xwud
 xz
 yarn
-yay
 z
 zip
