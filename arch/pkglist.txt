@@ -53,6 +53,7 @@ efitools
 elementary-xfce-icons
 ethtool
 evince
+exa
 exo
 extundelete
 fakeroot
@@ -276,6 +277,7 @@ rbutil
 redshift
 refind-efi
 reiserfsprogs
+ripgrep
 rsync
 s-nail
 samba
