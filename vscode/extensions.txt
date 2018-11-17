@@ -3,4 +3,6 @@ DavidAnson.vscode-markdownlint
 DotJoshJohnson.xml
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
+lunaryorn.fish-ide
+skyapps.fish-vscode
 timonwong.shellcheck

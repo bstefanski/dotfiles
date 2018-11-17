@@ -1,13 +1,12 @@
 acpid
 android-tools
 ansible
+ant
 apache
-apache-ant
 arc-gtk-theme
 arj
 aspell-en
 aspell-pl
-atom
 audacity
 autoconf
 automake
@@ -117,7 +116,8 @@ hdparm
 hostapd
 htop
 httpie
-hunspell-en
+hunspell-en_AU
+hunspell-en_CA
 hunspell-pl
 hyphen-en
 hyphen-pl
@@ -138,6 +138,7 @@ java-environment-common
 jemalloc
 jfsutils
 jq
+jupyter-notebook
 keyboardctl
 less
 lib32-gtk2
@@ -162,14 +163,14 @@ licenses
 light-locker
 lightdm
 linux-firmware
-linux414
-linux414-headers
-linux414-ndiswrapper
-linux414-virtualbox-host-modules
-linux417
-linux417-headers
-linux417-ndiswrapper
-linux417-virtualbox-host-modules
+linux418
+linux418-headers
+linux418-ndiswrapper
+linux418-virtualbox-host-modules
+linux419
+linux419-headers
+linux419-ndiswrapper
+linux419-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -208,6 +209,7 @@ mp3splt
 mpv
 mutagen
 nbd
+ncdu
 ndiswrapper-utils
 netctl
 nethogs
@@ -229,8 +231,6 @@ npth
 ntfs-3g
 openresolv
 openssh
-oracle-instantclient-sqlplus
-oracle-sqldeveloper
 orage
 os-prober
 otf-fira-code
@@ -248,8 +248,6 @@ perl-net-oauth
 perl-rename
 perl-xml-xpath
 pgadmin3
-pidgin
-pidgin-libnotify
 pkgbrowser
 pkgcacheclean
 pkgconf
@@ -267,7 +265,8 @@ pulseaudio-ctl
 pv
 python-pip
 python-pygments
-python-pyqt4
+python-pylint
+python-sh
 python-sip
 python-sqlparse
 python-virtualenv
@@ -282,6 +281,7 @@ ripgrep
 rsync
 s-nail
 samba
+scantailor
 sdparm
 sed
 shadow
@@ -409,6 +409,7 @@ xfsprogs
 xfwm4
 xfwm4-themes
 xinetd
+xmlstarlet
 xorg-server
 xorg-sessreg
 xorg-smproxy

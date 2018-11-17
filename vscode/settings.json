@@ -8,7 +8,7 @@
     "editor.lineHeight": 22,
     "explorer.decorations.badges": false,
     "editor.wordWrap": "on",
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "onFocusChange",
     "editor.wordWrapColumn": 120,
     "editor.cursorBlinking": "phase",
     "editor.minimap.enabled": false,
@@ -21,4 +21,6 @@
     "workbench.statusBar.feedback.visible": false,
     "workbench.activityBar.visible": false,
     "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": true,
+    "window.zoomLevel": 0,
 }

@@ -8,5 +8,5 @@ Exec=albert
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
-Hidden=false
+Hidden=true
 
