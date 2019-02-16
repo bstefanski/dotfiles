@@ -22,6 +22,7 @@ bmon
 btrfs-progs
 bzip2
 cabal-install
+cadaver
 calibre
 catfish
 chromium
@@ -94,6 +95,7 @@ gparted
 gptfdisk
 gradle
 grep
+groovy
 grub
 gssproxy
 gst-libav

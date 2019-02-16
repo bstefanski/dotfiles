@@ -2,7 +2,6 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "workbench.colorTheme": "Material Theme Palenight",
-    "materialTheme.fixIconsRunning": false,
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "editor.fontFamily": "DejaVu Sans Mono",
     "editor.lineHeight": 22,
@@ -23,4 +22,8 @@
     "workbench.startupEditor": "newUntitledFile",
     "breadcrumbs.enabled": true,
     "window.zoomLevel": 0,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.titleBarStyle": "native",
+    "explorer.confirmDelete": false,
+    "editor.renderControlCharacters": false,
 }

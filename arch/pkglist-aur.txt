@@ -30,6 +30,7 @@ jdk6
 jdk8
 jmtpfs
 kdiff3-qt
+lib32-libstdc++5
 lib32-sni-qt-patched-git
 libgksu
 libxfcegui4
@@ -39,7 +40,6 @@ oracle-instantclient-basic
 oracle-instantclient-sqlplus
 phonon-qt4
 phonon-qt4-gstreamer
-pipelight
 pktstat
 plank-theme-arc
 pmount
@@ -63,7 +63,6 @@ ttf-merriweather
 ttf-merriweather-sans
 ttf-meslo
 ttf-ms-fonts
-ttf-opensans
 ttf-oswald
 ttf-quintessential
 ttf-signika
