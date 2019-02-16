@@ -25,9 +25,6 @@ gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
 insomnia
-jdk
-jdk6
-jdk8
 jmtpfs
 kdiff3-qt
 lib32-libstdc++5
@@ -36,17 +33,11 @@ libgksu
 libxfcegui4
 lightdm-webkit2-theme-material2
 musixmatch-bin
-oracle-instantclient-basic
-oracle-instantclient-sqlplus
-phonon-qt4
-phonon-qt4-gstreamer
 pktstat
 plank-theme-arc
 pmount
 profile-sync-daemon
-pyqt4-common
 python-acestream
-python-pyqt4
 qnapi
 rocketchat-desktop
 skypeforlinux-stable-bin
