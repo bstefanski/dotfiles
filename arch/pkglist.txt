@@ -265,6 +265,7 @@ poppler-glib
 postgresql
 powertop
 procps-ng
+ps_mem
 psmisc
 pulseaudio-bluetooth
 pulseaudio-ctl
