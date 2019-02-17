@@ -253,7 +253,6 @@ perl-image-exiftool
 perl-net-oauth
 perl-rename
 perl-xml-xpath
-pgadmin3
 pkgbrowser
 pkgcacheclean
 pkgconf
@@ -278,7 +277,6 @@ python-virtualenv
 python2-virtualenv
 qbittorrent
 qpdfview
-rbutil
 redshift
 refind-efi
 reiserfsprogs
