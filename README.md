@@ -1,17 +1,25 @@
 # dotfiles
 
-## atom
 
-Update a package list:
+## arch
 
-```
-apm list --installed --bare > atom/package-list.txt
-```
-
-Install packages from the `package-list.txt`:
+Update package list:
 
 ```
-apm install --packages-file atom/package-list.txt
+pacman -Qqen > arch/pkglist.txt
+pacman -Qqm > arch/pkglist-aur.txt
+```
+
+Installing official packages:
+
+```
+pacman -S < arch/pkglist.txt
+```
+
+Installing AUR packages:
+
+```
+aurman -S --noconfirm < arch/pkglist-aur.txt
 ```
 
 ## ruby
@@ -64,18 +72,4 @@ Install packages from the `package-list.txt`:
 
 ```
 cat npm/package-list.txt | sudo xargs npm -g install
-```
-
-## arch
-
-Installing official packages:
-
-```
-pacman -S < arch/pkglist.txt
-```
-
-Installing AUR packages:
-
-```
-aurman -S --noconfirm < arch/pkglist-aur.txt
 ```
