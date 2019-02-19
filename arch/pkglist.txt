@@ -165,7 +165,6 @@ libyaml
 licenses
 light-locker
 lightdm
-lightdm-gtk-greeter
 linux-firmware
 linux419
 linux419-headers
@@ -234,6 +233,7 @@ npm
 npth
 ntfs-3g
 openjdk-src
+openjdk8-src
 openresolv
 openssh
 orage
