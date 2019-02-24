@@ -1,6 +1,0 @@
-'atom-text-editor.vim-mode.insert-mode':
-  'ctrl-c': 'core:copy',
-  'ctrl-w': 'core:close'
-'.platform-linux atom-text-editor':
-  'ctrl-shift-l': 'editor:split-selections-into-lines'
-  'alt-l': 'grammar-selector:show'
