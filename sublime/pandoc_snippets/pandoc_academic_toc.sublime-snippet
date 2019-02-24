@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<!-- [[TOC]] --> ${1}
-]]></content>
-    <tabTrigger>toc</tabTrigger>
-    <scope>text.pandoc</scope>
-    <description>Add the option to add a table of content</description>
-</snippet>

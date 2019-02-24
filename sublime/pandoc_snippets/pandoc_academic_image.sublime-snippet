@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-![](${1:link_to_the_file} "Figure ${2:Nber}: ${3:Title}") ${4}
-]]></content>
-    <tabTrigger>img</tabTrigger>
-    <scope>text.pandoc</scope>
-    <description>Quickly add a picture</description>
-</snippet>
