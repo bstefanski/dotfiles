@@ -6,7 +6,6 @@ anoise-community-extension2
 anoise-community-extension3
 anoise-gui
 anoise-media
-aurman
 autokey-py3
 doublecmd-gtk2-alpha-bin
 fish-git
@@ -28,7 +27,6 @@ insomnia
 jmtpfs
 kdiff3-qt
 lib32-libstdc++5
-lib32-sni-qt-patched-git
 libgksu
 libxfcegui4
 lightdm-webkit2-theme-material2
@@ -40,9 +38,7 @@ profile-sync-daemon
 python-acestream
 qnapi
 rocketchat-desktop
-skypeforlinux-stable-bin
 slack-desktop
-sni-qt-patched-git
 soapui
 spotify
 telegram-desktop-bin

@@ -50,4 +50,4 @@ SETUVAR fish_pager_color_description:555\x1eyellow
 SETUVAR fish_pager_color_prefix:cyan
 SETUVAR fish_pager_color_progress:cyan
 SETUVAR fisher_active_prompt:pure
-SETUVAR pure_version:2\x2e1\x2e0
+SETUVAR pure_version:2\x2e1\x2e1

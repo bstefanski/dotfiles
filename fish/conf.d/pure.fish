@@ -1,4 +1,4 @@
-set --universal pure_version 2.1.0 # used for bug report
+set --universal pure_version 2.1.1 # used for bug report
 
 # Base colors
 _pure_set_default pure_color_primary (set_color blue)
@@ -60,7 +60,7 @@ _pure_set_default pure_color_right_prompt $pure_color_normal
 
 # VI mode indicator
 # true (default):  indicate a non-insert mode by reversing the prompt symbol (❮)
-# false:           indicate vi mode with [I], [N], [V]
+# false:           indicate vi mode with [I], [N], [V]  
 _pure_set_default pure_reverse_prompt_symbol_in_vimode true
 
 # Title

@@ -21,7 +21,6 @@ bmon
 btrfs-progs
 bzip2
 cabal-install
-cadaver
 calibre
 catfish
 chromium
@@ -210,7 +209,6 @@ mobile-broadband-provider-info
 modemmanager
 mp3splt
 mpv
-mutagen
 nbd
 ncdu
 ndiswrapper-utils
@@ -258,7 +256,6 @@ pkgcacheclean
 pkgconf
 pkgfile
 plank
-pm-utils
 polkit-gnome
 poppler-glib
 postgresql
@@ -440,5 +437,6 @@ xorg-xvinfo
 xorg-xwud
 xz
 yarn
+yay
 z
 zip
