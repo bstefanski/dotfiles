@@ -1,14 +1,6 @@
 # dotfiles
 
-
 ## arch
-
-Update package list:
-
-```
-pacman -Qqen > arch/pkglist.txt
-pacman -Qqm > arch/pkglist-aur.txt
-```
 
 Installing official packages:
 
