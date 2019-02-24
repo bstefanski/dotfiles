@@ -13,13 +13,9 @@ fonts-meta-base
 fonts-meta-extended-lt
 gksu
 gstreamer0.10
-gstreamer0.10-bad
-gstreamer0.10-bad-plugins
 gstreamer0.10-base
 gstreamer0.10-base-plugins
 gstreamer0.10-python
-gstreamer0.10-ugly
-gstreamer0.10-ugly-plugins
 gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
@@ -28,7 +24,6 @@ jmtpfs
 kdiff3-qt
 lib32-libstdc++5
 libgksu
-libxfcegui4
 lightdm-webkit2-theme-material2
 musixmatch-bin
 pktstat
@@ -59,7 +54,6 @@ unetbootin
 virtualbox-ext-oracle
 visual-studio-code-bin
 xerox-phaser-3040
-xfce4-quicklauncher-plugin
 xfce4-terminal-base16-colors-git
 xidel
 xulrunner
