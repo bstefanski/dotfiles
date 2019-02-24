@@ -24,7 +24,6 @@
     ~/.config/parcellite: parcellite
     ~/.config/plank: plank
     ~/.config/synapse: synapse
-    ~/.config/albert: albert
     ~/.config/mpv: mpv
     ~/.config/autokey: autokey
     ~/.config/Code/User/settings.json: vscode/settings.json
