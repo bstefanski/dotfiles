@@ -1,6 +1,4 @@
-conf.d/done.fish
-conf.d/fzf.fish
-conf.d/z.fish
+conf.d/
 fish_history
 fish_read_history
 fishd.*
