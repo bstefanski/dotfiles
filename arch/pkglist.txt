@@ -44,6 +44,7 @@ dmraid
 dnsmasq
 docker
 docker-compose
+dos2unix
 dosfstools
 dstat
 e2fsprogs

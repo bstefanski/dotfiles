@@ -3,4 +3,8 @@ DavidAnson.vscode-markdownlint
 DotJoshJohnson.xml
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
+ms-python.python
+PeterJausovec.vscode-docker
+skyapps.fish-vscode
 timonwong.shellcheck
+Tyriar.sort-lines
