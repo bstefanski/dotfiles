@@ -3,7 +3,7 @@
     "telemetry.enableTelemetry": false,
     "workbench.colorTheme": "Material Theme Palenight",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
-    "editor.fontFamily": "DejaVu Sans Mono",
+    "editor.fontFamily": "Hack",
     "editor.lineHeight": 22,
     "explorer.decorations.badges": false,
     "editor.wordWrap": "on",

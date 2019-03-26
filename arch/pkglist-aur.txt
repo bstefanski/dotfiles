@@ -20,6 +20,7 @@ gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
 insomnia
+jdk8
 jmtpfs
 kdiff3-qt
 lib32-libstdc++5

@@ -166,14 +166,13 @@ licenses
 light-locker
 lightdm
 linux-firmware
-linux419
-linux419-headers
-linux419-ndiswrapper
-linux419-virtualbox-host-modules
 linux420
 linux420-headers
 linux420-ndiswrapper
 linux420-virtualbox-host-modules
+linux50
+linux50-headers
+linux50-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -239,7 +238,7 @@ orage
 os-prober
 otf-fira-code
 pacman
-pamac
+pamac-gtk
 pandoc
 papirus-icon-theme
 parcellite
