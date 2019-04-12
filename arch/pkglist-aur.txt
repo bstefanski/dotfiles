@@ -19,6 +19,7 @@ gstreamer0.10-python
 gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
+hyphen-pl
 insomnia
 jdk8
 jmtpfs
@@ -27,6 +28,7 @@ lib32-libstdc++5
 libgksu
 lightdm-webkit2-theme-material2
 musixmatch-bin
+pkgtools
 pktstat
 plank-theme-arc
 pmount
@@ -34,10 +36,12 @@ profile-sync-daemon
 python-acestream
 qnapi
 rocketchat-desktop
+shellcheck-static
 slack-desktop
 soapui
 spotify
 telegram-desktop-bin
+thermald
 ttf-courier-prime
 ttf-gelasio-ib
 ttf-heuristica

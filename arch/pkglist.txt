@@ -1,4 +1,5 @@
 acpid
+adobe-source-sans-pro-fonts
 android-tools
 ansible
 ant
@@ -20,7 +21,6 @@ bluez-utils
 bmon
 btrfs-progs
 bzip2
-cabal-install
 calibre
 catfish
 chromium
@@ -54,7 +54,7 @@ elementary-xfce-icons
 ethtool
 evince
 exa
-exo
+exo-gtk3
 extundelete
 fakeroot
 fd
@@ -74,7 +74,7 @@ fontconfig
 freetype2
 fzf
 galculator
-garcon
+garcon-gtk3
 gawk
 gconf
 gdb
@@ -123,7 +123,6 @@ hunspell-en_AU
 hunspell-en_CA
 hunspell-pl
 hyphen-en
-hyphen-pl
 inetutils
 intel-ucode
 intltool
@@ -138,7 +137,6 @@ ipw2200-fw
 ipython
 iw
 java-environment-common
-jdk-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
@@ -161,6 +159,7 @@ libtool
 libunrar
 libutempter
 libva-intel-driver
+libxfce4ui-gtk3
 libyaml
 licenses
 light-locker
@@ -194,6 +193,7 @@ manjaro-pulse
 manjaro-release
 manjaro-settings-manager
 manjaro-system
+materia-gtk-theme
 maven
 mdadm
 memtest86+
@@ -230,7 +230,6 @@ nodejs
 npm
 npth
 ntfs-3g
-openjdk-src
 openjdk8-src
 openresolv
 openssh
@@ -239,7 +238,6 @@ os-prober
 otf-fira-code
 pacman
 pamac-gtk
-pandoc
 papirus-icon-theme
 parcellite
 parted
@@ -268,10 +266,6 @@ pulseaudio-ctl
 pv
 python-pip
 python-pygments
-python-sip
-python-sqlparse
-python-virtualenv
-python2-virtualenv
 qbittorrent
 qpdfview
 redshift
@@ -284,7 +278,6 @@ samba
 sdparm
 sed
 shadow
-shellcheck
 smartmontools
 squashfs-tools
 sshpass
@@ -299,12 +292,11 @@ tcpdump
 terminus-font
 testdisk
 the_silver_searcher
-thermald
 thin-provisioning-tools
-thunar
-thunar-archive-plugin
+thunar-archive-plugin-gtk3
+thunar-gtk3
 thunar-media-tags-plugin
-thunar-volman
+thunar-volman-gtk3
 thunderbird
 thunderbird-i18n-en-gb
 thunderbird-i18n-en-us
@@ -312,6 +304,7 @@ thunderbird-i18n-pl
 tidy
 tig
 tk
+tldr
 tlp
 tmux
 tree
@@ -345,7 +338,7 @@ wget
 which
 whois
 wireless_tools
-wireshark-gtk
+wireshark-qt
 wmctrl
 wpa_actiond
 wpa_supplicant
@@ -366,7 +359,7 @@ xf86-input-void
 xf86-input-wacom
 xf86-video-intel
 xfburn
-xfce4-appfinder
+xfce4-appfinder-gtk3
 xfce4-artwork
 xfce4-battery-plugin
 xfce4-clipman-plugin
@@ -382,14 +375,14 @@ xfce4-mount-plugin
 xfce4-mpc-plugin
 xfce4-netload-plugin
 xfce4-notes-plugin
-xfce4-notifyd
-xfce4-panel
-xfce4-power-manager
+xfce4-notifyd-gtk3
+xfce4-panel-gtk3
+xfce4-power-manager-gtk3
 xfce4-pulseaudio-plugin
 xfce4-screenshooter
 xfce4-sensors-plugin
-xfce4-session
-xfce4-settings
+xfce4-session-gtk3
+xfce4-settings-gtk3
 xfce4-smartbookmark-plugin
 xfce4-systemload-plugin
 xfce4-taskmanager
@@ -400,12 +393,12 @@ xfce4-verve-plugin
 xfce4-volumed-pulse
 xfce4-wavelan-plugin
 xfce4-weather-plugin
-xfce4-whiskermenu-plugin
+xfce4-whiskermenu-plugin-gtk3
 xfce4-xkb-plugin
-xfconf
-xfdesktop
+xfconf-gtk3
+xfdesktop-gtk3
 xfsprogs
-xfwm4
+xfwm4-gtk3
 xfwm4-themes
 xinetd
 xmlstarlet

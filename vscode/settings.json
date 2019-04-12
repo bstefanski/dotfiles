@@ -26,4 +26,7 @@
     "window.titleBarStyle": "native",
     "explorer.confirmDelete": false,
     "editor.renderControlCharacters": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
 }
