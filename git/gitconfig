@@ -50,8 +50,6 @@
     pushtags = push --tags
     tagwithdate = !sh -c 'git tag "$0"_$(date "+%y-%m-%d_%H-%M-%S")'
 
-    report = !sh -c 'git log --all --author \"Bartlomiej Stefanski\" --since=\"$0.sunday.ago\" --format=\"%Cgreen%ci%Creset %s%Creset\" --no-merges'
-
     #what branches you have on origin, with info on who is guilty and how long ago. Useful for gitflow and feature branches in general. Requires fetch up-front.
     showorigin = !sh -c "isHash=true; for i in `git ls-remote -h origin`; do [ ! -z $isHash ] && echo \" $i\" || printf \"%-8s %8s %-8s%-3s %-10s %-20s\" `git show -s --pretty=format:\"%C(yellow)%h %Cred%ad %Cblue%an\" --date=relative $i` ; [ ! -z $isHash ] && isHash=\"\" || isHash=true ; done"
 
@@ -83,6 +81,7 @@
     push-for-review-branch = !git push origin HEAD:refs/for/$1
     push-as-draft-branch = !git push origin HEAD:refs/drafts/$1
     up = pull --rebase --autostash
+    search = !sh -c 'git log -p --all -S $0'
 [apply]
     whitespace = nowarn
 [core]

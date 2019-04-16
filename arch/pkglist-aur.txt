@@ -19,7 +19,6 @@ gstreamer0.10-python
 gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
-hyphen-pl
 insomnia
 jdk8
 jmtpfs
