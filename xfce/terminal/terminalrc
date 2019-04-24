@@ -40,5 +40,5 @@ RunCustomCommand=TRUE
 CustomCommand=fish
 ColorBackground=#292D3E
 ColorCursorUseDefault=FALSE
-ColorCursorForeground=#ffffcbcb6b6b
+ColorCursorForeground=#20204a4a8787
 
