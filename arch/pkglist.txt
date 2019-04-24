@@ -67,6 +67,7 @@ firefox
 firefox-i18n-en-gb
 firefox-i18n-en-us
 firefox-i18n-pl
+fish
 flameshot
 flashplugin
 flex
@@ -340,7 +341,6 @@ whois
 wireless_tools
 wireshark-qt
 wmctrl
-wpa_actiond
 wpa_supplicant
 wvdial
 wxgtk2

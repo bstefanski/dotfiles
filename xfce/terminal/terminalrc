@@ -1,13 +1,13 @@
 [Configuration]
 ColorForeground=#959DCB
-ColorCursor=x
+ColorCursor=#ffffcbcb6b6b
 ColorPalette=#292D3E;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#959DCB;#676E95;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
 FontName=Hack 10
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=FALSE
 MiscCursorBlinks=TRUE
-MiscCursorShape=TERMINAL_CURSOR_SHAPE_IBEAM
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=FALSE
@@ -39,4 +39,6 @@ MiscNewTabAdjacent=FALSE
 RunCustomCommand=TRUE
 CustomCommand=fish
 ColorBackground=#292D3E
+ColorCursorUseDefault=FALSE
+ColorCursorForeground=#ffffcbcb6b6b
 

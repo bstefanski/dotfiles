@@ -49,7 +49,6 @@ SETUVAR fish_pager_color_completion:normal
 SETUVAR fish_pager_color_description:555\x1eyellow
 SETUVAR fish_pager_color_prefix:cyan
 SETUVAR fish_pager_color_progress:cyan
-SETUVAR fisher_active_prompt:pure
 SETUVAR --export pure_color_mute:\x1b\x5b38\x3b2\x3b147\x3b161\x3b161m
 SETUVAR --export pure_color_success:\x1b\x5b32m
-SETUVAR pure_version:2\x2e1\x2e1
+SETUVAR pure_version:2\x2e1\x2e5

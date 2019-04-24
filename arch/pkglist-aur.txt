@@ -8,7 +8,7 @@ anoise-gui
 anoise-media
 autokey-py3
 doublecmd-gtk2-alpha-bin
-fish-git
+fisher
 fonts-meta-base
 fonts-meta-extended-lt
 gksu
