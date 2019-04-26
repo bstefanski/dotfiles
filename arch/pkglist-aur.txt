@@ -7,7 +7,6 @@ anoise-community-extension3
 anoise-gui
 anoise-media
 autokey-py3
-doublecmd-gtk2-alpha-bin
 fisher
 fonts-meta-base
 fonts-meta-extended-lt
@@ -16,7 +15,6 @@ gstreamer0.10
 gstreamer0.10-base
 gstreamer0.10-base-plugins
 gstreamer0.10-python
-gtk-theme-elementary
 hardcode-fixer-git
 hardcode-tray
 insomnia
@@ -33,7 +31,6 @@ plank-theme-arc
 pmount
 profile-sync-daemon
 python-acestream
-qnapi
 rocketchat-desktop
 shellcheck-static
 slack-desktop
@@ -60,4 +57,3 @@ visual-studio-code-bin
 xerox-phaser-3040
 xfce4-terminal-base16-colors-git
 xidel
-xulrunner

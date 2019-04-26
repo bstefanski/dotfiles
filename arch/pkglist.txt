@@ -46,6 +46,7 @@ docker
 docker-compose
 dos2unix
 dosfstools
+doublecmd-gtk2
 dstat
 e2fsprogs
 ecryptfs-utils
