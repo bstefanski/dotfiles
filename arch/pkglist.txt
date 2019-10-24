@@ -23,6 +23,7 @@ btrfs-progs
 bzip2
 calibre
 catfish
+celluloid
 chromium
 compton
 coreutils
@@ -91,7 +92,6 @@ glib2-docs
 glibc
 gnome-disk-utility
 gnome-keyring
-gnome-mpv
 gnome-system-monitor
 gnu-netcat
 gparted
@@ -107,7 +107,6 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
 gstreamer-vaapi
-gtk-xfce-engine
 gufw
 gvfs
 gvfs-afc
@@ -139,6 +138,7 @@ ipw2200-fw
 ipython
 iw
 java-environment-common
+jdk-openjdk
 jdk8-openjdk
 jemalloc
 jfsutils
@@ -167,13 +167,16 @@ licenses
 light-locker
 lightdm
 linux-firmware
-linux420
-linux420-headers
-linux420-ndiswrapper
-linux420-virtualbox-host-modules
-linux50
-linux50-headers
-linux50-virtualbox-host-modules
+linux-latest
+linux-latest-headers
+linux-latest-ndiswrapper
+linux-latest-virtualbox-host-modules
+linux52
+linux52-headers
+linux52-ndiswrapper
+linux52-virtualbox-host-modules
+linux54
+linux54-headers
 locale-info
 logrotate
 lsb-release
@@ -246,6 +249,7 @@ parted
 patch
 pavucontrol
 pciutils
+peek
 perl
 perl-image-exiftool
 perl-net-oauth
@@ -274,9 +278,11 @@ redshift
 refind-efi
 reiserfsprogs
 ripgrep
+rmlint
 rsync
 s-nail
 samba
+sd
 sdparm
 sed
 shadow
@@ -335,6 +341,7 @@ viewnior
 vim-spell-en
 vim-spell-pl
 virtualbox
+visualvm
 vlc
 wget
 which

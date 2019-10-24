@@ -17,8 +17,8 @@ gstreamer0.10-base-plugins
 gstreamer0.10-python
 hardcode-fixer-git
 hardcode-tray
+influxdb-cli
 insomnia
-jdk8
 jmtpfs
 kdiff3-qt
 lib32-libstdc++5
@@ -51,7 +51,6 @@ ttf-quintessential
 ttf-signika
 ttf-symbola
 ulauncher
-unetbootin
 virtualbox-ext-oracle
 visual-studio-code-bin
 xerox-phaser-3040
