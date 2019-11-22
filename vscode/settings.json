@@ -30,4 +30,8 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "editor.cursorStyle": "block",
+    "workbench.editor.tabSizing": "shrink",
+    "extensions.ignoreRecommendations": false,
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.ignoreTrimWhitespace": true,
 }

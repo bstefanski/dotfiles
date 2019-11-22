@@ -171,12 +171,6 @@ linux-latest
 linux-latest-headers
 linux-latest-ndiswrapper
 linux-latest-virtualbox-host-modules
-linux52
-linux52-headers
-linux52-ndiswrapper
-linux52-virtualbox-host-modules
-linux54
-linux54-headers
 locale-info
 logrotate
 lsb-release
@@ -274,12 +268,14 @@ python-pip
 python-pygments
 qbittorrent
 qpdfview
+ranger
 redshift
 refind-efi
 reiserfsprogs
 ripgrep
 rmlint
 rsync
+ruby-bundler
 s-nail
 samba
 sd

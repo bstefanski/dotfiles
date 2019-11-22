@@ -25,6 +25,7 @@ lib32-libstdc++5
 libgksu
 lightdm-webkit2-theme-material2
 musixmatch-bin
+origin-client-bin
 pkgtools
 pktstat
 plank-theme-arc
@@ -32,6 +33,9 @@ pmount
 profile-sync-daemon
 python-acestream
 rocketchat-desktop
+ruby-coderay
+ruby-method_source
+ruby-pry
 shellcheck-static
 slack-desktop
 soapui
