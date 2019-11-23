@@ -33,7 +33,7 @@
     <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="Vanilla-DMZ-AA"/>
+    <property name="CursorThemeName" type="string" value="default"/>
     <property name="CursorThemeSize" type="int" value="24"/>
     <property name="DecorationLayout" type="empty"/>
     <property name="IMPreeditStyle" type="empty"/>
