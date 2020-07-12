@@ -5,7 +5,7 @@ if [ -d "$HOME/data/workspace/touk/bin" ]; then
   PATH=$PATH:$HOME/data/workspace/touk/bin
 fi
 
-PATH=$PATH:$HOME/.gem/ruby/2.6.0/bin
+PATH=$PATH:$HOME/.gem/ruby/2.7.0/bin
 
 export JAVA_HOME=/usr/lib/jvm/default
 

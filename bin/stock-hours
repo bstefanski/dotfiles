@@ -1,0 +1,45 @@
+#!/bin/ruby
+# frozen_string_literal: true
+
+require 'tzinfo'
+require 'colorize'
+
+def local_now(tz_string)
+  tz = TZInfo::Timezone.get(tz_string)
+  Time.now.getlocal(tz.current_period.offset.utc_total_offset)
+end
+
+def color(from, to, tz_string, str)
+  n = local_now(tz_string).strftime('%R')
+  if local_now(tz_string).saturday? || local_now(tz_string).sunday?
+    str.red
+  elsif n < from || n > to
+    str.red
+  else
+    str.green
+  end
+end
+
+stocks = [
+  {tz: 'America/New_York', name: 'New York, United States', from: '09:30', to: '16:00'},
+  {tz: 'Europe/London', name: 'London, United Kingdom', from: '08:00', to: '16:30'},
+  {tz: 'Europe/Warsaw', name: 'Warsaw, Poland', from: '09:00', to: '16:50'},
+  {tz: 'Europe/Berlin', name: 'Frankfurt, Germany', from: '09:00', to: '17:30'},
+  {tz: 'Europe/Zurich', name: 'Zurich, Switzerland', from: '09:30', to: '17:00'},
+  {tz: 'Europe/Moscow', name: 'Moscow, Russia', from: '09:30', to: '19:00'},
+  {tz: 'Asia/Hong_Kong', name: 'Hong Kong', from: '09:00', to: '16:10'},
+  {tz: 'Asia/Shanghai', name: 'Shanghai, China', from: '09:15', to: '15:30'},
+  {tz: 'Asia/Singapore', name: 'Singapore', from: '09:00', to: '17:00'},
+  {tz: 'Asia/Tokyo', name: 'Tokyo, Japan', from: '09:00', to: '15:00'},
+  {tz: 'Australia/Sydney', name: 'Sydney, Australia', from: '10:15', to: '16:15'}
+]
+
+stocks.each do |stock|
+  str = "%-30s %s (%s - %s)" % [
+    stock[:name],
+    local_now(stock[:tz]).strftime('%a %d %b %R'),
+    stock[:from],
+    stock[:to]
+  ]
+  puts color(stock[:from], stock[:to], stock[:tz], str)
+end

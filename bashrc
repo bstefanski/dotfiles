@@ -122,5 +122,3 @@ if [ -e /usr/share/terminfo/x/xterm-256color ] && [ "$COLORTERM" == "xfce4-termi
 fi
 
 export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true'
-
-. /home/bartekmanj/.rvm/scripts/rvm

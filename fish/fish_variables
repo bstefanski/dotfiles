@@ -70,7 +70,7 @@ SETUVAR pure_color_git_unpushed_commits:pure_color_info
 SETUVAR pure_color_info:cyan
 SETUVAR pure_color_jobs:pure_color_normal
 SETUVAR pure_color_light:white
-SETUVAR --export pure_color_mute:\x1b\x5b38\x3b5\x3b247m
+SETUVAR --export pure_color_mute:\x1b\x5b38\x3b2\x3b147\x3b161\x3b161m
 SETUVAR pure_color_normal:normal
 SETUVAR pure_color_primary:blue
 SETUVAR pure_color_prompt_on_error:pure_color_danger

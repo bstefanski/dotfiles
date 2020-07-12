@@ -1,7 +1,7 @@
 {
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Material Theme Palenight",
+    "workbench.colorTheme": "Community Material Theme Palenight",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "editor.fontFamily": "Hack",
     "editor.lineHeight": 22,
@@ -34,4 +34,6 @@
     "extensions.ignoreRecommendations": false,
     "diffEditor.renderSideBySide": true,
     "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.preferredDarkColorTheme": "Material Theme Palenight",
+    "tabnine.experimentalAutoImports": true,
 }
