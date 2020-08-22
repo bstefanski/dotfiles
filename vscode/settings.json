@@ -36,4 +36,12 @@
     "diffEditor.ignoreTrimWhitespace": true,
     "workbench.preferredDarkColorTheme": "Material Theme Palenight",
     "tabnine.experimentalAutoImports": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vs-kubernetes.helm-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/draft/linux-amd64/draft"
+    },
 }
