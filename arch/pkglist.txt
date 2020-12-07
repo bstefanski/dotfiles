@@ -1,5 +1,6 @@
 acpid
 adobe-source-sans-pro-fonts
+alacritty
 android-tools
 ansible
 ant
@@ -58,7 +59,6 @@ ethtool
 evince
 exa
 exo-gtk3
-extundelete
 fakeroot
 fd
 ffmpegthumbnailer
@@ -89,6 +89,7 @@ gimp
 gimp-help-en
 git
 gitg
+glances
 glib2-docs
 glibc
 gnome-disk-utility
@@ -116,6 +117,7 @@ gvfs-mtp
 gvfs-smb
 gvim
 gzip
+hardcode-fixer
 haveged
 hdparm
 hostapd
@@ -144,7 +146,8 @@ jdk8-openjdk
 jemalloc
 jfsutils
 jq
-keyboardctl
+kdiff3
+kubectl
 less
 lib32-gtk2
 lib32-mesa-demos
@@ -235,10 +238,11 @@ openresolv
 openssh
 orage
 os-prober
-otf-fira-code
+p7zip
 pacman
 pamac-gtk
 papirus-icon-theme
+parallel
 parcellite
 parted
 patch
@@ -250,8 +254,8 @@ perl-image-exiftool
 perl-net-oauth
 perl-rename
 perl-xml-xpath
+picom
 pkgbrowser
-pkgcacheclean
 pkgconf
 pkgfile
 plank

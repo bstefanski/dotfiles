@@ -2,7 +2,7 @@
 ColorForeground=#959DCB
 ColorCursor=#ffffcbcb6b6b
 ColorPalette=#292D3E;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#959DCB;#676E95;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
-FontName=Hack 10
+FontName=Iosevka Term Medium 12
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=FALSE

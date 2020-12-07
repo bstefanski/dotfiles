@@ -3,7 +3,6 @@
     "telemetry.enableTelemetry": false,
     "workbench.colorTheme": "Community Material Theme Palenight",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
-    "editor.fontFamily": "Hack",
     "editor.lineHeight": 22,
     "explorer.decorations.badges": false,
     "editor.wordWrap": "on",
@@ -44,4 +43,9 @@
         "vs-kubernetes.helm-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/helm/linux-amd64/helm",
         "vs-kubernetes.draft-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/draft/linux-amd64/draft"
     },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Iosevka",
 }
