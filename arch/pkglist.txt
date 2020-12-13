@@ -115,7 +115,6 @@ gvfs-afc
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
-gvim
 gzip
 hardcode-fixer
 haveged
@@ -215,6 +214,7 @@ mpv
 nbd
 ncdu
 ndiswrapper-utils
+neovim
 netctl
 nethogs
 network-manager-applet
@@ -343,8 +343,6 @@ usbutils
 util-linux
 vi
 viewnior
-vim-spell-en
-vim-spell-pl
 virtualbox
 visualvm
 vlc

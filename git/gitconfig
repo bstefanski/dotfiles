@@ -73,7 +73,7 @@
 [apply]
     whitespace = nowarn
 [core]
-    editor = vim
+    editor = nvim
     pager = less -r
     excludesfile = /home/bartekmanj/.gitignore_global
 [push]

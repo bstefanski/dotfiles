@@ -31,6 +31,7 @@ libgksu
 lightdm-webkit2-theme-material2
 locale-info
 musixmatch-bin
+neovim-plug
 noisetorch-bin
 obinskit
 origin-client-bin
