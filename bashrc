@@ -122,3 +122,5 @@ if [ -e /usr/share/terminfo/x/xterm-256color ] && [ "$COLORTERM" == "xfce4-termi
 fi
 
 export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true'
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
