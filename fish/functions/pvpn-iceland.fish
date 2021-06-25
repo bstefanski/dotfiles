@@ -1,4 +1,4 @@
 function pvpn-iceland
-    sudo protonvpn c --cc IS
+    protonvpn-cli c --cc IS
     pvpns
 end

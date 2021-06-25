@@ -1,4 +1,4 @@
 function pvpn-switzerland
-    sudo protonvpn c --cc CH
+    protonvpn-cli c --cc CH
     pvpns
 end

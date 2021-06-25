@@ -1,4 +1,4 @@
 function pvpn-sweden
-    sudo protonvpn c --cc SE
+    protonvpn-cli c --cc SE
     pvpns
 end

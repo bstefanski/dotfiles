@@ -1,4 +1,4 @@
 function pvpn
-	sudo protonvpn c --fastest
+	protonvpn-cli c --fastest
 	pvpns
 end

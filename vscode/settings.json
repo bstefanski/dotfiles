@@ -1,51 +1,57 @@
 {
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Community Material Theme Palenight",
-    "workbench.iconTheme": "eq-material-theme-icons-palenight",
-    "editor.lineHeight": 22,
-    "explorer.decorations.badges": false,
-    "editor.wordWrap": "on",
-    "files.autoSave": "onFocusChange",
-    "editor.wordWrapColumn": 120,
-    "editor.cursorBlinking": "phase",
-    "editor.minimap.enabled": false,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "window.menuBarVisibility": "toggle",
-    "workbench.sideBar.location": "left",
-    "workbench.statusBar.visible": true,
-    "workbench.statusBar.feedback.visible": false,
-    "workbench.activityBar.visible": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "breadcrumbs.enabled": true,
-    "window.zoomLevel": 0,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "window.titleBarStyle": "native",
-    "explorer.confirmDelete": false,
-    "editor.renderControlCharacters": false,
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "editor.cursorStyle": "block",
-    "workbench.editor.tabSizing": "shrink",
-    "extensions.ignoreRecommendations": false,
-    "diffEditor.renderSideBySide": true,
-    "diffEditor.ignoreTrimWhitespace": true,
-    "workbench.preferredDarkColorTheme": "Material Theme Palenight",
-    "tabnine.experimentalAutoImports": true,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "vs-kubernetes": {
-        "vs-kubernetes.minikube-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
-        "vs-kubernetes.helm-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/helm/linux-amd64/helm",
-        "vs-kubernetes.draft-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/draft/linux-amd64/draft"
-    },
-    "[yaml]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.fontSize": 16,
-    "editor.fontFamily": "Iosevka",
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Community Material Theme Palenight",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "editor.lineHeight": 22,
+  "explorer.decorations.badges": false,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrapColumn": 120,
+  "editor.cursorBlinking": "phase",
+  "editor.minimap.enabled": false,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "window.menuBarVisibility": "toggle",
+  "workbench.sideBar.location": "left",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "breadcrumbs.enabled": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "window.titleBarStyle": "native",
+  "explorer.confirmDelete": false,
+  "editor.renderControlCharacters": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.cursorStyle": "block",
+  "workbench.editor.tabSizing": "shrink",
+  "extensions.ignoreRecommendations": false,
+  "diffEditor.renderSideBySide": true,
+  "workbench.preferredDarkColorTheme": "Material Theme Palenight",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vs-kubernetes": {
+    "vs-kubernetes.minikube-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+    "vs-kubernetes.helm-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vs-kubernetes.draft-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/draft/linux-amd64/draft"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 17,
+  "editor.fontFamily": "Iosevka",
+  "editor.trimAutoWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "workbench.editor.untitled.hint": "default",
+  "workbench.editorAssociations": {},
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontLigatures": true,
+  "window.zoomLevel": 1,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontSize": 17
 }

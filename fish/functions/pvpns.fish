@@ -1,3 +1,3 @@
 function pvpns
-    protonvpn s
+    protonvpn-cli s
 end

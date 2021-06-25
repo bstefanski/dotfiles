@@ -1,3 +1,3 @@
 function pvpnd
-    sudo protonvpn d
+    protonvpn-cli d
 end

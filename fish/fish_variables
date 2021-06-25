@@ -1,17 +1,5 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR FZF_ALT_C_COMMAND:fd\x20\x2d\x2dtype\x20d
-SETUVAR FZF_CD_COMMAND:fd\x20\x2d\x2dtype\x20d
-SETUVAR FZF_CD_WITH_HIDDEN_COMMAND:fd\x20\x2d\x2dtype\x20d\x20\x2d\x2dhidden
-SETUVAR FZF_DEFAULT_OPTS:\x2d\x2dheight\x2040\x25
-SETUVAR FZF_DISABLE_KEYBINDINGS:0
-SETUVAR FZF_ENABLE_OPEN_PREVIEW:0
-SETUVAR FZF_FIND_FILE_COMMAND:fd\x20\x2d\x2dtype\x20f
-SETUVAR FZF_LEGACY_KEYBINDINGS:1
-SETUVAR FZF_PREVIEW_DIR_CMD:ls
-SETUVAR FZF_PREVIEW_FILE_CMD:head\x20\x2dn\x2010
-SETUVAR FZF_TMUX:0
-SETUVAR FZF_TMUX_HEIGHT:40\x25
 SETUVAR --export LESS_TERMCAP_md:\x1b\x5b01\x3b31m
 SETUVAR --export LESS_TERMCAP_me:\x1b\x5b0m
 SETUVAR --export LESS_TERMCAP_se:\x1b\x5b0m
@@ -29,11 +17,11 @@ SETUVAR __fish_init_2_39_8:\x1d
 SETUVAR __fish_init_2_3_0:\x1d
 SETUVAR __fish_init_3_x:\x1d
 SETUVAR __fish_initialized:3100
+SETUVAR _fisher_PatrickF1_2F_fzf_2E_fish_files:/home/bartekmanj/\x2econfig/fish/functions/_fzf_configure_bindings_help\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_extract_var_info\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_preview_file\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_report_file_type\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_search_directory\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_search_git_log\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_search_git_status\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_search_history\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_fzf_search_variables\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fzf_configure_bindings\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/fzf\x2efish\x1e/home/bartekmanj/\x2econfig/fish/completions/fzf_configure_bindings\x2efish
 SETUVAR _fisher_fisherman_2F_done_files:/home/bartekmanj/\x2econfig/fish/conf\x2ed/done\x2efish
-SETUVAR _fisher_fisherman_2F_fzf_files:/home/bartekmanj/\x2econfig/fish/functions/__fzf_cd\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_complete\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_complete_preview\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_find_file\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_get_dir\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_open\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_parse_commandline\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzf_reverse_isearch\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__fzfcmd\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/fzf\x2efish
 SETUVAR _fisher_fisherman_2F_z_files:/home/bartekmanj/\x2econfig/fish/functions/__z\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/z\x2efish
-SETUVAR _fisher_plugins:fisherman/done\x1efisherman/fzf\x1efisherman/z\x1erafaelrinaldi/pure
-SETUVAR _fisher_rafaelrinaldi_2F_pure_files:/home/bartekmanj/\x2econfig/fish/functions/_pure_check_for_new_release\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_format_time\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_get_prompt_symbol\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_parse_directory\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_parse_git_branch\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_place_iterm2_prompt_mark\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_print_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_beginning\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_command_duration\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_current_folder\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ending\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_first_line\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_branch\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_dirty\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_pending_commits\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_stash\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_jobs\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_new_line\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ssh\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ssh_host\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ssh_separator\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ssh_user\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_symbol\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_system_time\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_vimode\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_virtualenv\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_set_color\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_set_default\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_string_width\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_greeting\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_title\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/_pure_init\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/pure\x2efish
+SETUVAR _fisher_plugins:fisherman/done\x1efisherman/z\x1erafaelrinaldi/pure\x1ePatrickF1/fzf\x2efish
+SETUVAR _fisher_rafaelrinaldi_2F_pure_files:/home/bartekmanj/\x2econfig/fish/functions/_pure_check_for_new_release\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_format_time\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_get_prompt_symbol\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_is_inside_container\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_is_single_line_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_parse_directory\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_parse_git_branch\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_place_iterm2_prompt_mark\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prefix_root_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_print_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_print_prompt_rows\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_beginning\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_command_duration\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_container\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_current_folder\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ending\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_first_line\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_branch\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_dirty\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_pending_commits\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_git_stash\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_jobs\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_new_line\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_ssh\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_symbol\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_system_time\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_vimode\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_prompt_virtualenv\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_set_color\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_set_default\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_string_width\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/_pure_user_at_host\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_greeting\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_mode_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_prompt\x2efish\x1e/home/bartekmanj/\x2econfig/fish/functions/fish_title\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/_pure_init\x2efish\x1e/home/bartekmanj/\x2econfig/fish/conf\x2ed/pure\x2efish
 SETUVAR fish_color_autosuggestion:555\x1eyellow
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7\x1epurple
@@ -64,21 +52,27 @@ SETUVAR fish_pager_color_description:555\x1eyellow
 SETUVAR fish_pager_color_prefix:cyan
 SETUVAR fish_pager_color_progress:cyan
 SETUVAR fish_user_paths:/home/bartekmanj/\x2efzf/bin
+SETUVAR fzf_fd_opts:\x2d\x2dhidden\x1e\x2d\x2dexclude\x3d\x2egit
+SETUVAR fzf_preview_dir_cmd:exa\x1e\x2d\x2dall\x1e\x2d\x2dcolor\x3dalways
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_check_for_new_release:false
+SETUVAR pure_color_at_sign:pure_color_mute
 SETUVAR pure_color_command_duration:pure_color_warning
 SETUVAR pure_color_current_directory:pure_color_primary
 SETUVAR pure_color_danger:red
 SETUVAR pure_color_dark:black
 SETUVAR pure_color_git_branch:pure_color_mute
 SETUVAR pure_color_git_dirty:pure_color_mute
+SETUVAR pure_color_git_stash:pure_color_info
 SETUVAR pure_color_git_unpulled_commits:pure_color_info
 SETUVAR pure_color_git_unpushed_commits:pure_color_info
+SETUVAR pure_color_hostname:pure_color_mute
 SETUVAR pure_color_info:cyan
 SETUVAR pure_color_jobs:pure_color_normal
 SETUVAR pure_color_light:white
 SETUVAR --export pure_color_mute:\x1b\x5b38\x3b2\x3b147\x3b161\x3b161m
 SETUVAR pure_color_normal:normal
+SETUVAR pure_color_prefix_root_prompt:pure_color_danger
 SETUVAR pure_color_primary:blue
 SETUVAR pure_color_prompt_on_error:pure_color_danger
 SETUVAR pure_color_prompt_on_success:pure_color_success
@@ -88,18 +82,23 @@ SETUVAR pure_color_ssh_user_normal:pure_color_mute
 SETUVAR pure_color_ssh_user_root:pure_color_light
 SETUVAR --export pure_color_success:\x1b\x5b32m
 SETUVAR pure_color_system_time:pure_color_mute
+SETUVAR pure_color_username_normal:pure_color_mute
+SETUVAR pure_color_username_root:pure_color_light
 SETUVAR pure_color_virtualenv:pure_color_mute
 SETUVAR pure_color_warning:yellow
 SETUVAR pure_enable_git:true
+SETUVAR pure_enable_single_line_prompt:false
 SETUVAR pure_reverse_prompt_symbol_in_vimode:true
 SETUVAR pure_separate_prompt_on_error:false
 SETUVAR pure_show_jobs:false
+SETUVAR pure_show_prefix_root_prompt:false
 SETUVAR pure_show_subsecond_command_duration:false
 SETUVAR pure_show_system_time:false
 SETUVAR pure_symbol_git_dirty:\x2a
 SETUVAR pure_symbol_git_stash:\u2261
 SETUVAR pure_symbol_git_unpulled_commits:\u21e3
 SETUVAR pure_symbol_git_unpushed_commits:\u21e1
+SETUVAR pure_symbol_prefix_root_prompt:\x23
 SETUVAR pure_symbol_prompt:\u276f
 SETUVAR pure_symbol_reverse_prompt:\u276e
 SETUVAR pure_symbol_title_bar_separator:\u2014
