@@ -9,7 +9,6 @@ Plug 'scrooloose/nerdcommenter'         " Awesome Commenting
 Plug 'vim-scripts/auto-pairs-gentle'    " Add brackets automatically
 Plug 'vim-scripts/autoswap.vim'         " Handle swap files intelligently
 Plug 'sheerun/vim-polyglot'             " Mega language support pack
-Plug 'drewtempelmeyer/palenight.vim'    " Fantastic colors
 Plug 'liuchengxu/vista.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'sainnhe/edge'
@@ -30,6 +29,7 @@ Plug 'janko-m/vim-test'                 " Running tests
 Plug 'airblade/vim-gitgutter'           " Git gutter
 Plug 'junegunn/vim-easy-align'          " Align things
 Plug 'mattn/emmet-vim'                  " Expanding abbreviations
-Plug 'drewtempelmeyer/palenight.vim'
+Plug 'Mofiqul/dracula.nvim'
+Plug 'dracula/vim', { 'as': 'draculaV' }
 
 call plug#end()

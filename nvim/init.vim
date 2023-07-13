@@ -25,15 +25,13 @@ if has('nvim') || has('termguicolors')
   set termguicolors
 endif
 
-" Colorscheme
-set background=dark
-colorscheme palenight
+
 
 set mouse=a
 set cursorline                  " Highlight the current line
 set lazyredraw                  " Faster scrolling
 set number                      " Show line number
-set relativenumber              " Show relative line number
+"  set relativenumber              " Show relative line number
 set showcmd                     " Show current command
 set showmode                    " Show current mode
 set wildmode=longest:list,full  " Autocomplete

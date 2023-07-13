@@ -1,7 +1,7 @@
 {
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
-  "workbench.colorTheme": "Community Material Theme Palenight",
+  "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "eq-material-theme-icons-palenight",
   "editor.lineHeight": 22,
   "explorer.decorations.badges": false,

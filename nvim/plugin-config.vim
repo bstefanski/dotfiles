@@ -44,7 +44,7 @@ let NERDTreeIgnore = ['node_modules', 'tmp', 'bower_components']
 " Don't want to see the extra text
 let NERDTreeMinimalUI = 1
 " Close NERDTree after reading file
-autocmd BufReadPre,FileReadPre * :NERDTreeClose
+" autocmd BufReadPre,FileReadPre * :NERDTreeClose
 map <silent> <leader>n :NERDTreeToggle<CR>
 
 
@@ -57,7 +57,8 @@ nmap <silent> <leader>a :TestSuite<CR>
 nmap <silent> <leader>l :TestLast<CR>
 nmap <silent> <leader>g :TestVisit<CR>
 
-let g:lightline = { 'colorscheme': 'palenight' }
+colorscheme dracula
+let g:lightline = { 'colorscheme': 'dracula' }
 
 " How each level is indented and what to prepend.
 " This could make the display more compact or more spacious.
