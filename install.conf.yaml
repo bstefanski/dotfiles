@@ -4,26 +4,25 @@
     ~/.gitignore_global: git/gitignore_global
     ~/.tmux.conf: tmux/tmux.conf
     ~/bin: bin
-    ~/.bashrc: bashrc
-    ~/.profile: profile
+    # ~/.bashrc: bashrc
+    # ~/.profile: profile
     ~/.aliases: aliases
-    ~/.gemrc: gemrc
-    ~/.irbrc: irbrc
-    ~/.pryrc: pryrc
+    # ~/.gemrc: gemrc
+    # ~/.irbrc: irbrc
+    # ~/.pryrc: pryrc
     ~/.tigrc: tigrc
-    ~/.yaourtrc: yaourtrc
+    # ~/.yaourtrc: yaourtrc
     ~/.config/fish: fish
-    ~/.config/redshift.conf: redshift.conf
-    ~/.config/autostart: xfce/autostart
-    ~/.config/xfce4/xfconf: xfce/xfconf
-    ~/.config/xfce4/terminal: xfce/terminal
-    ~/.config/parcellite: parcellite
-    ~/.config/plank: plank
+    # ~/.config/redshift.conf: redshift.conf
+    # ~/.config/autostart: xfce/autostart
+    # ~/.config/xfce4/xfconf: xfce/xfconf
+    # ~/.config/xfce4/terminal: xfce/terminal
+    # ~/.config/parcellite: parcellite
+    # ~/.config/plank: plank
     ~/.config/mpv: mpv
-    ~/.config/autokey: autokey
     ~/.config/Code/User/settings.json: vscode/settings.json
-    /etc/lightdm/lightdm.conf: lightdm/lightdm.conf
-    /etc/lightdm/slick-greeter.conf: lightdm/slick-greeter.conf
+    # /etc/lightdm/lightdm.conf: lightdm/lightdm.conf
+    # /etc/lightdm/slick-greeter.conf: lightdm/slick-greeter.conf
     ~/.alacritty.yml: alacritty.yml
     ~/.config/nvim: nvim
 - shell:

@@ -1,12 +1,15 @@
 #!/bin/sh
 
+# PATH=$PATH:$HOME/bin
+# if [ -d "$HOME/.local/share/gem/ruby/3.0.0/bin" ]; then
+#   PATH=$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin
+# fi
+# export PATH=$PATH
 
-PATH=$PATH:$HOME/.gem/ruby/2.7.0/bin
+# export JAVA_HOME=/usr/lib/jvm/default
 
-export JAVA_HOME=/usr/lib/jvm/default
+# export EDITOR="/usr/bin/nvim"
 
-export EDITOR="/usr/bin/nvim"
+# export BROWSER=/usr/bin/xdg-open
 
-export BROWSER=/usr/bin/xdg-open
-
-[ -f ~/.bashrc ] && . ~/.bashrc
+# [ -f ~/.bashrc ] && . ~/.bashrc

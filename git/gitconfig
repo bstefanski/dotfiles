@@ -38,11 +38,6 @@
     llog = log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --date=iso
     changelog = log --pretty=format:'%Cgreen%d %Creset%s' --date=iso
 
-    anychanges = !sh -c 'git fetch' && git log --oneline HEAD..origin/$1
-    anychangesonmaster = !sh -c 'git fetch' && git log --oneline HEAD..origin/master
-    whoischanging = !sh -c 'git shortlog HEAD..origin/$0'
-    whoischangingmaster = !sh -c 'git shortlog HEAD..origin/master'
-
     showtags = show-ref --tags
     pushtags = push --tags
 
@@ -73,13 +68,17 @@
 [core]
     editor = nvim
     pager = less -r
-    excludesfile = /home/bartekmanj/.gitignore_global
+    excludesfile = /home/bartek/.gitignore_global
+[fetch]
+    prune = true
 [push]
     default = simple
 [mergetool]
     keepBackup = false
 [merge]
     tool = kdiff3
+[rebase]
+    updateRefs = true
 [help]
     autocorrect = 1
 [mergetool "kdiff3NoAuto"]

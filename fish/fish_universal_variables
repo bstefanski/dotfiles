@@ -7,8 +7,8 @@ SET_EXPORT LESS_TERMCAP_ue:\x1b\x5b0m
 SET_EXPORT LESS_TERMCAP_us:\x1b\x5b01\x3b32m
 SET ZO_CMD:zo
 SET Z_CMD:z
-SET Z_DATA:/home/bartekmanj/\x2ez
-SET Z_EXCLUDE:/home/bartekmanj
+SET Z_DATA:/home/bartek/\x2ez
+SET Z_EXCLUDE:/home/bartek
 SET __fish_classic_git_prompt_initialized:\x1d
 SET __fish_init_1_50_0:\x1d
 SET __fish_init_2_39_8:\x1d

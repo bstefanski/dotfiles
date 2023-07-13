@@ -10,4 +10,7 @@ set -xU LESS_TERMCAP_so (printf "\e[01;44;33m")
 set -xU LESS_TERMCAP_ue (printf "\e[0m")
 set -xU LESS_TERMCAP_us (printf "\e[01;32m")
 
+source /opt/asdf-vm/asdf.fish
+source ~/.asdf/plugins/java/set-java-home.fish
+
 set fish_greeting

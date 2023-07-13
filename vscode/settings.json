@@ -1,21 +1,15 @@
 {
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
   "workbench.colorTheme": "Dracula",
-  "workbench.iconTheme": "eq-material-theme-icons-palenight",
   "editor.lineHeight": 22,
   "explorer.decorations.badges": false,
   "editor.wordWrap": "on",
   "files.autoSave": "onFocusChange",
   "editor.wordWrapColumn": 120,
   "editor.cursorBlinking": "phase",
-  "editor.minimap.enabled": false,
-  "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "window.menuBarVisibility": "toggle",
   "workbench.sideBar.location": "left",
   "workbench.statusBar.visible": true,
-  "workbench.activityBar.visible": false,
   "workbench.startupEditor": "newUntitledFile",
   "breadcrumbs.enabled": true,
   "editor.multiCursorModifier": "ctrlCmd",
@@ -29,29 +23,55 @@
   "workbench.editor.tabSizing": "shrink",
   "extensions.ignoreRecommendations": false,
   "diffEditor.renderSideBySide": true,
-  "workbench.preferredDarkColorTheme": "Material Theme Palenight",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "vs-kubernetes": {
-    "vs-kubernetes.minikube-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
-    "vs-kubernetes.helm-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/helm/linux-amd64/helm",
-    "vs-kubernetes.draft-path.linux": "/home/bartekmanj/.vs-kubernetes/tools/draft/linux-amd64/draft"
+    "vs-kubernetes.minikube-path.linux": "/home/bartek/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+    "vs-kubernetes.helm-path.linux": "/home/bartek/.vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vs-kubernetes.draft-path.linux": "/home/bartek/.vs-kubernetes/tools/draft/linux-amd64/draft",
+    "vscode-kubernetes.helm-path.linux": "/home/bartek/.vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vscode-kubernetes.kubectl-path.linux": "/home/bartek/.vs-kubernetes/tools/kubectl/kubectl",
+    "vscode-kubernetes.minikube-path.linux": "/home/bartek/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
   },
   "[yaml]": {
+
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.fontSize": 17,
   "editor.fontFamily": "Iosevka",
   "editor.trimAutoWhitespace": true,
   "files.trimFinalNewlines": true,
-  "workbench.editor.untitled.hint": "default",
   "workbench.editorAssociations": {},
   "security.workspace.trust.untrustedFiles": "open",
   "editor.fontLigatures": true,
-  "window.zoomLevel": 1,
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "terminal.integrated.fontSize": 17
+  "terminal.integrated.fontSize": 17,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "telemetry.telemetryLevel": "off",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "errorLens.enabled": false,
+  "editor.rulers": [
+    120
+  ],
+  "java.imports.gradle.wrapper.checksums": [
+    {
+      "sha256": "453603155c74911fc4af44beba4960ca58093a5a2a39606cccbd12e3a14ae66a",
+      "allowed": true
+    }
+  ],
+  "languageTool.language": "pl",
+  "window.zoomLevel": 1,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.minimap.enabled": false,
+  "files.insertFinalNewline": true
 }
