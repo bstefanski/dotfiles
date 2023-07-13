@@ -1,9 +1,5 @@
 #!/bin/sh
 
-PATH=$PATH:$HOME/bin
-if [ -d "$HOME/data/workspace/touk/bin" ]; then
-  PATH=$PATH:$HOME/data/workspace/touk/bin
-fi
 
 PATH=$PATH:$HOME/.gem/ruby/2.7.0/bin
 

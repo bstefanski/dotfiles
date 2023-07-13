@@ -1,7 +1,5 @@
 [include]
     path = .gitconfig.local
-[includeIf "gitdir:~/data/workspace/touk/"]
-    path = .gitconfig.touk
 [user]
     name = Bartlomiej Stefanski
 [color]
